@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Noita Map</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.1/openseadragon.min.js"></script>
+
+    <style>
+        html, body, #viewer {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            background: black;
+        }
+    </style>
+</head>
+<body>
+
+<div id="viewer"></div>
+
+<script>
+
+const viewer = OpenSeadragon({
+    id: "viewer",
+    prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.1/images/"
+});
+
+// Load left first
+viewer.addTiledImage({
+    tileSource: "regular-main-branch-left-2025-01-25-786433191.dzi",
+    x: 0,
+    y: 0,
+    success: function(leftEvent)
+    {
+        const leftWidth = leftEvent.item.getContentSize().x;
+
+        // Middle
+        viewer.addTiledImage({
+            tileSource: "regular-main-branch-middle-2025-01-25-786433191.dzi",
+            x: 1,
+            y: 0,
+            width: 1,
+            success: function(middleEvent)
+            {
+                // Right
+                viewer.addTiledImage({
+                    tileSource: "regular-main-branch-right-2025-01-25-786433191.dzi",
+                    x: 2,
+                    y: 0,
+                    width: 1
+                });
+
+                viewer.viewport.goHome();
+            }
+        });
+    }
+});
+
+</script>
+
+</body>
+</html>

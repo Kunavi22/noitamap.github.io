@@ -1,0 +1,16 @@
+[
+    {
+        "id":"orbs",
+        "name":"Orbs"
+    },
+
+    {
+        "id":"bosses",
+        "name":"Bosses"
+    },
+
+    {
+        "id":"secrets",
+        "name":"Secrets"
+    }
+]

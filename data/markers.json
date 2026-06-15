@@ -1,0 +1,681 @@
+[
+ {
+    "title":"Kivi",
+
+    "description":"Kivi boss",
+
+    "layer":"Vanilla",
+
+    "sublayer": "vanilla_bosses",
+
+    "icon":"icons/Vanilla/kivi.png",
+
+    "tooltipImage":"icons/chest.webp",
+
+
+    "url":"https://google.com",
+
+    "x":7124,
+
+    "y": -4540    
+ },
+  {
+    "title":"legs",
+
+    "description":"Kivi boss",
+
+    "layer":"Vanilla",
+
+    "sublayer": "vanilla_bosses",
+
+    "icon":"icons/Vanilla/legs.png",
+
+    "tooltipImage":"icons/chest.webp",
+
+
+    "url":"https://google.com",
+
+    "x":9710,
+
+    "y": -800    
+ },
+  {
+    "title":"bridge",
+
+    "description":"Kivi boss",
+
+    "layer":"Vanilla",
+
+    "sublayer": "vanilla_bosses",
+
+    "icon":"icons/Vanilla/bridge.png",
+
+    "tooltipImage":"icons/chest.webp",
+
+
+    "url":"https://google.com",
+
+    "x":3800,
+
+    "y": 3500    
+ },
+  {
+    "title":"alchemist",
+
+    "description":"Kivi boss",
+
+    "layer":"Vanilla",
+
+    "sublayer": "vanilla_bosses",
+
+    "icon":"icons/Vanilla/alchemist.png",
+
+    "tooltipImage":"icons/chest.webp",
+
+
+    "url":"https://google.com",
+
+    "x":-5000,
+
+    "y": 850    
+ },
+  {
+    "title":"deer",
+
+    "description":"Kivi boss",
+
+    "layer":"Vanilla",
+
+    "sublayer": "vanilla_bosses",
+
+    "icon":"icons/Vanilla/deer.png",
+
+    "tooltipImage":"icons/chest.webp",
+
+
+    "url":"https://google.com",
+
+    "x":-13715,
+
+    "y": 140    
+ },
+  {
+    "title":"leviathan",
+
+    "description":"Kivi boss",
+
+    "layer":"Vanilla",
+
+    "sublayer": "vanilla_bosses",
+
+    "icon":"icons/Vanilla/leviathan.png",
+
+    "tooltipImage":"icons/chest.webp",
+
+
+    "url":"https://google.com",
+
+    "x":-14000,
+
+    "y": 10000    
+ },
+  {
+    "title":"forgotten",
+
+    "description":"Kivi boss",
+
+    "layer":"Vanilla",
+
+    "sublayer": "vanilla_bosses",
+
+    "icon":"icons/Vanilla/forgotten.png",
+
+    "tooltipImage":"icons/chest.webp",
+
+
+    "url":"https://google.com",
+
+    "x":-11580,
+
+    "y": 13160    
+ },
+  {
+    "title":"dragon",
+
+    "description":"Kivi boss",
+
+    "layer":"Vanilla",
+
+    "sublayer": "vanilla_bosses",
+
+    "icon":"icons/Vanilla/dragon.png",
+
+    "tooltipImage":"icons/chest.webp",
+
+
+    "url":"https://google.com",
+
+    "x":2150,
+
+    "y": 7550    
+ },
+  {
+    "title":"heart",
+
+    "description":"Kivi boss",
+
+    "layer":"Vanilla",
+
+    "sublayer": "vanilla_bosses",
+
+    "icon":"icons/Vanilla/heart.png",
+
+    "tooltipImage":"icons/chest.webp",
+
+
+    "url":"https://google.com",
+
+    "x":6666,
+
+    "y": 9999    
+ },
+  {
+    "title":"eye",
+
+    "description":"Kivi boss",
+
+    "layer":"Vanilla",
+
+    "sublayer": "vanilla_bosses",
+
+    "icon":"icons/Vanilla/eye.png",
+
+    "tooltipImage":"icons/chest.webp",
+
+
+    "url":"https://google.com",
+
+    "x":13777,
+
+    "y": 11000    
+ },
+  {
+    "title":"friend",
+
+    "description":"Kivi boss",
+
+    "layer":"Vanilla",
+
+    "sublayer": "vanilla_bosses",
+
+    "icon":"icons/Vanilla/friend.png",
+
+    "tooltipImage":"icons/chest.webp",
+
+
+    "url":"https://google.com",
+
+    "x":-10560,
+
+    "y": 4433    
+   },
+  {
+    "title":"door",
+
+    "description":"Kivi boss",
+
+    "layer":"Vanilla",
+
+    "sublayer": "vanilla_bosses",
+
+    "icon":"icons/Vanilla/door.png",
+
+    "tooltipImage":"icons/chest.webp",
+
+
+    "url":"https://google.com",
+
+    "x":2630,
+
+    "y": 11590    
+   },
+   {
+      "title":"kolmi",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_bosses",
+
+      "icon":"icons/Vanilla/kolmi.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":3340,
+
+      "y": 13010    
+   },
+   {
+      "title":"master",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_bosses",
+
+      "icon":"icons/Vanilla/master.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":12250,
+
+      "y": 15200    
+   },
+   {
+      "title":"tiny",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_bosses",
+
+      "icon":"icons/Vanilla/tiny.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":14500,
+
+      "y": 16500    
+   },
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"greedCurse",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":-1540,
+
+      "y": -430    
+   }
+   ,
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   },
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"Altar",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":600,
+
+      "y": -1200    
+   }
+ 
+]
