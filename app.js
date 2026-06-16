@@ -89,45 +89,25 @@ function noitaToViewport(
     noitaX,
     noitaY)
 {
-    let vpX = 0;
+     let vpX = 0;
+    let vpY = 0;
 
-    // LEFT
+    let xBias = - 53760.5071;
+    let xScale = 36352.4503;
 
-    if(noitaX < -17920)
-    {
-        vpX =
-            (noitaX + 53760)
-            / 35490
-            * 0.9859;
-    }
+    let yBias = - 31745.1622;
+    let yScale = 36352.4503;
 
-    // MIDDLE
 
-    else if(noitaX < 17920)
-    {
-        vpX =
-            0.9859 +
+        //vpx = (noitax - xbias) / xscale
 
-            (noitaX + 17920)
-            / 35490
-            * 0.9859;
-    }
+        //vpy = (noitay - ybias) / yscale
 
-    // RIGHT
+        vpX = (noitaX - xBias) / xScale;
 
-    else
-    {
-        vpX =
-            1.9718 +
 
-            (noitaX - 17920)
-            / 35490
-            * 0.9718;
-    }
+        vpY = (noitaY - yBias) / yScale;
 
-    const vpY =
-        (noitaY + 31745)
-        / 36352;
 
     return new OpenSeadragon.Point(
         vpX,
@@ -140,48 +120,24 @@ function viewportToNoita(
     vpY)
 {
 
-
     let noitaX = 0;
     let noitaY = 0;
 
-        // LEFT 109,087
-        if(vpX < 0.9859)
-        {
-            const local =
-                vpX / 0.9859;
+    let xBias = - 53760.5071;
+    let xScale = 36352.4503;
 
-            noitaX =
-                -53760 +
-                local * 35490;
-        }
+    let yBias = - 31745.1622;
+    let yScale = 36352.4503;
 
-        // MIDDLE
-        else if(vpX < 1.9718)
-        {
-            const local =
-                (vpX - 0.9859)
-                / 0.9859;
+        noitaX =
+            vpX * xScale + xBias;
 
-            noitaX =
-                -17920 +
-                local * 35490;
-        }
+s
 
-        // RIGHT
-        else
-        {
-            const local =
-                (vpX - 1.9718)
-                / 0.9718;
 
-            noitaX =
-                17920 +
-                local * 35490;
-        }
 
         noitaY =
-            -31745 +
-            vpY * 36352;
+            vpY * yScale + yBias
 
 
     return new OpenSeadragon.Point(
