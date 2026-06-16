@@ -15,7 +15,7 @@
 
     "url":"https://google.com",
 
-    "x":7124,
+    "x":7373,
 
     "y": -4540    
  },
@@ -35,7 +35,7 @@
 
     "url":"https://google.com",
 
-    "x":9710,
+    "x":9980,
 
     "y": -800    
  },
@@ -55,7 +55,7 @@
 
     "url":"https://google.com",
 
-    "x":3800,
+    "x":4030,
 
     "y": 3500    
  },
@@ -75,7 +75,7 @@
 
     "url":"https://google.com",
 
-    "x":-5000,
+    "x":-4850,
 
     "y": 850    
  },
@@ -95,7 +95,7 @@
 
     "url":"https://google.com",
 
-    "x":-13715,
+    "x":-13675,
 
     "y": 140    
  },
@@ -115,7 +115,7 @@
 
     "url":"https://google.com",
 
-    "x":-14000,
+    "x":-13960,
 
     "y": 10000    
  },
@@ -135,7 +135,7 @@
 
     "url":"https://google.com",
 
-    "x":-11580,
+    "x":-11520,
 
     "y": 13160    
  },
@@ -155,7 +155,7 @@
 
     "url":"https://google.com",
 
-    "x":2150,
+    "x":2340,
 
     "y": 7550    
  },
@@ -175,7 +175,7 @@
 
     "url":"https://google.com",
 
-    "x":6666,
+    "x":6920,
 
     "y": 9999    
  },
@@ -195,9 +195,9 @@
 
     "url":"https://google.com",
 
-    "x":13777,
+    "x":14080,
 
-    "y": 11000    
+    "y": 11095    
  },
   {
     "title":"friend",
@@ -215,7 +215,7 @@
 
     "url":"https://google.com",
 
-    "x":-10560,
+    "x":-10490,
 
     "y": 4433    
    },
@@ -235,7 +235,7 @@
 
     "url":"https://google.com",
 
-    "x":2630,
+    "x":2830,
 
     "y": 11590    
    },
@@ -255,7 +255,7 @@
 
       "url":"https://google.com",
 
-      "x":3340,
+      "x":3550,
 
       "y": 13010    
    },
@@ -275,7 +275,7 @@
 
       "url":"https://google.com",
 
-      "x":12250,
+      "x":12566,
 
       "y": 15200    
    },
@@ -295,7 +295,7 @@
 
       "url":"https://google.com",
 
-      "x":14500,
+      "x":14888,
 
       "y": 16500    
    },
@@ -315,7 +315,7 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":788,
 
       "y": -1200    
    }
@@ -336,13 +336,13 @@
 
       "url":"https://google.com",
 
-      "x":-1540,
+      "x":-1375,
 
       "y": -430    
    }
    ,
    {
-      "title":"Altar",
+      "title":"Barren Temple",
 
       "description":"Kivi boss",
 
@@ -357,13 +357,13 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":-5473,
 
-      "y": -1200    
+      "y": -5140    
    }
    ,
    {
-      "title":"Altar",
+      "title":"Henkeva Temple 'Spirited temple'",
 
       "description":"Kivi boss",
 
@@ -378,12 +378,12 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":-1800,
 
-      "y": -1200    
+      "y": -5000    
    },
    {
-      "title":"Altar",
+      "title":"Ominous Temple",
 
       "description":"Kivi boss",
 
@@ -398,13 +398,13 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":2777,
 
-      "y": -1200    
+      "y": -4700    
    }
    ,
    {
-      "title":"Altar",
+      "title":"Fungal Alter - Air",
 
       "description":"Kivi boss",
 
@@ -419,13 +419,13 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":5932,
 
-      "y": -1200    
+      "y": -4819    
    }
    ,
    {
-      "title":"Altar",
+      "title":"Gourd Cave",
 
       "description":"Kivi boss",
 
@@ -440,13 +440,13 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":-16160,
 
-      "y": -1200    
+      "y": -6320    
    }
    ,
    {
-      "title":"Altar",
+      "title":"Gold biome",
 
       "description":"Kivi boss",
 
@@ -461,13 +461,13 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":22850,
 
-      "y": -1200    
+      "y": -3430    
    }
    ,
    {
-      "title":"Altar",
+      "title":"Sun/Moon",
 
       "description":"Kivi boss",
 
@@ -482,13 +482,13 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":270,
 
-      "y": -1200    
+      "y": -25874    
    }
    ,
    {
-      "title":"Altar",
+      "title":"Outhouse",
 
       "description":"Kivi boss",
 
@@ -503,13 +503,13 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":9090,
 
-      "y": -1200    
+      "y": -1800    
    }
    ,
    {
-      "title":"Altar",
+      "title":"Desert skull, Eye",
 
       "description":"Kivi boss",
 
@@ -524,13 +524,13 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":7425,
 
-      "y": -1200    
+      "y": 0    
    }
    ,
    {
-      "title":"Altar",
+      "title":"Watchtower",
 
       "description":"Kivi boss",
 
@@ -545,13 +545,13 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":14070,
 
-      "y": -1200    
+      "y": -800    
    }
    ,
    {
-      "title":"Altar",
+      "title":"Scales",
 
       "description":"Kivi boss",
 
@@ -566,13 +566,13 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":13060,
 
-      "y": -1200    
+      "y": 0    
    }
    ,
    {
-      "title":"Altar",
+      "title":"Lake Island",
 
       "description":"Kivi boss",
 
@@ -587,13 +587,13 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":-14070,
 
-      "y": -1200    
+      "y": 200    
    }
    ,
    {
-      "title":"Altar",
+      "title":"Dark cave",
 
       "description":"Kivi boss",
 
@@ -608,13 +608,13 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":-1800,
 
-      "y": -1200    
+      "y": 740   
    }
    ,
    {
-      "title":"Altar",
+      "title":"Race track",
 
       "description":"Kivi boss",
 
@@ -629,13 +629,13 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":3200,
 
-      "y": -1200    
+      "y": 2300    
    }
    ,
    {
-      "title":"Altar",
+      "title":"Fungal Altar - Fungal Cavern",
 
       "description":"Kivi boss",
 
@@ -650,13 +650,13 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":-3330,
 
-      "y": -1200    
+      "y": 1850    
    }
    ,
    {
-      "title":"Altar",
+      "title":"Meditation Cube Room",
 
       "description":"Kivi boss",
 
@@ -671,13 +671,13 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":-4350,
 
-      "y": -1200    
+      "y": 2300    
    }
    ,
    {
-      "title":"Altar",
+      "title":"Big fungus - Desert Caves",
 
       "description":"Kivi boss",
 
@@ -692,13 +692,13 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":5900,
 
-      "y": -1200    
+      "y": 3300    
    }
    ,
    {
-      "title":"Altar",
+      "title":"Fungular altar - Overgrown Cavern",
 
       "description":"Kivi boss",
 
@@ -713,9 +713,892 @@
 
       "url":"https://google.com",
 
-      "x":600,
+      "x":15105,
 
-      "y": -1200    
+      "y": 1850    
    }
+      ,
+   {
+      "title":"Moon Radar Diamond",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":16130,
+
+      "y": 3330    
+   }
+      ,
+   {
+      "title":"Perk Removal Altar (Nullifying Altar)",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":14080,
+
+      "y": 7600    
+   }
+      ,
+   {
+      "title":"Fungal altar - Power plant",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":13055,
+
+      "y": 10040    
+   }
+      ,
+   {
+      "title":"Experimental Wand Diamond",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":16130,
+
+      "y": 10000    
+   }
+      ,
+   {
+      "title":"Fungular altar - Vault",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":-1280,
+
+      "y": 10050    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Tower Portal Diamond",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":10000,
+
+      "y": 4350    
+   }
+      ,
+   {
+      "title":"Averice Diamond",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":9470,
+
+      "y": 4325    
+   }
+      ,
+   {
+      "title":"Buried Eye Room",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":3820,
+
+      "y": 4350    
+   }
+      ,
+   {
+      "title":"Hourglass",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":-2220,
+
+      "y": 5252    
+   }
+      ,
+   {
+      "title":"Shop/Bathhouse – Hiisi base",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":-2340,
+
+      "y": 5480    
+   }
+         ,
+   {
+      "title":"Eye spell room",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":-3840,
+
+      "y": 4864    
+   }
+      ,
+   {
+      "title":"The Work",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":6400,
+
+      "y": 15125    
+   }
+      ,
+   {
+      "title":"End of Everything Room",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":-4860,
+
+      "y": 15120    
+   }
+      ,
+   {
+      "title":"Gold Biome (Under The Lake)",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":-14090,
+
+      "y": 16650    
+   }
+         ,
+   {
+      "title":"Dark Sun/Dark Moon",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":250,
+
+      "y": 37800    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+         ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+         ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+         ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+         ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+         ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+         ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+      ,
+   {
+      "title":"",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":15105,
+
+      "y": 1850    
+   }
+   
  
 ]

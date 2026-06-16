@@ -132,8 +132,6 @@ function viewportToNoita(
         noitaX =
             vpX * xScale + xBias;
 
-s
-
 
 
         noitaY =
