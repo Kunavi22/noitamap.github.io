@@ -8,7 +8,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"Icons/Vanilla/Bosses/kivi.png",
+   "icon":"icons/Vanilla/Bosses/kivi.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -28,7 +28,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"Icons/Vanilla/Bosses/legs.png",
+   "icon":"icons/Vanilla/Bosses/legs.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -48,7 +48,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"Icons/Vanilla/Bosses/bridge.png",
+   "icon":"icons/Vanilla/Bosses/bridge.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -68,7 +68,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"Icons/Vanilla/Bosses/alchemist.png",
+   "icon":"icons/Vanilla/Bosses/alchemist.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -88,7 +88,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"Icons/Vanilla/Bosses/deer.png",
+   "icon":"icons/Vanilla/Bosses/deer.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -108,7 +108,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"Icons/Vanilla/Bosses/leviathan.png",
+   "icon":"icons/Vanilla/Bosses/leviathan.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -128,7 +128,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"Icons/Vanilla/Bosses/forgotten.png",
+   "icon":"icons/Vanilla/Bosses/forgotten.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -148,7 +148,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"Icons/Vanilla/Bosses/dragon.png",
+   "icon":"icons/Vanilla/Bosses/dragon.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -168,7 +168,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"Icons/Vanilla/Bosses/heart.png",
+   "icon":"icons/Vanilla/Bosses/heart.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -188,7 +188,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"Icons/Vanilla/Bosses/eye.png",
+   "icon":"icons/Vanilla/Bosses/eye.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -208,7 +208,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"Icons/Vanilla/Bosses/friend.png",
+   "icon":"icons/Vanilla/Bosses/friend.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -228,7 +228,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"Icons/Vanilla/Bosses/door.png",
+   "icon":"icons/Vanilla/Bosses/door.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -248,7 +248,7 @@
 
       "sublayer": "vanilla_bosses",
 
-      "icon":"Icons/Vanilla/Bosses/kolmi.png",
+      "icon":"icons/Vanilla/Bosses/kolmi.png",
 
       "tooltipImage":"icons/chest.webp",
 
@@ -268,7 +268,7 @@
 
       "sublayer": "vanilla_bosses",
 
-      "icon":"Icons/Vanilla/Bosses/master.png",
+      "icon":"icons/Vanilla/Bosses/master.png",
 
       "tooltipImage":"icons/chest.webp",
 
@@ -288,7 +288,7 @@
 
       "sublayer": "vanilla_bosses",
 
-      "icon":"Icons/Vanilla/Bosses/tiny.png",
+      "icon":"icons/Vanilla/Bosses/tiny.png",
 
       "tooltipImage":"icons/chest.webp",
 

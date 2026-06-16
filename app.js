@@ -224,7 +224,7 @@ function createLayerButtons()
 {
     id:"Other",
 
-    icon:"icons/other.png",
+    icon:"icons/Other.png",
 
     sublayers:
     [
