@@ -1031,9 +1031,47 @@
       "x":250,
 
       "y": 37800    
-   }
+   },
+   {
+      "title":"Achivement Pillars",
 
-         ,
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":-1550,
+
+      "y": -1484    
+   },
+   {
+      "title":"Cauldrom room",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/chest.webp",
+
+
+      "url":"https://google.com",
+
+      "x":3846,
+
+      "y": 5370    
+   },
    {
       "title":"Beer",
 
@@ -1438,6 +1476,67 @@
       "x":14700,
 
       "y": -30    
+   },
+   {
+      "title":"Kiuaskivi",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/item_brimstone.webp",
+
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
+
+
+      "url":"https://google.com",
+
+      "x":-2235,
+
+      "y": 5518    
+   },
+   {
+      "title":"Kuu",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/item_moon.webp",
+
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
+
+
+      "url":"https://google.com",
+
+      "x":-1875,
+
+      "y": -75    
+   }
+   ,
+   {
+      "title":"Kantele",
+
+      "description":"Kivi boss",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/kantele.png",
+
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
+
+
+      "url":"https://google.com",
+
+      "x":-1633,
+
+      "y": -788    
    }
    
      
