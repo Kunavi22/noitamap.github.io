@@ -206,40 +206,75 @@ function createLayerButtons()
 
     sublayers:
     [
-        { id: "vanilla_bosses", label: "bosses" },
-        { id: "vanilla_structures", label: "structures" },
-        { id: "vanilla_items", label: "items" }
+        { id: "vanilla_bosses", label: "bosses" , icon:"icons/Star.png"},
+        { id: "vanilla_structures", label: "structures" , icon:"icons/Star.png"},
+        { id: "vanilla_items", label: "items", icon:"icons/Star.png" }
     ]
 },
 
 {
     id:"Apotheosis",
 
-    icon:"icons/Apotheosis.png"
+    icon:"icons/Apotheosis.png",
+
+    sublayers:
+    [
+        { id: "Apotheosis_bosses", label: "bosses" , icon:"icons/Star.png"},
+        { id: "Apotheosis_structures", label: "structures" , icon:"icons/Star.png"},
+        { id: "Apotheosis_items", label: "items", icon:"icons/Star.png" }
+    ]
 },
 
 {
     id:"Chemical curiosities",
 
-    icon:"icons/ChemicalCuriosities.png"
+    icon:"icons/ChemicalCuriosities.png",
+
+    sublayers:
+    [
+        { id: "vanilla_bosses", label: "bosses" , icon:"icons/Star.png"},
+        { id: "vanilla_structures", label: "structures" , icon:"icons/Star.png"},
+        { id: "vanilla_items", label: "items", icon:"icons/Star.png" }
+    ]
 },
 
 {
     id:"Graham's things",
 
-    icon:"icons/Graham.png"
+    icon:"icons/Graham.png",
+
+    sublayers:
+    [
+        { id: "vanilla_bosses", label: "bosses" , icon:"icons/Star.png"},
+        { id: "vanilla_structures", label: "structures" , icon:"icons/Star.png"},
+        { id: "vanilla_items", label: "items", icon:"icons/Star.png" }
+    ]
 },
 
 {
     id:"New enemies",
 
-    icon:"icons/NewEnemies2.png"
+    icon:"icons/NewEnemies2.png",
+
+    sublayers:
+    [
+        { id: "vanilla_bosses", label: "bosses" , icon:"icons/Star.png"},
+        { id: "vanilla_structures", label: "structures" , icon:"icons/Star.png"},
+        { id: "vanilla_items", label: "items", icon:"icons/Star.png" }
+    ]
 },
 
 {
     id:"Other",
 
-    icon:"icons/other.png"
+    icon:"icons/other.png",
+
+    sublayers:
+    [
+        { id: "vanilla_bosses", label: "bosses" , icon:"icons/Star.png"},
+        { id: "vanilla_structures", label: "structures" , icon:"icons/Star.png"},
+        { id: "vanilla_items", label: "items", icon:"icons/Star.png" }
+    ]
 }
 ];
 
@@ -247,9 +282,9 @@ function createLayerButtons()
         layer =>
         {
 
-             layer.sublayers.forEach(sub =>
+             layer.sublayers.forEach(sublayer =>
             {
-                sublayerStates[sub.id] = true;
+                sublayerStates[sublayer.id] = true;
             });
 
             const img =
@@ -257,33 +292,7 @@ function createLayerButtons()
                     "img"
                 );
 
-                img.addEventListener(
-                "mouseenter",
-                e =>
-                {
-                    showLabelTooltip(
-                        layer.id,
-                        e.clientX,
-                        e.clientY
-                    );
-                });
-
-            img.addEventListener(
-                "mousemove",
-                e =>
-                {
-                    showLabelTooltip(
-                        layer.id,
-                        e.clientX,
-                        e.clientY
-                    );
-                });
-
-            img.addEventListener(
-                "mouseleave",
-                hideTooltip
-            );
-                
+               
 
             img.src = layer.icon;
 
@@ -327,6 +336,23 @@ function createLayerButtons()
                         !enabled
                     );
                 };
+
+                img.addEventListener(
+                    "mouseenter",
+
+                    function()
+                    {
+                        showLayerTooltip(
+                            layer,
+                            img
+                        );
+                    });
+
+                img.addEventListener(
+                    "mouseleave",
+
+                    hideLayerTooltip
+                );
 
             root.appendChild(
                 img
@@ -498,11 +524,16 @@ function createMarker(data)
 
 
         markerObjects.push({
-        id: makeId(data.title),
-        layer: data.layer,
-        element: img,
-        location: location   // 🔥 MUST store this
-    });
+            id: makeId(data.title),
+
+            layer: data.layer,
+
+            sublayer: data.sublayer,
+
+            element: img,
+
+            location: location
+        });
 }
 
 function toggleLayer(layerName, visible)
@@ -515,6 +546,7 @@ function toggleLayer(layerName, visible)
         {
             if(visible)
             {
+               
                 viewer.addOverlay({
                     element: m.element,
                     location: m.location  // 🔥 reuse exact object
@@ -525,6 +557,8 @@ function toggleLayer(layerName, visible)
                 viewer.removeOverlay(m.element);
             }
         });
+
+         updateMarkerVisibility();
 }
 
 function showTooltip(data,x,y)
@@ -812,3 +846,311 @@ viewer.canvas.addEventListener(
             (event.clientY) + "px";
     }
 );
+
+function createSubLayerButton(layer, sublayer)
+{
+
+    const visible =
+    sublayerStates[sublayer] ?? true;
+
+    
+
+    const img =
+        document.createElement("img");
+
+    img.src =
+        sublayer.icon ??
+        layer.icon;
+
+    img.className =
+        "layerButton";
+
+         if(sublayerStates[sublayer.id])
+        {
+            img.classList.add(
+                "active"
+            );
+
+            img.classList.remove(
+                "inactive"
+            );
+        }
+        else
+        {
+            img.classList.remove(
+                "active"
+            );
+
+            img.classList.add(
+                "inactive"
+            );
+        }
+
+        img.addEventListener(
+    "mouseenter",
+
+
+    function(e)
+    {
+        showButtonTooltip(
+            sublayer.label ??
+            sublayer.id,
+
+            e.clientX,
+
+            e.clientY
+        );
+    });
+
+img.addEventListener(
+    "mousemove",
+
+    function(e)
+    {
+        showButtonTooltip(
+            sublayer.label ??
+            sublayer.id,
+
+            e.clientX,
+
+            e.clientY
+        );
+    });
+
+img.addEventListener(
+    "mouseleave",
+
+    hideButtonTooltip
+);
+
+    img.classList.add("active");
+
+    img.addEventListener(
+    "click",
+
+    function(e)
+    {
+        e.stopPropagation();
+
+        sublayerStates[sublayer.id] =
+            !sublayerStates[sublayer.id];
+
+        if(sublayerStates[sublayer.id])
+        {
+            img.classList.add(
+                "active"
+            );
+
+            img.classList.remove(
+                "inactive"
+            );
+        }
+        else
+        {
+            img.classList.remove(
+                "active"
+            );
+
+            img.classList.add(
+                "inactive"
+            );
+        }
+
+        updateMarkerVisibility();
+    });
+
+    return img;
+}
+
+function showLayerTooltip(
+    layer,
+    anchor)
+{
+
+    clearTimeout(
+    layerTooltipTimer
+);
+
+  if(currentLayer === layer.id)
+        return;
+
+    currentLayer =
+        layer.id;
+
+    const tooltip =
+        document.getElementById(
+            "layerTooltip"
+        );
+
+    tooltip.innerHTML = "";
+
+
+//     const enabled =
+//     img.classList.contains(
+//         "active"
+//     );
+
+// if (!enabled)
+    layer.sublayers.forEach(
+        sublayer =>
+        {
+            tooltip.appendChild(
+                createSubLayerButton(
+                    layer,
+                    sublayer
+                )
+            );
+        });
+      
+
+            const title =
+        document.createElement(
+            "div"
+        );
+
+        title.className =
+            "layerTooltipTitle";
+
+        title.innerText =
+            layer.id;
+
+        tooltip.appendChild(
+            title
+        );
+
+    const rect =
+        anchor.getBoundingClientRect();
+
+    tooltip.style.left =
+        rect.left + "px";
+
+    tooltip.style.top =
+        (rect.bottom + 8) + "px";
+
+    tooltip.classList.add(
+        "visible"
+    );
+}
+
+let layerTooltipTimer;
+
+function hideLayerTooltip()
+{
+    clearTimeout(
+        layerTooltipTimer
+    );
+
+    layerTooltipTimer =
+        setTimeout(
+            function()
+            {
+                currentLayer = null;
+
+                document
+                    .getElementById(
+                        "layerTooltip"
+                    )
+                    .classList
+                    .remove(
+                        "visible"
+                    );
+            },
+
+            150
+        );
+}
+
+const tooltip =
+    document.getElementById(
+        "layerTooltip"
+    );
+
+tooltip.addEventListener(
+    "mouseenter",
+
+    function()
+    {
+        clearTimeout(
+            layerTooltipTimer
+        );
+    });
+
+tooltip.addEventListener(
+    "mouseleave",
+
+    hideLayerTooltip
+);
+
+
+function updateMarkerVisibility()
+{
+    // markerObjects.forEach(m =>
+    // {
+    //     const visible =
+    //         sublayerStates[m.sublayer] ?? true;
+
+    //     m.element.style.display =
+    //         visible ? "block" : "none";
+    // });
+
+    
+    
+   markerObjects
+        .forEach(m =>
+        {
+
+            const layerVisible = layerStates[m.layer] ?? true;
+
+            const visible =
+            sublayerStates[m.sublayer] ?? true;
+
+            if(visible && layerVisible)
+            {
+               
+                viewer.addOverlay({
+                    element: m.element,
+                    location: m.location  // 🔥 reuse exact object
+                });
+            }
+            else
+            {
+                viewer.removeOverlay(m.element);
+            }
+        });
+
+}
+
+let currentLayer = null;
+
+function showButtonTooltip(
+    text,
+    x,
+    y)
+{
+    const tooltip =
+        document.getElementById(
+            "buttonTooltip"
+        );
+
+    tooltip.innerText =
+        text;
+
+    tooltip.style.display =
+        "block";
+
+    tooltip.style.left =
+        (x + 14) + "px";
+
+    tooltip.style.top =
+        (y - 28) + "px";
+}
+
+function hideButtonTooltip()
+{
+    document
+        .getElementById(
+            "buttonTooltip"
+        )
+        .style.display =
+        "none";
+}

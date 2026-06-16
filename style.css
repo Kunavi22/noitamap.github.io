@@ -254,3 +254,68 @@ body
 
     font-size: 14px;
 }
+
+
+#layerTooltip
+{
+    position: fixed;
+
+    display: none;
+
+    flex-wrap: wrap;
+
+    gap: 8px;
+
+    padding: 8px;
+
+    background: rgba(20,20,20,0.95);
+
+    border-radius: 8px;
+
+    z-index: 10000;
+}
+
+#layerTooltip.visible
+{
+    display: flex;
+}
+
+.layerTooltipTitle
+{
+    width:100%;
+
+    text-align:center;
+
+    color:white;
+
+    font-size:14px;
+
+    margin-top:6px;
+
+    opacity:0.9;
+}
+
+#buttonTooltip
+{
+    position: fixed;
+
+    display: none;
+
+    background: rgba(20,20,20,0.95);
+
+    color: white;
+
+    padding: 6px 10px;
+
+    border-radius: 6px;
+
+    text-align: center;
+
+    white-space: nowrap;
+
+    pointer-events: none;
+
+    z-index: 10001;
+
+    font-size: 13px;
+}
