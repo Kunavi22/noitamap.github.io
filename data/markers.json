@@ -8,7 +8,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"icons/Vanilla/kivi.png",
+    "icon":"Icons/Vanilla/Bosses/kivi.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -28,7 +28,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"icons/Vanilla/legs.png",
+    "icon":"Icons/Vanilla/Bosses/legs.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -48,7 +48,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"icons/Vanilla/bridge.png",
+    "icon":"Icons/Vanilla/Bosses/bridge.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -68,7 +68,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"icons/Vanilla/alchemist.png",
+    "icon":"Icons/Vanilla/Bosses/alchemist.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -88,7 +88,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"icons/Vanilla/deer.png",
+    "icon":"Icons/Vanilla/Bosses/deer.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -108,7 +108,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"icons/Vanilla/leviathan.png",
+    "icon":"Icons/Vanilla/Bosses/leviathan.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -128,7 +128,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"icons/Vanilla/forgotten.png",
+    "icon":"Icons/Vanilla/Bosses/forgotten.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -148,7 +148,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"icons/Vanilla/dragon.png",
+    "icon":"Icons/Vanilla/Bosses/dragon.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -168,7 +168,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"icons/Vanilla/heart.png",
+    "icon":"Icons/Vanilla/Bosses/heart.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -188,7 +188,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"icons/Vanilla/eye.png",
+    "icon":"Icons/Vanilla/Bosses/eye.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -208,7 +208,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"icons/Vanilla/friend.png",
+    "icon":"Icons/Vanilla/Bosses/friend.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -228,7 +228,7 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"icons/Vanilla/door.png",
+    "icon":"Icons/Vanilla/Bosses/door.png",
 
     "tooltipImage":"icons/chest.webp",
 
@@ -248,7 +248,7 @@
 
       "sublayer": "vanilla_bosses",
 
-      "icon":"icons/Vanilla/kolmi.png",
+      "icon":"Icons/Vanilla/Bosses/kolmi.png",
 
       "tooltipImage":"icons/chest.webp",
 
@@ -268,7 +268,7 @@
 
       "sublayer": "vanilla_bosses",
 
-      "icon":"icons/Vanilla/master.png",
+      "icon":"Icons/Vanilla/Bosses/master.png",
 
       "tooltipImage":"icons/chest.webp",
 
@@ -288,7 +288,7 @@
 
       "sublayer": "vanilla_bosses",
 
-      "icon":"icons/Vanilla/tiny.png",
+      "icon":"Icons/Vanilla/Bosses/tiny.png",
 
       "tooltipImage":"icons/chest.webp",
 
@@ -1032,573 +1032,414 @@
 
       "y": 37800    
    }
-      ,
-   {
-      "title":"",
 
-      "description":"Kivi boss",
-
-      "layer":"Vanilla",
-
-      "sublayer": "vanilla_structures",
-
-      "icon":"icons/Star.png",
-
-      "tooltipImage":"icons/chest.webp",
-
-
-      "url":"https://google.com",
-
-      "x":15105,
-
-      "y": 1850    
-   }
-      ,
-   {
-      "title":"",
-
-      "description":"Kivi boss",
-
-      "layer":"Vanilla",
-
-      "sublayer": "vanilla_structures",
-
-      "icon":"icons/Star.png",
-
-      "tooltipImage":"icons/chest.webp",
-
-
-      "url":"https://google.com",
-
-      "x":15105,
-
-      "y": 1850    
-   }
-      ,
-   {
-      "title":"",
-
-      "description":"Kivi boss",
-
-      "layer":"Vanilla",
-
-      "sublayer": "vanilla_structures",
-
-      "icon":"icons/Star.png",
-
-      "tooltipImage":"icons/chest.webp",
-
-
-      "url":"https://google.com",
-
-      "x":15105,
-
-      "y": 1850    
-   }
          ,
    {
-      "title":"",
+      "title":"Beer",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/beer.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":7625,
 
-      "y": 1850    
-   }
-      ,
+      "y": -4350    
+   },
    {
-      "title":"",
+      "title":"Ocarina",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/flute.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":-9986,
 
-      "y": 1850    
-   }
-      ,
+      "y": -6475    
+   },
    {
-      "title":"",
+      "title":"Essence of Air",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/essence_air.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":-13055,
 
-      "y": 1850    
-   }
-      ,
+      "y": -5380    
+   },
    {
-      "title":"",
+      "title":"Rainbow Trail Spell",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/rainbow_trail.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x": -14000,
 
-      "y": 1850    
-   }
-         ,
+      "y": -2860    
+   },
    {
-      "title":"",
+      "title":"Essence Of Fire",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/essence_fire.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x": -14063,
 
-      "y": 1850    
-   }
-      ,
+      "y": 370    
+   },
    {
-      "title":"",
+      "title":"Essence Of Spirits",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/essence_alcohol.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":-14080,
 
-      "y": 1850    
-   }
-      ,
+      "y": 13568    
+   },
    {
-      "title":"",
+      "title":"Essence Of Water",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/essence_water.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":-5380,
 
-      "y": 1850    
-   }
-      ,
+      "y": 16666    
+   },
    {
-      "title":"",
+      "title":"Music Box (Lake)",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/music_machine.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":-12187,
 
-      "y": 1850    
-   }
-         ,
+      "y": -384    
+   },
    {
-      "title":"",
+      "title":"Essence Eater (Snow Wasteland)",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/icon-orbs.webp",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":-9470,
 
-      "y": 1850    
-   }
-      ,
+      "y": -144    
+   },
    {
-      "title":"",
+      "title":"Music Box (Tree)",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/music_machine.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":-1905,
 
-      "y": 1850    
-   }
-      ,
+      "y": -1360    
+   },
    {
-      "title":"",
+      "title":"Evil Eye",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/evil_eye.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":-2435,
 
-      "y": 1850    
-   }
-      ,
+      "y": -200    
+   },
    {
-      "title":"",
+      "title":"Music Stone",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/musicstone.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":-3345,
 
-      "y": 1850    
-   }
-         ,
+      "y": 3345   
+   },
    {
-      "title":"",
+      "title":"Music Box (Pound)",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/music_machine.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":2800,
 
-      "y": 1850    
-   }
-      ,
+      "y": 280    
+   },
    {
-      "title":"",
+      "title":"Karl",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/karl.webp",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":3240,
 
-      "y": 1850    
-   }
-      ,
+      "y": 2400    
+   },
    {
-      "title":"",
+      "title":"Milk",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/milk.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":2438,
 
-      "y": 1850    
+      "y": -4490    
    }
-      ,
+   ,
    {
-      "title":"",
+      "title":"Milk",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/milk.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":2438,
 
-      "y": 1850    
+      "y": -4490    
    }
-         ,
+   ,
    {
-      "title":"",
+      "title":"Dark Chest",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/chest_dark.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":3838,
 
-      "y": 1850    
+      "y": 15612    
    }
-      ,
+   ,
    {
-      "title":"",
+      "title":"Coral Chest",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/chest_light.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":11005,
 
-      "y": 1850    
+      "y": -4868    
    }
-      ,
+   ,
    {
-      "title":"",
+      "title":"Essence Eater (Desert)",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/icon-orbs.webp",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":17666,
 
-      "y": 1850    
+      "y": 4    
    }
-      ,
+   ,
    {
-      "title":"",
+      "title":"Music Box (Desert)",
 
       "description":"Kivi boss",
 
       "layer":"Vanilla",
 
-      "sublayer": "vanilla_structures",
+      "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/music_machine.png",
 
-      "tooltipImage":"icons/chest.webp",
-
-
-      "url":"https://google.com",
-
-      "x":15105,
-
-      "y": 1850    
-   }
-         ,
-   {
-      "title":"",
-
-      "description":"Kivi boss",
-
-      "layer":"Vanilla",
-
-      "sublayer": "vanilla_structures",
-
-      "icon":"icons/Star.png",
-
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
 
-      "x":15105,
+      "x":14700,
 
-      "y": 1850    
-   }
-      ,
-   {
-      "title":"",
-
-      "description":"Kivi boss",
-
-      "layer":"Vanilla",
-
-      "sublayer": "vanilla_structures",
-
-      "icon":"icons/Star.png",
-
-      "tooltipImage":"icons/chest.webp",
-
-
-      "url":"https://google.com",
-
-      "x":15105,
-
-      "y": 1850    
-   }
-      ,
-   {
-      "title":"",
-
-      "description":"Kivi boss",
-
-      "layer":"Vanilla",
-
-      "sublayer": "vanilla_structures",
-
-      "icon":"icons/Star.png",
-
-      "tooltipImage":"icons/chest.webp",
-
-
-      "url":"https://google.com",
-
-      "x":15105,
-
-      "y": 1850    
-   }
-      ,
-   {
-      "title":"",
-
-      "description":"Kivi boss",
-
-      "layer":"Vanilla",
-
-      "sublayer": "vanilla_structures",
-
-      "icon":"icons/Star.png",
-
-      "tooltipImage":"icons/chest.webp",
-
-
-      "url":"https://google.com",
-
-      "x":15105,
-
-      "y": 1850    
+      "y": -30    
    }
    
+     
  
 ]

@@ -13,7 +13,7 @@ const viewer = OpenSeadragon({
 });
 
 
-const markersOpacity = 0.4;
+const markersOpacity = 1;
 
 const sublayerStates = {};
 
@@ -163,9 +163,9 @@ function createLayerButtons()
 
     sublayers:
     [
-        { id: "vanilla_bosses", label: "bosses" , icon:"icons/Star.png"},
+        { id: "vanilla_bosses", label: "bosses" , icon:"icons/Vanilla/Bosses/kolmi.png"},
         { id: "vanilla_structures", label: "structures" , icon:"icons/Star.png"},
-        { id: "vanilla_items", label: "items", icon:"icons/Star.png" }
+        { id: "vanilla_items", label: "items", icon:"icons/Vanilla/Items/evil_eye.png" }
     ]
 },
 
