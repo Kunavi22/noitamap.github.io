@@ -12,7 +12,7 @@ const viewer = OpenSeadragon({
     background:"#000000"
 });
 
-
+ 
 const markersOpacity = 1;
 
 const sublayerStates = {};
