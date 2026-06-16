@@ -12,6 +12,9 @@ const viewer = OpenSeadragon({
     background:"#000000"
 });
 
+
+const markersOpacity = 0.4;
+
 const sublayerStates = {};
 
 let tooltipMode = "marker"; 
@@ -319,6 +322,18 @@ function createLayerButtons()
                         img.classList.add(
                             "inactive"
                         );
+
+                        currentLayer = null;
+
+                        document
+                            .getElementById(
+                                "layerTooltip"
+                            )
+                            .classList
+                            .remove(
+                                "visible"
+                            );
+            
                     }
                     else
                     {
@@ -328,6 +343,11 @@ function createLayerButtons()
 
                         img.classList.add(
                             "active"
+                        );
+
+                         showLayerTooltip(
+                            layer,
+                            img
                         );
                     }
 
@@ -342,6 +362,7 @@ function createLayerButtons()
 
                     function()
                     {
+                        if(layerStates[layer.id])
                         showLayerTooltip(
                             layer,
                             img
@@ -418,7 +439,7 @@ function createMarker(data)
     img.className =
         "marker";
 
-    img.style.opacity = "0.7";
+    img.style.opacity = markersOpacity;
 
     
 
@@ -454,7 +475,7 @@ function createMarker(data)
     "mouseleave",
     () =>
     {
-        img.style.opacity = "0.7";
+        img.style.opacity = markersOpacity;
     });
 
     img.addEventListener(
@@ -1018,18 +1039,22 @@ function showLayerTooltip(
             title
         );
 
-    const rect =
-        anchor.getBoundingClientRect();
+    // const rect =
+    //     anchor.getBoundingClientRect();
 
-    tooltip.style.left =
-        rect.left + "px";
+         tooltip.classList.add("visible");
+        // tooltip.style.visibility = "hidden";
+        // tooltip.style.display = "flex";
 
-    tooltip.style.top =
-        (rect.bottom + 8) + "px";
+        const rect = anchor.getBoundingClientRect();
+        const tooltipRect = tooltip.getBoundingClientRect();
 
-    tooltip.classList.add(
-        "visible"
-    );
+            tooltip.style.left = (rect.left + rect.width / 2 - tooltipRect.width / 2) + "px";
+        tooltip.style.top = (rect.bottom + 8) + "px";
+
+            tooltip.classList.add(
+                "visible"
+            );
 }
 
 let layerTooltipTimer;
@@ -1056,7 +1081,7 @@ function hideLayerTooltip()
                     );
             },
 
-            150
+            70
         );
 }
 
@@ -1139,10 +1164,10 @@ function showButtonTooltip(
         "block";
 
     tooltip.style.left =
-        (x + 14) + "px";
+        (x - tooltip.offsetWidth / 2 + 3) + "px";
 
     tooltip.style.top =
-        (y - 28) + "px";
+        (y + 14) + "px";
 }
 
 function hideButtonTooltip()
