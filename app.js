@@ -163,10 +163,13 @@ function createLayerButtons()
 
     sublayers:
     [
-        { id: "vanilla_bosses", label: "bosses" , icon:"icons/Vanilla/Bosses/kolmi.png"},
-        { id: "vanilla_structures", label: "structures" , icon:"icons/Star.png"},
-        { id: "vanilla_items", label: "items", icon:"icons/Vanilla/Items/evil_eye.png" }
-    ]
+        { id: "vanilla_bosses", label: "bosses" , icon:"icons/boss.webp", defaultOn: true},
+        { id: "vanilla_structures", label: "structures" , icon:"icons/Star.png", defaultOn: false},
+        { id: "vanilla_items", label: "items", icon:"icons/Vanilla/Items/evil_eye.png" , defaultOn: false},
+        { id: "vanilla_orbs", label: "orbs", icon:"icons/Vanilla/Items/icon-orbs.webp" , defaultOn: true}
+    ],
+
+    defaultOn: true
 },
 
 {
@@ -176,10 +179,12 @@ function createLayerButtons()
 
     sublayers:
     [
-        { id: "Apotheosis_bosses", label: "bosses" , icon:"icons/Star.png"},
-        { id: "Apotheosis_structures", label: "structures" , icon:"icons/Star.png"},
-        { id: "Apotheosis_items", label: "items", icon:"icons/Star.png" }
-    ]
+        { id: "Apotheosis_bosses", label: "bosses" , icon:"icons/Star.png", defaultOn: false},
+        { id: "Apotheosis_structures", label: "structures" , icon:"icons/Star.png", defaultOn: false},
+        { id: "Apotheosis_items", label: "items", icon:"icons/Star.png", defaultOn: false }
+    ],
+
+    defaultOn: false
 },
 
 {
@@ -189,10 +194,10 @@ function createLayerButtons()
 
     sublayers:
     [
-        { id: "vanilla_bosses", label: "bosses" , icon:"icons/Star.png"},
-        { id: "vanilla_structures", label: "structures" , icon:"icons/Star.png"},
-        { id: "vanilla_items", label: "items", icon:"icons/Star.png" }
-    ]
+        
+    ],
+
+    defaultOn: false
 },
 
 {
@@ -202,10 +207,10 @@ function createLayerButtons()
 
     sublayers:
     [
-        { id: "vanilla_bosses", label: "bosses" , icon:"icons/Star.png"},
-        { id: "vanilla_structures", label: "structures" , icon:"icons/Star.png"},
-        { id: "vanilla_items", label: "items", icon:"icons/Star.png" }
-    ]
+        
+    ],
+
+    defaultOn: false
 },
 
 {
@@ -215,10 +220,10 @@ function createLayerButtons()
 
     sublayers:
     [
-        { id: "vanilla_bosses", label: "bosses" , icon:"icons/Star.png"},
-        { id: "vanilla_structures", label: "structures" , icon:"icons/Star.png"},
-        { id: "vanilla_items", label: "items", icon:"icons/Star.png" }
-    ]
+        
+    ],
+
+    defaultOn: false
 },
 
 {
@@ -228,10 +233,10 @@ function createLayerButtons()
 
     sublayers:
     [
-        { id: "vanilla_bosses", label: "bosses" , icon:"icons/Star.png"},
-        { id: "vanilla_structures", label: "structures" , icon:"icons/Star.png"},
-        { id: "vanilla_items", label: "items", icon:"icons/Star.png" }
-    ]
+        
+    ],
+
+    defaultOn: false
 }
 ];
 
@@ -239,9 +244,10 @@ function createLayerButtons()
         layer =>
         {
 
-             layer.sublayers.forEach(sublayer =>
+            layer.sublayers.forEach(sublayer =>
             {
-                sublayerStates[sublayer.id] = true;
+                // keep sublayers enabled by default for now
+                sublayerStates[sublayer.id] = sublayer.defaultOn ?? true;
             });
 
             const img =
@@ -249,15 +255,20 @@ function createLayerButtons()
                     "img"
                 );
 
-               
-
             img.src = layer.icon;
 
-            img.className = "layerButton active";
+            img.className = "layerButton";
 
             img.dataset.layer = layer.id;
 
-            layerStates[layer.id] = true;
+            // use layer.defaultOn when provided, otherwise default to true
+            const defaultOn = layer.defaultOn ?? true;
+            layerStates[layer.id] = defaultOn;
+
+            if (defaultOn)
+                img.classList.add("active");
+            else
+                img.classList.add("inactive");
 
             img.onclick =
                 function()
@@ -489,11 +500,17 @@ function createMarker(data)
         data.y
     );
 
-    viewer.addOverlay({
-        element: img,
+    // Only add the overlay if the marker's layer and sublayer are enabled
+    const layerVisible = layerStates[data.layer] ?? true;
+    const sublayerVisible = sublayerStates[data.sublayer] ?? true;
 
-        location: location
-    });
+    if (layerVisible && sublayerVisible)
+    {
+        viewer.addOverlay({
+            element: img,
+            location: location
+        });
+    }
 
 
 
@@ -825,110 +842,53 @@ viewer.canvas.addEventListener(
 function createSubLayerButton(layer, sublayer)
 {
 
-    const visible =
-    sublayerStates[sublayer] ?? true;
+    const visible = sublayerStates[sublayer.id] ?? (sublayer.defaultOn ?? true);
 
-    
+    const img = document.createElement("img");
 
-    const img =
-        document.createElement("img");
+    img.src = sublayer.icon ?? layer.icon;
 
-    img.src =
-        sublayer.icon ??
-        layer.icon;
+    img.className = "layerButton";
 
-    img.className =
-        "layerButton";
-
-         if(sublayerStates[sublayer.id])
-        {
-            img.classList.add(
-                "active"
-            );
-
-            img.classList.remove(
-                "inactive"
-            );
-        }
-        else
-        {
-            img.classList.remove(
-                "active"
-            );
-
-            img.classList.add(
-                "inactive"
-            );
-        }
-
-        img.addEventListener(
-    "mouseenter",
-
-
-    function(e)
+    if (visible)
     {
-        showButtonTooltip(
-            sublayer.label ??
-            sublayer.id,
+        img.classList.add("active");
+        img.classList.remove("inactive");
+    }
+    else
+    {
+        img.classList.remove("active");
+        img.classList.add("inactive");
+    }
 
-            e.clientX,
-
-            e.clientY
-        );
+    img.addEventListener("mouseenter", function(e)
+    {
+        showButtonTooltip(sublayer.label ?? sublayer.id, e.clientX, e.clientY);
     });
 
-img.addEventListener(
-    "mousemove",
-
-    function(e)
+    img.addEventListener("mousemove", function(e)
     {
-        showButtonTooltip(
-            sublayer.label ??
-            sublayer.id,
-
-            e.clientX,
-
-            e.clientY
-        );
+        showButtonTooltip(sublayer.label ?? sublayer.id, e.clientX, e.clientY);
     });
 
-img.addEventListener(
-    "mouseleave",
+    img.addEventListener("mouseleave", hideButtonTooltip);
 
-    hideButtonTooltip
-);
-
-    img.classList.add("active");
-
-    img.addEventListener(
-    "click",
-
-    function(e)
+    img.addEventListener("click", function(e)
     {
         e.stopPropagation();
 
-        sublayerStates[sublayer.id] =
-            !sublayerStates[sublayer.id];
+        // toggle with a safe default fallback
+        sublayerStates[sublayer.id] = !(sublayerStates[sublayer.id] ?? (sublayer.defaultOn ?? true));
 
-        if(sublayerStates[sublayer.id])
+        if (sublayerStates[sublayer.id])
         {
-            img.classList.add(
-                "active"
-            );
-
-            img.classList.remove(
-                "inactive"
-            );
+            img.classList.add("active");
+            img.classList.remove("inactive");
         }
         else
         {
-            img.classList.remove(
-                "active"
-            );
-
-            img.classList.add(
-                "inactive"
-            );
+            img.classList.remove("active");
+            img.classList.add("inactive");
         }
 
         updateMarkerVisibility();

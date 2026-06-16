@@ -2,7 +2,7 @@
  {
     "title":"Kivi",
 
-    "description":"Kivi boss",
+    "description":"<Descripton>",
 
     "layer":"Vanilla",
 
@@ -10,7 +10,7 @@
 
    "icon":"icons/Vanilla/Bosses/kivi.png",
 
-    "tooltipImage":"icons/chest.webp",
+    "tooltipImage":"icons/Vanilla/Bosses/kivi.png",
 
 
     "url":"https://google.com",
@@ -22,7 +22,7 @@
   {
     "title":"legs",
 
-    "description":"Kivi boss",
+    "description":"<Descripton>",
 
     "layer":"Vanilla",
 
@@ -30,7 +30,7 @@
 
    "icon":"icons/Vanilla/Bosses/legs.png",
 
-    "tooltipImage":"icons/chest.webp",
+    "tooltipImage":"icons/Vanilla/Bosses/legs.png",
 
 
     "url":"https://google.com",
@@ -42,7 +42,7 @@
   {
     "title":"bridge",
 
-    "description":"Kivi boss",
+    "description":"<Descripton>",
 
     "layer":"Vanilla",
 
@@ -50,7 +50,7 @@
 
    "icon":"icons/Vanilla/Bosses/bridge.png",
 
-    "tooltipImage":"icons/chest.webp",
+    "tooltipImage":"icons/Vanilla/Bosses/bridge.png",
 
 
     "url":"https://google.com",
@@ -62,7 +62,7 @@
   {
     "title":"alchemist",
 
-    "description":"Kivi boss",
+    "description":"<Descripton>",
 
     "layer":"Vanilla",
 
@@ -70,7 +70,7 @@
 
    "icon":"icons/Vanilla/Bosses/alchemist.png",
 
-    "tooltipImage":"icons/chest.webp",
+    "tooltipImage":"icons/Vanilla/Bosses/alchemist.png",
 
 
     "url":"https://google.com",
@@ -82,7 +82,7 @@
   {
     "title":"deer",
 
-    "description":"Kivi boss",
+    "description":"<Descripton>",
 
     "layer":"Vanilla",
 
@@ -90,7 +90,7 @@
 
    "icon":"icons/Vanilla/Bosses/deer.png",
 
-    "tooltipImage":"icons/chest.webp",
+    "tooltipImage":"icons/Vanilla/Bosses/deer.png",
 
 
     "url":"https://google.com",
@@ -102,7 +102,7 @@
   {
     "title":"leviathan",
 
-    "description":"Kivi boss",
+    "description":"<Descripton>",
 
     "layer":"Vanilla",
 
@@ -110,7 +110,7 @@
 
    "icon":"icons/Vanilla/Bosses/leviathan.png",
 
-    "tooltipImage":"icons/chest.webp",
+    "tooltipImage":"icons/Vanilla/Bosses/leviathan.png",
 
 
     "url":"https://google.com",
@@ -122,7 +122,7 @@
   {
     "title":"forgotten",
 
-    "description":"Kivi boss",
+    "description":"<Descripton>",
 
     "layer":"Vanilla",
 
@@ -130,7 +130,7 @@
 
    "icon":"icons/Vanilla/Bosses/forgotten.png",
 
-    "tooltipImage":"icons/chest.webp",
+    "tooltipImage":"icons/Vanilla/Bosses/forgotten.png",
 
 
     "url":"https://google.com",
@@ -142,7 +142,7 @@
   {
     "title":"dragon",
 
-    "description":"Kivi boss",
+    "description":"<Descripton>",
 
     "layer":"Vanilla",
 
@@ -150,7 +150,7 @@
 
    "icon":"icons/Vanilla/Bosses/dragon.png",
 
-    "tooltipImage":"icons/chest.webp",
+    "tooltipImage":"icons/Vanilla/Bosses/dragon.png",
 
 
     "url":"https://google.com",
@@ -162,7 +162,7 @@
   {
     "title":"heart",
 
-    "description":"Kivi boss",
+    "description":"<Descripton>",
 
     "layer":"Vanilla",
 
@@ -170,7 +170,7 @@
 
    "icon":"icons/Vanilla/Bosses/heart.png",
 
-    "tooltipImage":"icons/chest.webp",
+    "tooltipImage":"icons/Vanilla/Bosses/heart.png",
 
 
     "url":"https://google.com",
@@ -182,7 +182,7 @@
   {
     "title":"eye",
 
-    "description":"Kivi boss",
+    "description":"<Descripton>",
 
     "layer":"Vanilla",
 
@@ -190,7 +190,7 @@
 
    "icon":"icons/Vanilla/Bosses/eye.png",
 
-    "tooltipImage":"icons/chest.webp",
+    "tooltipImage":"icons/Vanilla/Bosses/eye.png",
 
 
     "url":"https://google.com",
@@ -202,7 +202,7 @@
   {
     "title":"friend",
 
-    "description":"Kivi boss",
+    "description":"<Descripton>",
 
     "layer":"Vanilla",
 
@@ -210,7 +210,7 @@
 
    "icon":"icons/Vanilla/Bosses/friend.png",
 
-    "tooltipImage":"icons/chest.webp",
+    "tooltipImage":"icons/Vanilla/Bosses/friend.png",
 
 
     "url":"https://google.com",
@@ -222,7 +222,7 @@
   {
     "title":"door",
 
-    "description":"Kivi boss",
+    "description":"<Descripton>",
 
     "layer":"Vanilla",
 
@@ -230,7 +230,7 @@
 
    "icon":"icons/Vanilla/Bosses/door.png",
 
-    "tooltipImage":"icons/chest.webp",
+    "tooltipImage":"icons/Vanilla/Bosses/door.png",
 
 
     "url":"https://google.com",
@@ -242,7 +242,7 @@
    {
       "title":"kolmi",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -250,7 +250,7 @@
 
       "icon":"icons/Vanilla/Bosses/kolmi.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/kolmi.png",
 
 
       "url":"https://google.com",
@@ -262,7 +262,7 @@
    {
       "title":"master",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -270,7 +270,7 @@
 
       "icon":"icons/Vanilla/Bosses/master.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/master.png",
 
 
       "url":"https://google.com",
@@ -282,7 +282,7 @@
    {
       "title":"tiny",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -290,7 +290,7 @@
 
       "icon":"icons/Vanilla/Bosses/tiny.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/tiny.png",
 
 
       "url":"https://google.com",
@@ -302,7 +302,7 @@
    {
       "title":"Altar",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -310,7 +310,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -323,7 +323,7 @@
    {
       "title":"greedCurse",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "sublayer": "vanilla_structures",
 
@@ -331,7 +331,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -344,7 +344,7 @@
    {
       "title":"Barren Temple",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -352,7 +352,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -365,7 +365,7 @@
    {
       "title":"Henkeva Temple 'Spirited temple'",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -373,7 +373,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -385,7 +385,7 @@
    {
       "title":"Ominous Temple",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -393,7 +393,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -406,7 +406,7 @@
    {
       "title":"Fungal Alter - Air",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -414,7 +414,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -427,7 +427,7 @@
    {
       "title":"Gourd Cave",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -435,7 +435,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -448,7 +448,7 @@
    {
       "title":"Gold biome",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -456,7 +456,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -469,7 +469,7 @@
    {
       "title":"Sun/Moon",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -477,7 +477,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -490,7 +490,7 @@
    {
       "title":"Outhouse",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -498,7 +498,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -511,7 +511,7 @@
    {
       "title":"Desert skull, Eye",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -519,7 +519,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -532,7 +532,7 @@
    {
       "title":"Watchtower",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -540,7 +540,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -553,7 +553,7 @@
    {
       "title":"Scales",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -561,7 +561,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -574,7 +574,7 @@
    {
       "title":"Lake Island",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -582,7 +582,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -595,7 +595,7 @@
    {
       "title":"Dark cave",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -603,7 +603,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -616,7 +616,7 @@
    {
       "title":"Race track",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -624,7 +624,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -637,7 +637,7 @@
    {
       "title":"Fungal Altar - Fungal Cavern",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -645,7 +645,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -658,7 +658,7 @@
    {
       "title":"Meditation Cube Room",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -666,7 +666,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -679,7 +679,7 @@
    {
       "title":"Big fungus - Desert Caves",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -687,7 +687,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -700,7 +700,7 @@
    {
       "title":"Fungular altar - Overgrown Cavern",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -708,7 +708,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -721,7 +721,7 @@
    {
       "title":"Moon Radar Diamond",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -729,7 +729,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -742,7 +742,7 @@
    {
       "title":"Perk Removal Altar (Nullifying Altar)",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -750,7 +750,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -763,7 +763,7 @@
    {
       "title":"Fungal altar - Power plant",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -771,7 +771,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -784,7 +784,7 @@
    {
       "title":"Experimental Wand Diamond",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -792,7 +792,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -805,7 +805,7 @@
    {
       "title":"Fungular altar - Vault",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -813,7 +813,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -834,7 +834,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -847,7 +847,7 @@
    {
       "title":"Averice Diamond",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -855,7 +855,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -868,7 +868,7 @@
    {
       "title":"Buried Eye Room",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -876,7 +876,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -889,7 +889,7 @@
    {
       "title":"Hourglass",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -897,7 +897,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -910,7 +910,7 @@
    {
       "title":"Shop/Bathhouse – Hiisi base",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -918,7 +918,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -931,7 +931,7 @@
    {
       "title":"Eye spell room",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -939,7 +939,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -952,7 +952,7 @@
    {
       "title":"The Work",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -960,7 +960,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -973,7 +973,7 @@
    {
       "title":"End of Everything Room",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -981,7 +981,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -994,7 +994,7 @@
    {
       "title":"Gold Biome (Under The Lake)",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1002,7 +1002,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -1015,7 +1015,7 @@
    {
       "title":"Dark Sun/Dark Moon",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1023,7 +1023,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -1035,7 +1035,7 @@
    {
       "title":"Achivement Pillars",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1043,7 +1043,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -1055,7 +1055,7 @@
    {
       "title":"Cauldrom room",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1063,7 +1063,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/chest.webp",
+      "tooltipImage":"icons/Star.png",
 
 
       "url":"https://google.com",
@@ -1075,7 +1075,7 @@
    {
       "title":"Beer",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1095,7 +1095,7 @@
    {
       "title":"Ocarina",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1103,7 +1103,7 @@
 
       "icon":"icons/Vanilla/Items/flute.png",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/flute.png",
 
 
       "url":"https://google.com",
@@ -1115,7 +1115,7 @@
    {
       "title":"Essence of Air",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1123,7 +1123,7 @@
 
       "icon":"icons/Vanilla/Items/essence_air.png",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/essence_air.png",
 
 
       "url":"https://google.com",
@@ -1135,7 +1135,7 @@
    {
       "title":"Rainbow Trail Spell",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1143,7 +1143,7 @@
 
       "icon":"icons/Vanilla/Items/rainbow_trail.png",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/rainbow_trail.png",
 
 
       "url":"https://google.com",
@@ -1155,7 +1155,7 @@
    {
       "title":"Essence Of Fire",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1163,7 +1163,7 @@
 
       "icon":"icons/Vanilla/Items/essence_fire.png",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/essence_fire.png",
 
 
       "url":"https://google.com",
@@ -1175,7 +1175,7 @@
    {
       "title":"Essence Of Spirits",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1183,7 +1183,7 @@
 
       "icon":"icons/Vanilla/Items/essence_alcohol.png",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/essence_alcohol.png",
 
 
       "url":"https://google.com",
@@ -1195,7 +1195,7 @@
    {
       "title":"Essence Of Water",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1203,7 +1203,7 @@
 
       "icon":"icons/Vanilla/Items/essence_water.png",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/essence_water.png",
 
 
       "url":"https://google.com",
@@ -1215,7 +1215,7 @@
    {
       "title":"Music Box (Lake)",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1223,7 +1223,7 @@
 
       "icon":"icons/Vanilla/Items/music_machine.png",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/music_machine.png",
 
 
       "url":"https://google.com",
@@ -1235,7 +1235,7 @@
    {
       "title":"Essence Eater (Snow Wasteland)",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1243,7 +1243,7 @@
 
       "icon":"icons/Vanilla/Items/icon-orbs.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/icon-orbs.webp",
 
 
       "url":"https://google.com",
@@ -1255,7 +1255,7 @@
    {
       "title":"Music Box (Tree)",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1263,7 +1263,7 @@
 
       "icon":"icons/Vanilla/Items/music_machine.png",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/music_machine.png",
 
 
       "url":"https://google.com",
@@ -1275,7 +1275,7 @@
    {
       "title":"Evil Eye",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1283,7 +1283,7 @@
 
       "icon":"icons/Vanilla/Items/evil_eye.png",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/evil_eye.png",
 
 
       "url":"https://google.com",
@@ -1295,7 +1295,7 @@
    {
       "title":"Music Stone",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1303,7 +1303,7 @@
 
       "icon":"icons/Vanilla/Items/musicstone.png",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/musicstone.png",
 
 
       "url":"https://google.com",
@@ -1315,7 +1315,7 @@
    {
       "title":"Music Box (Pound)",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1323,7 +1323,7 @@
 
       "icon":"icons/Vanilla/Items/music_machine.png",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/music_machine.png",
 
 
       "url":"https://google.com",
@@ -1335,7 +1335,7 @@
    {
       "title":"Karl",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1343,7 +1343,7 @@
 
       "icon":"icons/Vanilla/Items/karl.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/karl.webp",
 
 
       "url":"https://google.com",
@@ -1355,7 +1355,7 @@
    {
       "title":"Milk",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1363,7 +1363,7 @@
 
       "icon":"icons/Vanilla/Items/milk.png",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/milk.png",
 
 
       "url":"https://google.com",
@@ -1376,7 +1376,7 @@
    {
       "title":"Milk",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1384,7 +1384,7 @@
 
       "icon":"icons/Vanilla/Items/milk.png",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/milk.png",
 
 
       "url":"https://google.com",
@@ -1397,7 +1397,7 @@
    {
       "title":"Dark Chest",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1405,7 +1405,7 @@
 
       "icon":"icons/Vanilla/Items/chest_dark.png",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/chest_dark.png",
 
 
       "url":"https://google.com",
@@ -1418,7 +1418,7 @@
    {
       "title":"Coral Chest",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1426,7 +1426,7 @@
 
       "icon":"icons/Vanilla/Items/chest_light.png",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/chest_light.png",
 
 
       "url":"https://google.com",
@@ -1439,7 +1439,7 @@
    {
       "title":"Essence Eater (Desert)",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1447,7 +1447,7 @@
 
       "icon":"icons/Vanilla/Items/icon-orbs.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/icon-orbs.webp",
 
 
       "url":"https://google.com",
@@ -1460,7 +1460,7 @@
    {
       "title":"Music Box (Desert)",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1468,7 +1468,7 @@
 
       "icon":"icons/Vanilla/Items/music_machine.png",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/music_machine.png",
 
 
       "url":"https://google.com",
@@ -1480,7 +1480,7 @@
    {
       "title":"Kiuaskivi",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1488,7 +1488,7 @@
 
       "icon":"icons/Vanilla/Items/item_brimstone.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/item_brimstone.webp",
 
 
       "url":"https://google.com",
@@ -1500,7 +1500,7 @@
    {
       "title":"Kuu",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1508,7 +1508,7 @@
 
       "icon":"icons/Vanilla/Items/item_moon.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/item_moon.webp",
 
 
       "url":"https://google.com",
@@ -1521,7 +1521,7 @@
    {
       "title":"Kantele",
 
-      "description":"Kivi boss",
+      "description":"<Descripton>",
 
       "layer":"Vanilla",
 
@@ -1529,7 +1529,7 @@
 
       "icon":"icons/Vanilla/Items/kantele.png",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/kantele.png",
 
 
       "url":"https://google.com",
@@ -1537,6 +1537,236 @@
       "x":-1633,
 
       "y": -788    
+   },
+   {
+      "title":"Orb: Sea of Lava",
+
+      "description":"<Descripton>",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_sea_of_lava.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_sea_of_lava.webp",
+
+
+      "url":"https://google.com",
+
+      "x":780,
+
+      "y": -1090    
+   }
+   ,
+   {
+      "title":"Orb: Earthquake",
+
+      "description":"<Descripton>",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_earthquake.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_earthquake.webp",
+
+
+      "url":"https://google.com",
+
+      "x":9990,
+
+      "y": -1223    
+   }
+   ,
+   {
+      "title":"Orb: Nuke",
+
+      "description":"<Descripton>",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_nuke.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_nuke.webp",
+
+
+      "url":"https://google.com",
+
+      "x":3460,
+
+      "y": 1830    
+   }
+   ,
+   {
+      "title":"Orb: Thundercloud",
+
+      "description":"<Descripton>",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_thundercloud.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_thundercloud.webp",
+
+
+      "url":"https://google.com",
+
+      "x":4354,
+
+      "y": 833    
+   }
+   ,
+   {
+      "title":"Orb: Necromancy",
+
+      "description":"<Descripton>",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_necromancy.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_necromancy.webp",
+
+
+      "url":"https://google.com",
+
+      "x":10000,
+
+      "y": 2700    
+   }
+   ,
+   {
+      "title":"Orb: Summon Tentacle",
+
+      "description":"<Descripton>",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_summon_tentacle.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_summon_tentacle.webp",
+
+
+      "url":"https://google.com",
+
+      "x":-9975,
+
+      "y": 2800    
+   }
+   ,
+   {
+      "title":"Orb: Holy Bomb",
+
+      "description":"<Descripton>",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_holy_bomb.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_holy_bomb.webp",
+
+
+      "url":"https://google.com",
+
+      "x":-4350,
+
+      "y": 3830    
+   }
+   ,
+   {
+      "title":"Orb: Spiral Shot",
+
+      "description":"<Descripton>",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_spiral_shot.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_spiral_shot.webp",
+
+
+      "url":"https://google.com",
+
+      "x":-3835,
+
+      "y": 10000    
+   }
+   ,
+   {
+      "title":"Orb: Summon Deercoy",
+
+      "description":"<Descripton>",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_summon_deercoy.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_summon_deercoy.webp",
+
+
+      "url":"https://google.com",
+
+      "x":-8960,
+
+      "y": 14700    
+   }
+   ,
+   {
+      "title":"Orb: Fireworks!",
+
+      "description":"<Descripton>",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_fireworks.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_fireworks.webp",
+
+
+      "url":"https://google.com",
+
+      "x":-250,
+
+      "y": 16330    
+   }
+   ,
+   {
+      "title":"Orb: Cement",
+
+      "description":"<Descripton>",
+
+      "layer":"Vanilla",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_cement.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_cement.webp",
+
+
+      "url":"https://google.com",
+
+      "x":10487,
+
+      "y": 16325    
    }
    
      
