@@ -32,7 +32,6 @@ loadMap();
 createLayerButtons();
 loadMarkers();
 loadTutorialPannel();
-loadState();
 
 function addMap(tile)
 {
@@ -168,10 +167,10 @@ function createLayerButtons()
 
     sublayers:
     [
-        { id: "vanilla_bosses", label: "bosses" , icon:"icons/boss.webp", defaultOn: true},
-        { id: "vanilla_structures", label: "structures" , icon:"icons/Star.png", defaultOn: false},
-        { id: "vanilla_items", label: "items", icon:"icons/Vanilla/Items/evil_eye.png" , defaultOn: false},
-        { id: "vanilla_orbs", label: "orbs", icon:"icons/Vanilla/Items/icon-orbs.webp" , defaultOn: true}
+        { id: "vanilla_bosses", label: "Bosses" , icon:"icons/boss.webp", defaultOn: true},
+        { id: "vanilla_structures", label: "Structures" , icon:"icons/Star.png", defaultOn: false},
+        { id: "vanilla_items", label: "Items", icon:"icons/Vanilla/Items/evil_eye.png" , defaultOn: false},
+        { id: "vanilla_orbs", label: "Orbs", icon:"icons/Vanilla/Items/icon-orbs.webp" , defaultOn: true}
     ],
 
     defaultOn: true
@@ -375,6 +374,8 @@ async function loadMarkers()
     markers.forEach(
         createMarker
     );
+
+    loadState();
 }
 
 function makeId(title)
@@ -914,13 +915,17 @@ function showLayerTooltip(
 
     tooltip.innerHTML = "";
 
+    // Create buttons container
+    const buttonsContainer = document.createElement("div");
+    buttonsContainer.className = "layerTooltipButtons";
+
     // only show sublayers if layer is enabled
     if (layerStates[layer.id])
     {
         layer.sublayers.forEach(
             sublayer =>
             {
-                tooltip.appendChild(
+                buttonsContainer.appendChild(
                     createSubLayerButton(
                         layer,
                         sublayer
@@ -929,6 +934,9 @@ function showLayerTooltip(
             });
     }
 
+    tooltip.appendChild(buttonsContainer);
+
+    // Create and append title
     const title =
         document.createElement(
             "div"
@@ -1176,14 +1184,15 @@ function loadTutorialPannel()
         </div>
         <div class="content">
             <p>Welcome to the Kunavi's NoitaMap.</p>
-            <p>This is uniform map for most popular terrain-appending mods</p>
+            <p>This is uniform map for most popular terrain-appending mods.</p>
             <p>Use the layer buttons to toggle marker sets.</p>
             <p>Hover markers for details.</p>
             <p>Left-click on a marker to open its wiki page.</p>
-            <p>Right-click on a marker to mark it as visited.</p>
+            <p>Right-click on a marker to mark it as completed.</p>
             <p>Scroll to zoom and drag to pan.</p>
-            <p>Happy Noiting!</p>
-        </div>
+            <div class="title" style="font-size: 18px; background: linear-gradient(to bottom, #FFFCA0 0%, #FFC240 40%, #FF6D3B 75%, #D63434 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 0;">Happy Noiting!</div>
+         </div>
+       
     `;
     document.body.appendChild(panel);
 
