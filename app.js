@@ -74,6 +74,7 @@ function toggleMarkerCheck(id)
 
     updateMarkerVisual(id);
     saveState();
+    updateUncheckButtonVisibility();
 }
 
 function updateMarkerVisual(id)
@@ -952,22 +953,13 @@ function showLayerTooltip(
         title
     );
 
-    // const rect =
-    //     anchor.getBoundingClientRect();
+    tooltip.classList.add("visible");
 
-         tooltip.classList.add("visible");
-        // tooltip.style.visibility = "hidden";
-        // tooltip.style.display = "flex";
+    const rect = anchor.getBoundingClientRect();
+    const tooltipRect = tooltip.getBoundingClientRect();
 
-        const rect = anchor.getBoundingClientRect();
-        const tooltipRect = tooltip.getBoundingClientRect();
-
-            tooltip.style.left = (rect.left + rect.width / 2 - tooltipRect.width / 2) + "px";
-        tooltip.style.top = (rect.bottom + 8) + "px";
-
-            tooltip.classList.add(
-                "visible"
-            );
+    tooltip.style.left = (rect.left + rect.width / 2 - tooltipRect.width / 2) + "px";
+    tooltip.style.top = (rect.bottom + 8) + "px";
 }
 
 let layerTooltipTimer;
@@ -1093,6 +1085,14 @@ function hideButtonTooltip()
         "none";
 }
 
+function updateUncheckButtonVisibility()
+{
+    const uncheckBtn = document.getElementById('uncheckAllBtn');
+    if (uncheckBtn) {
+        uncheckBtn.style.display = checkedMarkers.size > 0 ? 'flex' : 'none';
+    }
+}
+
 // State persistence (localStorage)
 function saveState()
 {
@@ -1126,13 +1126,15 @@ function loadState()
                     btn.classList.add('inactive');
                 }
             });
-            updateMarkerVisibility();
         }
         
         // restore sublayer states
         if (state.sublayerStates) {
             Object.assign(sublayerStates, state.sublayerStates);
         }
+        
+        // Update marker visibility after restoring both layer and sublayer states
+        updateMarkerVisibility();
         
         // restore checked markers
         if (state.checkedMarkers && Array.isArray(state.checkedMarkers)) {
@@ -1161,11 +1163,32 @@ function loadState()
     } catch (e) {
         console.error('Failed to load saved state:', e);
     }
+    
+    updateUncheckButtonVisibility();
 }
 
 // Tutorial panel + toggle (top-right)
 function loadTutorialPannel()
 {
+    // create uncheck all button
+    const uncheckBtn = document.createElement('button');
+    uncheckBtn.id = 'uncheckAllBtn';
+    uncheckBtn.title = 'Uncheck all marks';
+    uncheckBtn.type = 'button';
+    uncheckBtn.innerText = 'Uncheck all';
+    uncheckBtn.style.display = 'none';
+    document.body.appendChild(uncheckBtn);
+
+    uncheckBtn.addEventListener('click', function()
+    {
+        checkedMarkers.forEach(id => {
+            checkedMarkers.delete(id);
+            updateMarkerVisual(id);
+        });
+        saveState();
+        updateUncheckButtonVisibility();
+    });
+
     // create toggle button
     const toggle = document.createElement('button');
     toggle.id = 'tutorialToggle';
