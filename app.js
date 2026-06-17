@@ -9,7 +9,9 @@ const viewer = OpenSeadragon({
 
     zoomPerScroll:1.4,
 
-    background:"#000000"
+    background:"#000000",
+
+    showNavigationControl: false
 });
 
  
@@ -29,6 +31,8 @@ const layerStates = {};
 loadMap();
 createLayerButtons();
 loadMarkers();
+loadTutorialPannel();
+loadState();
 
 function addMap(tile)
 {
@@ -70,6 +74,7 @@ function toggleMarkerCheck(id)
         checkedMarkers.add(id);
 
     updateMarkerVisual(id);
+    saveState();
 }
 
 function updateMarkerVisual(id)
@@ -371,8 +376,6 @@ function loadMap()
     });
 }
 
-
-
 async function loadMarkers()
 {
     const markers =
@@ -551,6 +554,7 @@ function toggleLayer(layerName, visible)
         });
 
          updateMarkerVisibility();
+         saveState();
 }
 
 function showTooltip(data,x,y)
@@ -892,6 +896,7 @@ function createSubLayerButton(layer, sublayer)
         }
 
         updateMarkerVisibility();
+        saveState();
     });
 
     return img;
@@ -1092,4 +1097,126 @@ function hideButtonTooltip()
         )
         .style.display =
         "none";
+}
+
+// State persistence (localStorage)
+function saveState()
+{
+    const state = {
+        layerStates: layerStates,
+        sublayerStates: sublayerStates,
+        checkedMarkers: Array.from(checkedMarkers),
+        tutorialVisible: document.getElementById('tutorialPanel')?.classList.contains('visible') ?? true
+    };
+    localStorage.setItem('noitaMapState', JSON.stringify(state));
+}
+
+function loadState()
+{
+    const saved = localStorage.getItem('noitaMapState');
+    if (!saved) return;
+    
+    try {
+        const state = JSON.parse(saved);
+        
+        // restore layer states
+        if (state.layerStates) {
+            Object.assign(layerStates, state.layerStates);
+            document.querySelectorAll('.layerButton[data-layer]').forEach(btn => {
+                const layer = btn.dataset.layer;
+                if (layerStates[layer]) {
+                    btn.classList.add('active');
+                    btn.classList.remove('inactive');
+                } else {
+                    btn.classList.remove('active');
+                    btn.classList.add('inactive');
+                }
+            });
+            updateMarkerVisibility();
+        }
+        
+        // restore sublayer states
+        if (state.sublayerStates) {
+            Object.assign(sublayerStates, state.sublayerStates);
+        }
+        
+        // restore checked markers
+        if (state.checkedMarkers && Array.isArray(state.checkedMarkers)) {
+            state.checkedMarkers.forEach(id => checkedMarkers.add(id));
+            markerObjects.forEach(m => {
+                if (checkedMarkers.has(m.id)) {
+                    m.element.classList.add('checked');
+                }
+            });
+        }
+        
+        // restore tutorial state
+        if (state.tutorialVisible !== undefined) {
+            const panel = document.getElementById('tutorialPanel');
+            const toggle = document.getElementById('tutorialToggle');
+            if (panel && toggle) {
+                if (state.tutorialVisible) {
+                    panel.classList.add('visible');
+                    toggle.classList.add('active');
+                } else {
+                    panel.classList.remove('visible');
+                    toggle.classList.remove('active');
+                }
+            }
+        }
+    } catch (e) {
+        console.error('Failed to load saved state:', e);
+    }
+}
+
+// Tutorial panel + toggle (top-right)
+function loadTutorialPannel()
+{
+    // create toggle button
+    const toggle = document.createElement('button');
+    toggle.id = 'tutorialToggle';
+    toggle.title = 'Toggle tutorial';
+    toggle.type = 'button';
+    toggle.innerText = '?';
+    document.body.appendChild(toggle);
+
+    // create panel
+    const panel = document.createElement('div');
+    panel.id = 'tutorialPanel';
+    panel.innerHTML = `
+        <div class="header">
+            <div class="title">Quick Tutorial</div>
+            <button class="closeBtn" title="Close">✕</button>
+        </div>
+        <div class="content">
+            <p>Welcome to the Kunavi's NoitaMap.</p>
+            <p>This is uniform map for most popular terrain-appending mods</p>
+            <p>Use the layer buttons to toggle marker sets.</p>
+            <p>Hover markers for details.</p>
+            <p>Left-click on a marker to open its wiki page.</p>
+            <p>Right-click on a marker to mark it as visited.</p>
+            <p>Scroll to zoom and drag to pan.</p>
+            <p>Happy Noiting!</p>
+        </div>
+    `;
+    document.body.appendChild(panel);
+
+    // open by default
+    panel.classList.add('visible');
+    toggle.classList.add('active');
+
+    toggle.addEventListener('click', function()
+    {
+        panel.classList.toggle('visible');
+        toggle.classList.toggle('active');
+        saveState();
+    });
+
+    panel.querySelector('.closeBtn').addEventListener('click', function()
+    {
+        panel.classList.remove('visible');
+        toggle.classList.remove('active');
+        saveState();
+    });
+
 }

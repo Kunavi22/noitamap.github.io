@@ -1486,7 +1486,7 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/item_brimstone.webp",
+      "icon":"icons/Vanilla/Items/Item_brimstone.webp",
 
       "tooltipImage":"icons/Vanilla/Items/item_brimstone.webp",
 
@@ -1506,7 +1506,7 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/item_moon.webp",
+      "icon":"icons/Vanilla/Items/Item_moon.webp",
 
       "tooltipImage":"icons/Vanilla/Items/item_moon.webp",
 

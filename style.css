@@ -1,3 +1,16 @@
+@font-face {
+    font-family: 'NoitaBlackletter';
+    src: url('fonts/NoitaBlackletter-Regular.otf') format('opentype'),
+         url('fonts/NoitaBlackletter-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+* {
+    font-family: 'NoitaBlackletter', serif;
+}
+
 html,
 body
 {
@@ -126,15 +139,20 @@ body
 
     color: white;
 
-    font-family: monospace;
+    font-family: 'NoitaBlackletter', monospace;
 
-    font-size: 13px;
+    font-size: 15px;
 
     pointer-events: none;
 
     z-index: 10000;
 
     text-shadow: 0px 0px 4px black;
+
+    background: linear-gradient(to bottom, #FFFCA0 0%, #FFC240 40%, #FF6D3B 75%, #D63434 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
 }
 
 #tooltip
@@ -197,11 +215,15 @@ body
 
 #tooltipTitle
 {
-    font-size: 20px;
+    font-size: 22px;
 
     font-weight: bold;
 
     text-align: center;
+
+    background: linear-gradient(to bottom, #FFFCA0 0%, #FFC240 40%, #FF6D3B 75%, #D63434 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 #tooltipDescription
@@ -290,11 +312,16 @@ body
 
     color:white;
 
-    font-size:14px;
+    font-size:16px;
 
     margin-top:6px;
 
     opacity:0.9;
+
+    font-weight: bold;
+    background: linear-gradient(to bottom, #FFFCA0 0%, #FFC240 40%, #FF6D3B 75%, #D63434 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 #buttonTooltip
@@ -319,6 +346,89 @@ body
 
     z-index: 10001;
 
-    font-size: 13px;
-    
+    font-size: 16px;
+
+    font-weight: bold;
+    background: linear-gradient(to bottom, #FFFCA0 0%, #FFC240 40%, #FF6D3B 75%, #D63434 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border: 1px solid rgba(255, 222, 89, 0.2);
 }
+
+/* Tutorial panel + toggle */
+#tutorialToggle {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 10002;
+    width: 38px;
+    height: 38px;
+    border-radius: 6px;
+    border: 2px solid black;
+    background: rgba(20, 20, 20, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 22px;
+    font-weight: bold;
+    box-sizing: border-box;
+    transition: transform 0.15s ease, opacity 0.15s ease;
+    pointer-events: auto;
+    background: linear-gradient(to bottom, #FFFCA0 0%, #FFC240 40%, #FF6D3B 75%, #D63434 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    box-shadow: 0 0 4px rgba(0,0,0,0.5);
+}
+
+#tutorialToggle:hover { transform: scale(1.05); }
+
+#tutorialToggle.active { opacity: 0.9; }
+
+#tutorialPanel {
+    position: fixed;
+    top: 56px;
+    right: 10px;
+    z-index: 10003;
+    width: 320px;
+    max-width: calc(40vw);
+    background: rgba(20,20,20,0.95);
+    color: white;
+    border-radius: 8px;
+    padding: 14px;
+    box-sizing: border-box;
+    display: none;
+    font-size: 16px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.6);
+    border: 1px solid rgba(255, 222, 89, 0.2);
+}
+
+#tutorialPanel.visible { display: block; }
+
+#tutorialPanel .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+#tutorialPanel .header .title {
+    font-size: 22px;
+    font-weight: bold;
+    background: linear-gradient(to bottom, #FFFCA0 0%, #FFC240 40%, #FF6D3B 75%, #D63434 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#tutorialPanel .closeBtn {
+    background: transparent;
+    border: none;
+    color: #FFC240;
+    cursor: pointer;
+    font-size: 18px;
+    line-height: 1;
+    padding: 4px 6px;
+    border-radius: 6px;
+}
+#tutorialPanel .closeBtn:hover { background: rgba(255,255,255,0.04); }
+
+#tutorialPanel p { margin: 8px 0; color: #eeeeee; font-size: 16px; line-height: 1.4; }
