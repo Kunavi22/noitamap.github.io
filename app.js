@@ -162,7 +162,7 @@ function createLayerButtons()
    const layers =
 [
 {
-    id:"Vanilla",
+    id:"Noita",
 
     icon:"icons/noitaLogo.png",
 
@@ -184,9 +184,7 @@ function createLayerButtons()
 
     sublayers:
     [
-        { id: "Apotheosis_bosses", label: "bosses" , icon:"icons/Star.png", defaultOn: false},
-        { id: "Apotheosis_structures", label: "structures" , icon:"icons/Star.png", defaultOn: false},
-        { id: "Apotheosis_items", label: "items", icon:"icons/Star.png", defaultOn: false }
+   
     ],
 
     defaultOn: false
@@ -292,18 +290,6 @@ function createLayerButtons()
                         img.classList.add(
                             "inactive"
                         );
-
-                        currentLayer = null;
-
-                        document
-                            .getElementById(
-                                "layerTooltip"
-                            )
-                            .classList
-                            .remove(
-                                "visible"
-                            );
-            
                     }
                     else
                     {
@@ -314,17 +300,21 @@ function createLayerButtons()
                         img.classList.add(
                             "active"
                         );
-
-                         showLayerTooltip(
-                            layer,
-                            img
-                        );
                     }
 
                     toggleLayer(
                         layer.id,
                         !enabled
                     );
+
+                    // Refresh tooltip if currently showing for this layer
+                    if (currentLayer === layer.id) {
+                        currentLayer = null; // Reset to force refresh
+                        showLayerTooltip(layer, img);
+                    } else {
+                        currentLayer = null;
+                        document.getElementById("layerTooltip").classList.remove("visible");
+                    }
                 };
 
                 img.addEventListener(
@@ -332,7 +322,7 @@ function createLayerButtons()
 
                     function()
                     {
-                        if(layerStates[layer.id])
+     
                         showLayerTooltip(
                             layer,
                             img
@@ -924,39 +914,35 @@ function showLayerTooltip(
 
     tooltip.innerHTML = "";
 
+    // only show sublayers if layer is enabled
+    if (layerStates[layer.id])
+    {
+        layer.sublayers.forEach(
+            sublayer =>
+            {
+                tooltip.appendChild(
+                    createSubLayerButton(
+                        layer,
+                        sublayer
+                    )
+                );
+            });
+    }
 
-//     const enabled =
-//     img.classList.contains(
-//         "active"
-//     );
-
-// if (!enabled)
-    layer.sublayers.forEach(
-        sublayer =>
-        {
-            tooltip.appendChild(
-                createSubLayerButton(
-                    layer,
-                    sublayer
-                )
-            );
-        });
-      
-
-            const title =
+    const title =
         document.createElement(
             "div"
         );
 
-        title.className =
-            "layerTooltipTitle";
+    title.className =
+        "layerTooltipTitle";
 
-        title.innerText =
-            layer.id;
+    title.innerText =
+        layer.id;
 
-        tooltip.appendChild(
-            title
-        );
+    tooltip.appendChild(
+        title
+    );
 
     // const rect =
     //     anchor.getBoundingClientRect();

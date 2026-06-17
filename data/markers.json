@@ -2,9 +2,9 @@
  {
     "title":"Kivi",
 
-    "description":"<Descripton>",
+    "description":"(\"Stone Boss\", \"Sky Boss\", \"Rock Boss\")",
 
-    "layer":"Vanilla",
+    "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
@@ -13,47 +13,47 @@
     "tooltipImage":"icons/Vanilla/Bosses/kivi.png",
 
 
-    "url":"https://google.com",
+    "url":"https://noita.wiki.gg/wiki/Kivi",
 
     "x":7373,
 
     "y": -4540    
  },
   {
-    "title":"legs",
+    "title":"Kolmisilmän koipi",
 
-    "description":"<Descripton>",
+    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
 
-    "layer":"Vanilla",
+    "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
-   "icon":"icons/Vanilla/Bosses/legs.png",
+    "icon":"icons/Vanilla/Bosses/legs.png",
 
     "tooltipImage":"icons/Vanilla/Bosses/legs.png",
 
 
-    "url":"https://google.com",
+    "url":"https://noita.wiki.gg/wiki/Kolmisilm%C3%A4n_koipi",
 
     "x":9980,
 
     "y": -800    
  },
   {
-    "title":"bridge",
+    "title":"Sauvojen tuntija",
 
-    "description":"<Descripton>",
+    "description":"(\"Bridge Boss\",\"Connoisseur of Wands\", \"Squid Boss\", \"Pit Boss\", \"Wand Boss\")",
 
-    "layer":"Vanilla",
+    "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
    "icon":"icons/Vanilla/Bosses/bridge.png",
 
-    "tooltipImage":"icons/Vanilla/Bosses/bridge.png",
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/Sauvojen_Tuntija.webp",
 
 
-    "url":"https://google.com",
+    "url":"https://noita.wiki.gg/wiki/Sauvojen_tuntija",
 
     "x":4030,
 
@@ -62,9 +62,9 @@
   {
     "title":"alchemist",
 
-    "description":"<Descripton>",
+    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
 
-    "layer":"Vanilla",
+    "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
@@ -82,9 +82,9 @@
   {
     "title":"deer",
 
-    "description":"<Descripton>",
+    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
 
-    "layer":"Vanilla",
+    "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
@@ -102,9 +102,9 @@
   {
     "title":"leviathan",
 
-    "description":"<Descripton>",
+    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
 
-    "layer":"Vanilla",
+    "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
@@ -122,9 +122,9 @@
   {
     "title":"forgotten",
 
-    "description":"<Descripton>",
+    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
 
-    "layer":"Vanilla",
+    "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
@@ -142,9 +142,9 @@
   {
     "title":"dragon",
 
-    "description":"<Descripton>",
+    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
 
-    "layer":"Vanilla",
+    "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
@@ -162,9 +162,9 @@
   {
     "title":"heart",
 
-    "description":"<Descripton>",
+    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
 
-    "layer":"Vanilla",
+    "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
@@ -182,9 +182,9 @@
   {
     "title":"eye",
 
-    "description":"<Descripton>",
+    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
 
-    "layer":"Vanilla",
+    "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
@@ -202,9 +202,9 @@
   {
     "title":"friend",
 
-    "description":"<Descripton>",
+    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
 
-    "layer":"Vanilla",
+    "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
@@ -222,9 +222,9 @@
   {
     "title":"door",
 
-    "description":"<Descripton>",
+    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
 
-    "layer":"Vanilla",
+    "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
@@ -242,9 +242,9 @@
    {
       "title":"kolmi",
 
-      "description":"<Descripton>",
+      "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_bosses",
 
@@ -262,9 +262,9 @@
    {
       "title":"master",
 
-      "description":"<Descripton>",
+      "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_bosses",
 
@@ -282,9 +282,9 @@
    {
       "title":"tiny",
 
-      "description":"<Descripton>",
+      "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_bosses",
 
@@ -304,7 +304,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -327,7 +327,7 @@
 
       "sublayer": "vanilla_structures",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "icon":"icons/Star.png",
 
@@ -346,7 +346,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -367,7 +367,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -387,7 +387,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -408,7 +408,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -429,7 +429,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -450,7 +450,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -471,7 +471,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -492,7 +492,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -513,7 +513,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -534,7 +534,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -555,7 +555,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -576,7 +576,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -597,7 +597,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -618,7 +618,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -639,7 +639,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -660,7 +660,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -681,7 +681,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -702,7 +702,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -723,7 +723,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -744,7 +744,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -765,7 +765,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -786,7 +786,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -807,7 +807,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -828,7 +828,7 @@
 
       "description":"Tower Portal Diamond",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -849,7 +849,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -870,7 +870,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -891,7 +891,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -912,7 +912,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -933,7 +933,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -954,7 +954,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -975,7 +975,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -996,7 +996,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -1017,7 +1017,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -1037,7 +1037,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -1057,7 +1057,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
@@ -1077,7 +1077,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1097,7 +1097,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1117,7 +1117,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1137,7 +1137,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1157,7 +1157,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1177,7 +1177,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1197,7 +1197,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1217,7 +1217,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1237,7 +1237,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1257,7 +1257,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1277,7 +1277,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1297,7 +1297,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1317,7 +1317,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1337,7 +1337,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1357,7 +1357,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1378,7 +1378,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1399,7 +1399,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1420,7 +1420,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1441,7 +1441,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1462,7 +1462,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1482,7 +1482,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1502,7 +1502,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1523,7 +1523,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
@@ -1543,7 +1543,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_orbs",
 
@@ -1564,7 +1564,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_orbs",
 
@@ -1585,7 +1585,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_orbs",
 
@@ -1606,7 +1606,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_orbs",
 
@@ -1627,7 +1627,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_orbs",
 
@@ -1648,7 +1648,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_orbs",
 
@@ -1669,7 +1669,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_orbs",
 
@@ -1690,7 +1690,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_orbs",
 
@@ -1711,7 +1711,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_orbs",
 
@@ -1732,7 +1732,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_orbs",
 
@@ -1753,7 +1753,7 @@
 
       "description":"<Descripton>",
 
-      "layer":"Vanilla",
+      "layer":"Noita",
 
       "sublayer": "vanilla_orbs",
 

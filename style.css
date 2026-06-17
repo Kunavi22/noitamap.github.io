@@ -215,7 +215,7 @@ body
 
 #tooltipTitle
 {
-    font-size: 22px;
+    font-size: 26px;
 
     font-weight: bold;
 
@@ -228,7 +228,7 @@ body
 
 #tooltipDescription
 {
-    font-size:14px;
+    font-size:20px;
 
     color:#cccccc;
 
@@ -312,7 +312,7 @@ body
 
     color:white;
 
-    font-size:16px;
+    font-size:22px;
 
     margin-top:6px;
 
