@@ -1238,3 +1238,15 @@ function loadTutorialPannel()
     });
 
 }
+
+function updateScale() {
+    const scale = Math.min(
+        window.innerWidth / 1920,
+        window.innerHeight / 1080
+    );
+
+    document.documentElement.style.setProperty('--scale', scale);
+}
+
+window.addEventListener('resize', updateScale);
+updateScale();

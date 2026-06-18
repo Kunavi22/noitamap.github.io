@@ -7,9 +7,12 @@
     font-display: swap;
 }
 
+:root {
+    --scale: 1;
+}
+
 html {
-    /* Responsive scaling: base font size scales with viewport width */
-    font-size: clamp(16px, 2vw, 32px);
+    font-size: calc(32px * var(--scale));
 }
 
 * {
