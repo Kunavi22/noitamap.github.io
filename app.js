@@ -1213,7 +1213,7 @@ function loadTutorialPannel()
             <p>Left-click on a marker to open its wiki page.</p>
             <p>Right-click on a marker to mark it as completed.</p>
             <p>Scroll to zoom and drag to pan.</p>
-            <div class="title" style="background: linear-gradient(to bottom, #FFFCA0 0%, #FFC240 40%, #FF6D3B 75%, #D63434 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 0;">Happy Noiting!</div>
+           <div class="header"><div class="title">Happy Noiting!</div></div>
          </div>
        
     `;
