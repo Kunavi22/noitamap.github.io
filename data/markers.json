@@ -299,7 +299,7 @@
 
       "y": 16500    
    },
-   {
+      {
       "title":"Altar",
 
       "description":"<Descripton>",
@@ -1081,9 +1081,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/beer.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
       "url":"https://google.com",
@@ -1101,9 +1101,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/flute.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/flute.png",
 
 
       "url":"https://google.com",
@@ -1121,9 +1121,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/essence_air.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/essence_air.png",
 
 
       "url":"https://google.com",
@@ -1141,9 +1141,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/rainbow_trail.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/rainbow_trail.png",
 
 
       "url":"https://google.com",
@@ -1161,9 +1161,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/essence_fire.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/essence_fire.png",
 
 
       "url":"https://google.com",
@@ -1181,9 +1181,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/essence_alcohol.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/essence_alcohol.png",
 
 
       "url":"https://google.com",
@@ -1201,9 +1201,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/essence_water.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/essence_water.png",
 
 
       "url":"https://google.com",
@@ -1221,9 +1221,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/music_machine.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/music_machine.png",
 
 
       "url":"https://google.com",
@@ -1241,9 +1241,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/icon-orbs.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/icon-orbs.webp",
 
 
       "url":"https://google.com",
@@ -1261,9 +1261,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/music_machine.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/music_machine.png",
 
 
       "url":"https://google.com",
@@ -1281,9 +1281,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/evil_eye.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/evil_eye.png",
 
 
       "url":"https://google.com",
@@ -1301,9 +1301,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/musicstone.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/musicstone.png",
 
 
       "url":"https://google.com",
@@ -1321,9 +1321,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/music_machine.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/music_machine.png",
 
 
       "url":"https://google.com",
@@ -1341,9 +1341,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/karl.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/karl.webp",
 
 
       "url":"https://google.com",
@@ -1361,9 +1361,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/milk.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/milk.png",
 
 
       "url":"https://google.com",
@@ -1382,9 +1382,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/milk.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/milk.png",
 
 
       "url":"https://google.com",
@@ -1403,9 +1403,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/chest_dark.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/chest_dark.png",
 
 
       "url":"https://google.com",
@@ -1424,9 +1424,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/chest_light.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/chest_light.png",
 
 
       "url":"https://google.com",
@@ -1445,9 +1445,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/icon-orbs.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/icon-orbs.webp",
 
 
       "url":"https://google.com",
@@ -1466,9 +1466,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/music_machine.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/music_machine.png",
 
 
       "url":"https://google.com",
@@ -1486,9 +1486,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/Item_brimstone.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/item_brimstone.webp",
 
 
       "url":"https://google.com",
@@ -1506,9 +1506,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/Item_moon.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/item_moon.webp",
 
 
       "url":"https://google.com",
@@ -1527,9 +1527,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Items/kantele.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/kantele.png",
 
 
       "url":"https://google.com",
@@ -1547,9 +1547,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Orbs/orb_sea_of_lava.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Orbs/orb_sea_of_lava.webp",
 
 
       "url":"https://google.com",
@@ -1568,9 +1568,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Orbs/orb_earthquake.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Orbs/orb_earthquake.webp",
 
 
       "url":"https://google.com",
@@ -1589,9 +1589,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Orbs/orb_nuke.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Orbs/orb_nuke.webp",
 
 
       "url":"https://google.com",
@@ -1610,9 +1610,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Orbs/orb_thundercloud.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Orbs/orb_thundercloud.webp",
 
 
       "url":"https://google.com",
@@ -1631,9 +1631,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Orbs/orb_necromancy.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Orbs/orb_necromancy.webp",
 
 
       "url":"https://google.com",
@@ -1652,9 +1652,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Orbs/orb_summon_tentacle.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Orbs/orb_summon_tentacle.webp",
 
 
       "url":"https://google.com",
@@ -1673,9 +1673,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Orbs/orb_holy_bomb.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Orbs/orb_holy_bomb.webp",
 
 
       "url":"https://google.com",
@@ -1694,9 +1694,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Orbs/orb_spiral_shot.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Orbs/orb_spiral_shot.webp",
 
 
       "url":"https://google.com",
@@ -1715,9 +1715,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Orbs/orb_summon_deercoy.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Orbs/orb_summon_deercoy.webp",
 
 
       "url":"https://google.com",
@@ -1736,9 +1736,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Orbs/orb_fireworks.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Orbs/orb_fireworks.webp",
 
 
       "url":"https://google.com",
@@ -1757,9 +1757,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Orbs/orb_cement.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Orbs/orb_cement.webp",
 
 
       "url":"https://google.com",
