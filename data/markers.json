@@ -8,9 +8,9 @@
 
     "sublayer": "vanilla_bosses",
 
-   "icon":"icons/Vanilla/Bosses/kivi.png",
+   "icon":"icons/Vanilla/Bosses/FullImage/40px-Monster_boss_sky.webp",
 
-    "tooltipImage":"icons/Vanilla/Bosses/kivi.png",
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/40px-Monster_boss_sky.webp",
 
 
     "url":"https://noita.wiki.gg/wiki/Kivi",
@@ -28,12 +28,12 @@
 
     "sublayer": "vanilla_bosses",
 
-    "icon":"icons/Vanilla/Bosses/legs.png",
+    "icon":"icons/Vanilla/Bosses/FullImage/Monster_body_limbs_full.gif",
 
-    "tooltipImage":"icons/Vanilla/Bosses/legs.png",
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/Monster_body_limbs_full.gif",
 
 
-    "url":"https://noita.wiki.gg/wiki/Kolmisilm%C3%A4n_koipi",
+    "url":"https://noita.wiki.gg/wiki/Kolmisilmän_koipi",
 
     "x":9980,
 
@@ -48,7 +48,7 @@
 
     "sublayer": "vanilla_bosses",
 
-   "icon":"icons/Vanilla/Bosses/bridge.png",
+   "icon":"icons/Vanilla/Bosses/FullImage/Sauvojen_Tuntija.png",
 
     "tooltipImage":"icons/Vanilla/Bosses/FullImage/Sauvojen_Tuntija.webp",
 
@@ -60,240 +60,240 @@
     "y": 3500    
  },
   {
-    "title":"alchemist",
+    "title":"Ylialkemisti",
 
-    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
+    "description":"(\"Alchemist Boss\", \"High Alchemist\")",
 
     "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
-   "icon":"icons/Vanilla/Bosses/alchemist.png",
+    "icon":"icons/Vanilla/Bosses/FullImage/Monster_boss_alchemist_stand_full.gif",
 
-    "tooltipImage":"icons/Vanilla/Bosses/alchemist.png",
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/Monster_boss_alchemist_stand_full.gif",
 
 
-    "url":"https://google.com",
+    "url":"https://noita.wiki.gg/wiki/Ylialkemisti",
 
     "x":-4850,
 
     "y": 850    
  },
   {
-    "title":"deer",
+    "title":"Tapion vasalli",
 
-    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
+    "description":"(\"Deer Boss\", \"Tapio's Boss\", \"Island Boss\")",
 
     "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
-   "icon":"icons/Vanilla/Bosses/deer.png",
+   "icon":"icons/Vanilla/Bosses/FullImage/Boss_spirit_idle.gif",
 
-    "tooltipImage":"icons/Vanilla/Bosses/deer.png",
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/Boss_spirit_idle.gif",
 
 
-    "url":"https://google.com",
+    "url":"https://noita.wiki.gg/wiki/Tapion_vasalli",
 
     "x":-13675,
 
     "y": 140    
  },
   {
-    "title":"leviathan",
+    "title":"Syväolento",
 
-    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
+    "description":"(\"Leviathan\", \"Creature of the Deep\")",
 
     "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
-   "icon":"icons/Vanilla/Bosses/leviathan.png",
+   "icon":"icons/Vanilla/Bosses/FullImage/300px-Fish_giga_stand_full.gif",
 
-    "tooltipImage":"icons/Vanilla/Bosses/leviathan.png",
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/300px-Fish_giga_stand_full.gif",
 
 
-    "url":"https://google.com",
+    "url":"https://noita.wiki.gg/wiki/Syväolento",
 
     "x":-13960,
 
     "y": 10000    
  },
   {
-    "title":"forgotten",
+    "title":"Unohdettu",
 
-    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
+    "description":"(\"The Forgotten\", \"Ghost Boss\")",
 
     "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
-   "icon":"icons/Vanilla/Bosses/forgotten.png",
+   "icon":"icons/Vanilla/Bosses/FullImage/Monster_Boss_Ghost.webp",
 
-    "tooltipImage":"icons/Vanilla/Bosses/forgotten.png",
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/Monster_Boss_Ghost.webp",
 
 
-    "url":"https://google.com",
+    "url":"https://noita.wiki.gg/wiki/Unohdettu",
 
     "x":-11520,
 
     "y": 13160    
  },
   {
-    "title":"dragon",
+    "title":"Suomuhauki",
 
-    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
+    "description":"(\"Dragon\", \"Scale Pike\")",
 
     "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
-   "icon":"icons/Vanilla/Bosses/dragon.png",
+   "icon":"icons/Vanilla/Bosses/FullImage/300px-Suomuhauki.png",
 
-    "tooltipImage":"icons/Vanilla/Bosses/dragon.png",
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/300px-Suomuhauki.webp",
 
 
-    "url":"https://google.com",
+    "url":"https://noita.wiki.gg/wiki/Suomuhauki",
 
     "x":2340,
 
     "y": 7550    
  },
   {
-    "title":"heart",
+    "title":"Kolmisilmän sydän",
 
-    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
+    "description":"(\"Meat Boss\", \"Three-Eye's Heart\")",
 
     "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
-   "icon":"icons/Vanilla/Bosses/heart.png",
+   "icon":"icons/Vanilla/Bosses/FullImage/Boss_meat_idle.gif",
 
-    "tooltipImage":"icons/Vanilla/Bosses/heart.png",
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/Boss_meat_idle.gif",
 
 
-    "url":"https://google.com",
+    "url":"https://noita.wiki.gg/wiki/Kolmisilmän_sydän",
 
     "x":6920,
 
     "y": 9999    
  },
   {
-    "title":"eye",
+    "title":"Kolmisilmän silmä",
 
-    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
+    "description":"(\"Mecha Kolmi\", \"Three-Eye's Eye\")",
 
     "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
-   "icon":"icons/Vanilla/Bosses/eye.png",
+   "icon":"icons/Vanilla/Bosses/FullImage/MechaKolmi.png",
 
-    "tooltipImage":"icons/Vanilla/Bosses/eye.png",
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/MechaKolmi.png",
 
 
-    "url":"https://google.com",
+    "url":"https://noita.wiki.gg/wiki/Kolmisilmän_silmä",
 
     "x":14080,
 
     "y": 11095    
  },
   {
-    "title":"friend",
+    "title":"Toveri",
 
-    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
+    "description":"(\"Friend Boss\", \"Friend\")",
 
     "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
-   "icon":"icons/Vanilla/Bosses/friend.png",
+   "icon":"icons/Vanilla/Bosses/FullImage/Monster_friend_stand_full.gif",
 
-    "tooltipImage":"icons/Vanilla/Bosses/friend.png",
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/Monster_friend_stand_full.gif",
 
 
-    "url":"https://google.com",
+    "url":"https://noita.wiki.gg/wiki/Toveri",
 
     "x":-10490,
 
     "y": 4433    
    },
   {
-    "title":"door",
+    "title":"Veska, Molari, Mokke, Seula",
 
-    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
+    "description":"(\"Door Boss\", \"Gate Guardian\", \"Triangle boss\")",
 
     "layer":"Noita",
 
     "sublayer": "vanilla_bosses",
 
-   "icon":"icons/Vanilla/Bosses/door.png",
+   "icon":"icons/Vanilla/Bosses/FullImage/GateKeeperTransparent.png",
 
-    "tooltipImage":"icons/Vanilla/Bosses/door.png",
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/GateKeeperTransparent.png",
 
 
-    "url":"https://google.com",
+    "url":"https://noita.wiki.gg/wiki/Gate_Guardian",
 
     "x":2830,
 
     "y": 11590    
    },
    {
-      "title":"kolmi",
+      "title":"Kolmisilmä",
 
-      "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
+      "description":"(\"Kolmi\", \"Three Eye\")",
 
       "layer":"Noita",
 
       "sublayer": "vanilla_bosses",
 
-      "icon":"icons/Vanilla/Bosses/kolmi.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/Monster_boss_centipede_full.gif",
 
-      "tooltipImage":"icons/Vanilla/Bosses/kolmi.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/Monster_boss_centipede_full.gif",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Kolmisilmä",
 
       "x":3550,
 
       "y": 13010    
    },
    {
-      "title":"master",
+      "title":"Mestarien mestari",
 
-      "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
+      "description":"(\"The Master of Masters\", \"Grand Master\", \"Wizard Boss\")",
 
       "layer":"Noita",
 
       "sublayer": "vanilla_bosses",
 
-      "icon":"icons/Vanilla/Bosses/master.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/Monster_boss_wizard_stand_full.gif",
 
-      "tooltipImage":"icons/Vanilla/Bosses/master.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/Monster_boss_wizard_stand_full.gif",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Mestarien_mestari",
 
       "x":12566,
 
       "y": 15200    
    },
    {
-      "title":"tiny",
+      "title":"Limatoukka",
 
-      "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
+      "description":"(\"Tiny\", \"Slime Maggot\", \"Slime Caterpillar\")",
 
       "layer":"Noita",
 
       "sublayer": "vanilla_bosses",
 
-      "icon":"icons/Vanilla/Bosses/tiny.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/300px-Limatoukka_Circle.png",
 
-      "tooltipImage":"icons/Vanilla/Bosses/tiny.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/300px-Limatoukka_Circle.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Limatoukka",
 
       "x":14888,
 
@@ -308,9 +308,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -329,9 +329,9 @@
 
       "layer":"Noita",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -350,9 +350,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -371,9 +371,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -391,9 +391,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -412,9 +412,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -433,9 +433,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -454,9 +454,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -475,9 +475,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -496,9 +496,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -517,9 +517,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -538,9 +538,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -559,9 +559,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -580,9 +580,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -601,9 +601,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -622,9 +622,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -643,9 +643,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -664,9 +664,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -685,9 +685,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -706,9 +706,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -727,9 +727,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -748,9 +748,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -769,9 +769,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -790,9 +790,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -811,9 +811,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -832,9 +832,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -853,9 +853,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -874,9 +874,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -895,9 +895,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -916,9 +916,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -937,9 +937,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -958,9 +958,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -979,9 +979,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1000,9 +1000,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1021,9 +1021,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1041,9 +1041,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1061,9 +1061,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1081,9 +1081,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/beer.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1101,9 +1101,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/flute.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/flute.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1121,9 +1121,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/essence_air.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/essence_air.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1141,9 +1141,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/rainbow_trail.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/rainbow_trail.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1161,9 +1161,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/essence_fire.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/essence_fire.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1181,9 +1181,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/essence_alcohol.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/essence_alcohol.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1201,9 +1201,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/essence_water.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/essence_water.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1221,9 +1221,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/music_machine.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/music_machine.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1241,9 +1241,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/icon-orbs.webp",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/icon-orbs.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1261,9 +1261,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/music_machine.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/music_machine.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1281,9 +1281,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/evil_eye.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/evil_eye.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1301,9 +1301,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/musicstone.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/musicstone.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1321,9 +1321,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/music_machine.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/music_machine.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1341,9 +1341,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/karl.webp",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/karl.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1361,9 +1361,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/milk.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/milk.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1382,9 +1382,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/milk.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/milk.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1403,9 +1403,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/chest_dark.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/chest_dark.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1424,9 +1424,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/chest_light.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/chest_light.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1445,9 +1445,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/icon-orbs.webp",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/icon-orbs.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1466,9 +1466,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/music_machine.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/music_machine.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1486,9 +1486,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/Item_brimstone.webp",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/item_brimstone.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1506,9 +1506,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/Item_moon.webp",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/item_moon.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1527,9 +1527,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/kantele.png",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Items/kantele.png",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1547,9 +1547,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Vanilla/Orbs/orb_sea_of_lava.webp",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Orbs/orb_sea_of_lava.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1568,9 +1568,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Vanilla/Orbs/orb_earthquake.webp",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Orbs/orb_earthquake.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1589,9 +1589,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Vanilla/Orbs/orb_nuke.webp",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Orbs/orb_nuke.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1610,9 +1610,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Vanilla/Orbs/orb_thundercloud.webp",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Orbs/orb_thundercloud.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1631,9 +1631,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Vanilla/Orbs/orb_necromancy.webp",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Orbs/orb_necromancy.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1652,9 +1652,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Vanilla/Orbs/orb_summon_tentacle.webp",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Orbs/orb_summon_tentacle.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1673,9 +1673,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Vanilla/Orbs/orb_holy_bomb.webp",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Orbs/orb_holy_bomb.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1694,9 +1694,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Vanilla/Orbs/orb_spiral_shot.webp",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Orbs/orb_spiral_shot.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1715,9 +1715,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Vanilla/Orbs/orb_summon_deercoy.webp",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Orbs/orb_summon_deercoy.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1736,9 +1736,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Vanilla/Orbs/orb_fireworks.webp",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Orbs/orb_fireworks.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
@@ -1757,9 +1757,9 @@
 
       "sublayer": "vanilla_orbs",
 
-      "icon":"icons/Vanilla/Orbs/orb_cement.webp",
+      "icon":"icons/Vanilla/Bosses/FullImage/",
 
-      "tooltipImage":"icons/Vanilla/Orbs/orb_cement.webp",
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/",
 
 
       "url":"https://google.com",
