@@ -9,7 +9,7 @@
 
 html {
     /* Responsive scaling: base font size scales with viewport width */
-    font-size: clamp(12px, 2vw, 16px);
+    font-size: clamp(24px, 2vw, 48px);
 }
 
 * {
