@@ -69,9 +69,9 @@ body
 
 #tooltipImage
 {
-    width:4rem;
+    width:6rem;
 
-    height:4rem;
+    height:6rem;
 
     object-fit:contain;
 }
@@ -189,8 +189,8 @@ body
 
 .marker
 {
-    width: 2rem;
-    height: 2rem;
+    width: 2.3rem;
+    height: 2.3rem;
 
     cursor: pointer;
 
@@ -204,6 +204,8 @@ body
     transition: transform 0.15s ease, filter 0.15s ease, opacity 0.15s ease;
 
     position: absolute;
+
+    object-fit: contain;
 }
 
 #tooltipContent
@@ -221,7 +223,7 @@ body
 
 #tooltipTitle
 {
-    font-size: 1.625rem;
+    font-size: 2rem;
 
     font-weight: bold;
 

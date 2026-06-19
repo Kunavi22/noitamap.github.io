@@ -308,9 +308,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Mountain_Altar_Glow.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Mountain_Altar_Glow.png",
 
 
       "url":"https://google.com",
@@ -321,7 +321,7 @@
    }
    ,
    {
-      "title":"greedCurse",
+      "title":"Greed Curse",
 
       "description":"<Descripton>",
 
@@ -329,9 +329,9 @@
 
       "layer":"Noita",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/GreedCurse.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/GreedCurse.webp",
 
 
       "url":"https://google.com",
@@ -350,30 +350,30 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Mimicium.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Barren.png",
 
 
       "url":"https://google.com",
 
       "x":-5473,
 
-      "y": -5140    
+      "y": -5000   
    }
    ,
    {
-      "title":"Henkeva Temple 'Spirited temple'",
+      "title":"Henkeva Temple",
 
-      "description":"<Descripton>",
+      "description":"(\"Spirited temple\"))",
 
       "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Mimicium.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Spirited_Temple.png",
 
 
       "url":"https://google.com",
@@ -391,16 +391,16 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Mimicium.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Ominous_Temple.png",
 
 
       "url":"https://google.com",
 
       "x":2777,
 
-      "y": -4700    
+      "y": -5000   
    }
    ,
    {
@@ -414,7 +414,7 @@
 
       "icon":"icons/SharedIcons/Effect_trip.webp",
 
-      "tooltipImage":"icons/SharedIcons/Effect_trip.webp",
+      "tooltipImage":"icons/Vanilla/Locations/FungalAltar.png",
 
 
       "url":"https://google.com",
@@ -435,7 +435,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Item_gourd.png",
 
 
       "url":"https://google.com",
@@ -475,9 +475,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Moon_Gloww.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Moon_Gloww.png",
 
 
       "url":"https://google.com",
@@ -498,7 +498,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Huussi.png",
 
 
       "url":"https://google.com",
@@ -561,7 +561,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Scale.png",
 
 
       "url":"https://google.com",
@@ -582,7 +582,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/IslandStatue.png",
 
 
       "url":"https://google.com",
@@ -590,6 +590,27 @@
       "x":-14070,
 
       "y": 200    
+   }
+   ,
+      {
+      "title":"Anvil",
+
+      "description":"<Descripton>",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Anvil_Glow.png",
+
+
+      "url":"https://google.com",
+
+      "x":1540,
+
+      "y": 6070    
    }
    ,
    {
@@ -603,7 +624,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Heart.png",
 
 
       "url":"https://google.com",
@@ -624,7 +645,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Items/karl.webp",
 
 
       "url":"https://google.com",
@@ -645,7 +666,7 @@
 
       "icon":"icons/SharedIcons/Effect_trip.webp",
 
-      "tooltipImage":"icons/SharedIcons/Effect_trip.webp",
+      "tooltipImage":"icons/Vanilla/Locations/FungalAltar.png",
 
 
       "url":"https://google.com",
@@ -664,9 +685,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/MeditationRoom_Glow.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/MeditationRoom_Glow.png",
 
 
       "url":"https://google.com",
@@ -708,7 +729,7 @@
 
       "icon":"icons/SharedIcons/Effect_trip.webp",
 
-      "tooltipImage":"icons/SharedIcons/Effect_trip.webp",
+      "tooltipImage":"icons/Vanilla/Locations/FungalAltar.png",
 
 
       "url":"https://google.com",
@@ -727,9 +748,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Diamond.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Perk_moon_radar.webp",
 
 
       "url":"https://google.com",
@@ -737,6 +758,27 @@
       "x":16130,
 
       "y": 3330    
+   }
+      ,
+      {
+   "title":"Tower Entrance Diamond",
+
+   "description":"<Descripton>",
+
+   "layer":"Noita",
+
+   "sublayer": "vanilla_structures",
+
+   "icon":"icons/Vanilla/Locations/Diamond.png",
+
+   "tooltipImage":"icons/Vanilla/Locations/Diamond.png",
+
+
+   "url":"https://google.com",
+
+   "x":-4346,
+
+   "y": 10991
    }
       ,
    {
@@ -761,6 +803,27 @@
    }
       ,
    {
+      "title":"Portal Room",
+
+      "description":"<Descripton>",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Star.png",
+
+      "tooltipImage":"icons/Star.png",
+
+
+      "url":"https://google.com",
+
+      "x":4867,
+
+      "y": 9000    
+   }
+      ,
+   {
       "title":"Fungal Altar - Power plant",
 
       "description":"<Descripton>",
@@ -771,7 +834,7 @@
 
       "icon":"icons/SharedIcons/Effect_trip.webp",
 
-      "tooltipImage":"icons/SharedIcons/Effect_trip.webp",
+      "tooltipImage":"icons/Vanilla/Locations/FungalAltar.png",
 
 
       "url":"https://google.com",
@@ -790,9 +853,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Diamond.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Wands/Actual_wand_honest.webp",
 
 
       "url":"https://google.com",
@@ -813,7 +876,7 @@
 
       "icon":"icons/SharedIcons/Effect_trip.webp",
 
-      "tooltipImage":"icons/SharedIcons/Effect_trip.webp",
+      "tooltipImage":"icons/Vanilla/Locations/FungalAltar.png",
 
 
       "url":"https://google.com",
@@ -832,9 +895,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Diamond.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/TowerWands.png",
 
 
       "url":"https://google.com",
@@ -853,9 +916,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Avarice_diamond_Glow.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/AvericeDiamond.png",
 
 
       "url":"https://google.com",
@@ -874,9 +937,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Eye_Glow.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Eye_Glow.png",
 
 
       "url":"https://google.com",
@@ -897,7 +960,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Hourglass.png",
 
 
       "url":"https://google.com",
@@ -937,9 +1000,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Eyeroom.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Eyeroom.png",
 
 
       "url":"https://google.com",
@@ -958,9 +1021,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Work.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Work.png",
 
 
       "url":"https://google.com",
@@ -981,7 +1044,7 @@
 
       "icon":"icons/Star.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Spell_all_spells.webp",
 
 
       "url":"https://google.com",
@@ -1021,9 +1084,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Dark_Moon_Glow.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Dark_Moon_Glow.png",
 
 
       "url":"https://google.com",
@@ -1061,9 +1124,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Cauldron_Glow.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Cauldron_Room.png",
 
 
       "url":"https://google.com",
