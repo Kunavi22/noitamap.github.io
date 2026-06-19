@@ -404,7 +404,7 @@
    }
    ,
    {
-      "title":"Fungal Alter - Air",
+      "title":"Fungal Altar - Air",
 
       "description":"<Descripton>",
 
@@ -412,9 +412,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/SharedIcons/Effect_trip.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/SharedIcons/Effect_trip.webp",
 
 
       "url":"https://google.com",
@@ -643,9 +643,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/SharedIcons/Effect_trip.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/SharedIcons/Effect_trip.webp",
 
 
       "url":"https://google.com",
@@ -685,9 +685,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/SharedIcons/Effect_trip.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/SharedIcons/Effect_trip.webp",
 
 
       "url":"https://google.com",
@@ -698,7 +698,7 @@
    }
    ,
    {
-      "title":"Fungular altar - Overgrown Cavern",
+      "title":"Fungal Altar - Overgrown Cavern",
 
       "description":"<Descripton>",
 
@@ -706,9 +706,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/SharedIcons/Effect_trip.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/SharedIcons/Effect_trip.webp",
 
 
       "url":"https://google.com",
@@ -761,7 +761,7 @@
    }
       ,
    {
-      "title":"Fungal altar - Power plant",
+      "title":"Fungal Altar - Power plant",
 
       "description":"<Descripton>",
 
@@ -769,9 +769,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/SharedIcons/Effect_trip.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/SharedIcons/Effect_trip.webp",
 
 
       "url":"https://google.com",
@@ -803,7 +803,7 @@
    }
       ,
    {
-      "title":"Fungular altar - Vault",
+      "title":"Fungal Altar - Vault",
 
       "description":"<Descripton>",
 
@@ -811,9 +811,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/SharedIcons/Effect_trip.webp",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/SharedIcons/Effect_trip.webp",
 
 
       "url":"https://google.com",
