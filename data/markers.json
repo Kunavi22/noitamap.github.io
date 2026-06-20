@@ -412,7 +412,7 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/SharedIcons/Effect_trip.webp",
+      "icon":"icons/Vanilla/Locations/FungalAltar.png",
 
       "tooltipImage":"icons/Vanilla/Locations/FungalAltar.png",
 
@@ -433,7 +433,7 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Item_gourd.png",
 
       "tooltipImage":"icons/Vanilla/Locations/Item_gourd.png",
 
@@ -454,9 +454,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Gold_GLow.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Gold.png",
 
 
       "url":"https://google.com",
@@ -496,7 +496,7 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Huussi_Glow.png",
 
       "tooltipImage":"icons/Vanilla/Locations/Huussi.png",
 
@@ -517,9 +517,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Skull_Glow.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Skull_Glow.png",
 
 
       "url":"https://google.com",
@@ -538,9 +538,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Watchtower_Glow.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Watchtower.png",
 
 
       "url":"https://google.com",
@@ -559,7 +559,7 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Scale_Glow.png",
 
       "tooltipImage":"icons/Vanilla/Locations/Scale.png",
 
@@ -580,7 +580,7 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Island_Glow.png",
 
       "tooltipImage":"icons/Vanilla/Locations/IslandStatue.png",
 
@@ -601,7 +601,7 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Anvil_Outline.png",
 
       "tooltipImage":"icons/Vanilla/Locations/Anvil_Glow.png",
 
@@ -622,7 +622,7 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Heart.png",
 
       "tooltipImage":"icons/Vanilla/Locations/Heart.png",
 
@@ -643,9 +643,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/RaceTrack_Glow.png",
 
-      "tooltipImage":"icons/Vanilla/Items/karl.webp",
+      "tooltipImage":"icons/Vanilla/Locations/RaceTrack.png",
 
 
       "url":"https://google.com",
@@ -664,7 +664,7 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/SharedIcons/Effect_trip.webp",
+      "icon":"icons/Vanilla/Locations/FungalAltar.png",
 
       "tooltipImage":"icons/Vanilla/Locations/FungalAltar.png",
 
@@ -706,9 +706,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/SharedIcons/Effect_trip.webp",
+      "icon":"icons/Vanilla/Locations/BigFungus_Glow.png",
 
-      "tooltipImage":"icons/SharedIcons/Effect_trip.webp",
+      "tooltipImage":"icons/Vanilla/Locations/BigFungus.png",
 
 
       "url":"https://google.com",
@@ -727,7 +727,7 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/SharedIcons/Effect_trip.webp",
+      "icon":"icons/Vanilla/Locations/FungalAltar.png",
 
       "tooltipImage":"icons/Vanilla/Locations/FungalAltar.png",
 
@@ -790,9 +790,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Null_Altar_Glow.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Null_Altar.png",
 
 
       "url":"https://google.com",
@@ -811,9 +811,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/RedPortal.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/RedPortal.png",
 
 
       "url":"https://google.com",
@@ -832,7 +832,7 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/SharedIcons/Effect_trip.webp",
+      "icon":"icons/Vanilla/Locations/FungalAltar.png",
 
       "tooltipImage":"icons/Vanilla/Locations/FungalAltar.png",
 
@@ -874,7 +874,7 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/SharedIcons/Effect_trip.webp",
+      "icon":"icons/Vanilla/Locations/FungalAltar.png",
 
       "tooltipImage":"icons/Vanilla/Locations/FungalAltar.png",
 
@@ -958,7 +958,7 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Hourglass_Glow.png",
 
       "tooltipImage":"icons/Vanilla/Locations/Hourglass.png",
 
@@ -979,9 +979,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Sauna_Glow.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Sauna_Glow.png",
 
 
       "url":"https://google.com",
@@ -1042,7 +1042,7 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/MechEgg_Glow.png",
 
       "tooltipImage":"icons/Vanilla/Locations/Spell_all_spells.webp",
 
@@ -1063,9 +1063,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Gold_GLow.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Gold.png",
 
 
       "url":"https://google.com",
@@ -1104,9 +1104,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Star.png",
+      "icon":"icons/Vanilla/Locations/Pillars_Full_Glow.png",
 
-      "tooltipImage":"icons/Star.png",
+      "tooltipImage":"icons/Vanilla/Locations/Pillars_Full.png",
 
 
       "url":"https://google.com",
@@ -1126,7 +1126,7 @@
 
       "icon":"icons/Vanilla/Locations/Cauldron_Glow.png",
 
-      "tooltipImage":"icons/Vanilla/Locations/Cauldron_Room.png",
+      "tooltipImage":"icons/Vanilla/Locations/Cauldron_Glow.png",
 
 
       "url":"https://google.com",
