@@ -42,7 +42,7 @@
   {
     "title":"Sauvojen tuntija",
 
-    "description":"Bridge Boss,Connoisseur of Wands, Squid Boss, Pit Boss, Wand Boss",
+    "description":"Bridge Boss,Connoisseur of Wands, Squid Boss, Pit Boss, Wand Boss\n\nSpawn locaiton and trigger is moved by \"New Enemies\" mod if you enable Feeniks boss",
 
     "layer":"Noita",
 
@@ -454,7 +454,7 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Vanilla/Locations/Gold_GLow.png",
+      "icon":"icons/Vanilla/Locations/Gold_Glow.png",
 
       "tooltipImage":"icons/Vanilla/Locations/Gold.png",
 
