@@ -184,7 +184,7 @@ function createLayerButtons()
 
     sublayers:
     [
-   
+         { id: "apotheosis_bosses", label: "Bosses" , icon:"icons/boss.webp", defaultOn: true},
     ],
 
     defaultOn: false

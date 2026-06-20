@@ -2,7 +2,7 @@
  {
     "title":"Kivi",
 
-    "description":"(\"Stone Boss\", \"Sky Boss\", \"Rock Boss\")",
+    "description":"Stone Boss, Sky Boss, Rock Boss",
 
     "layer":"Noita",
 
@@ -22,7 +22,7 @@
   {
     "title":"Kolmisilmän koipi",
 
-    "description":"(\"Three-Eye's Legs\", \"Pyramid Boss\")",
+    "description":"Three-Eye's Legs, Pyramid Boss",
 
     "layer":"Noita",
 
@@ -42,7 +42,7 @@
   {
     "title":"Sauvojen tuntija",
 
-    "description":"(\"Bridge Boss\",\"Connoisseur of Wands\", \"Squid Boss\", \"Pit Boss\", \"Wand Boss\")",
+    "description":"Bridge Boss,Connoisseur of Wands, Squid Boss, Pit Boss, Wand Boss",
 
     "layer":"Noita",
 
@@ -62,7 +62,7 @@
   {
     "title":"Ylialkemisti",
 
-    "description":"(\"Alchemist Boss\", \"High Alchemist\")",
+    "description":"Alchemist Boss, High Alchemist",
 
     "layer":"Noita",
 
@@ -82,7 +82,7 @@
   {
     "title":"Tapion vasalli",
 
-    "description":"(\"Deer Boss\", \"Tapio's Boss\", \"Island Boss\")",
+    "description":"Deer Boss, Tapio's Boss, Island Boss",
 
     "layer":"Noita",
 
@@ -102,7 +102,7 @@
   {
     "title":"Syväolento",
 
-    "description":"(\"Leviathan\", \"Creature of the Deep\")",
+    "description":"Leviathan, Creature of the Deep",
 
     "layer":"Noita",
 
@@ -122,7 +122,7 @@
   {
     "title":"Unohdettu",
 
-    "description":"(\"The Forgotten\", \"Ghost Boss\")",
+    "description":"The Forgotten, Ghost Boss",
 
     "layer":"Noita",
 
@@ -142,7 +142,7 @@
   {
     "title":"Suomuhauki",
 
-    "description":"(\"Dragon\", \"Scale Pike\")",
+    "description":"Dragon, Scale Pike",
 
     "layer":"Noita",
 
@@ -162,7 +162,7 @@
   {
     "title":"Kolmisilmän sydän",
 
-    "description":"(\"Meat Boss\", \"Three-Eye's Heart\")",
+    "description":"Meat Boss, Three-Eye's Heart",
 
     "layer":"Noita",
 
@@ -182,7 +182,7 @@
   {
     "title":"Kolmisilmän silmä",
 
-    "description":"(\"Mecha Kolmi\", \"Three-Eye's Eye\")",
+    "description":"Mecha Kolmi, Three-Eye's Eye",
 
     "layer":"Noita",
 
@@ -202,7 +202,7 @@
   {
     "title":"Toveri",
 
-    "description":"(\"Friend Boss\", \"Friend\")",
+    "description":"Friend Boss, Friend",
 
     "layer":"Noita",
 
@@ -222,7 +222,7 @@
   {
     "title":"Veska, Molari, Mokke, Seula",
 
-    "description":"(\"Door Boss\", \"Gate Guardian\", \"Triangle boss\")",
+    "description":"Door Boss, Gate Guardian, Triangle boss",
 
     "layer":"Noita",
 
@@ -242,7 +242,7 @@
    {
       "title":"Kolmisilmä",
 
-      "description":"(\"Kolmi\", \"Three Eye\")",
+      "description":"Kolmi, Three Eye",
 
       "layer":"Noita",
 
@@ -262,7 +262,7 @@
    {
       "title":"Mestarien mestari",
 
-      "description":"(\"The Master of Masters\", \"Grand Master\", \"Wizard Boss\")",
+      "description":"The Master of Masters, Grand Master, Wizard Boss",
 
       "layer":"Noita",
 
@@ -282,7 +282,7 @@
    {
       "title":"Limatoukka",
 
-      "description":"(\"Tiny\", \"Slime Maggot\", \"Slime Caterpillar\")",
+      "description":"Tiny, Slime Maggot, Slime Caterpillar",
 
       "layer":"Noita",
 
@@ -365,7 +365,7 @@
    {
       "title":"Henkeva Temple",
 
-      "description":"(\"Spirited temple\"))",
+      "description":"Spirited temple)",
 
       "layer":"Noita",
 
@@ -1870,7 +1870,85 @@
       "x":10487,
 
       "y": 16325    
-   }
+   },
+
+   {
+    "title": "Kerettiläinenhirviö",
+    "description": ["Heretical Monster"],
+    "x": 21294,
+    "y": 5969,
+    "layer":"Apotheosis",
+    "sublayer": "apotheosis_bosses",
+    "icon": "icons/Apotheosis/Bosses/HereticBoss_Glow.png",
+    "tooltipImage":"icons/Apotheosis/Bosses/HereticBoss.png",
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Heretical_Monster"
+  },
+  {
+    "title": "Hylätty Orkesteri",
+    "description": ["Abandoned Orchestra"],
+    "x": 11971,
+    "y": 6866,
+    "layer":"Apotheosis",
+    "sublayer": "apotheosis_bosses",
+    "icon": "icons/Apotheosis/Bosses/NoteBoss_Glow.png",
+    "tooltipImage":"icons/Apotheosis/Bosses/NoteBoss.png",
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Abandoned Orchestra"
+  },
+  {
+    "title": "Kolossaalimöykky",
+    "description": ["Colossal Blob"],
+    "x": 4014,
+    "y": 9099,
+    "layer":"Apotheosis",
+    "sublayer": "apotheosis_bosses",
+    "icon": "icons/Apotheosis/Bosses/BlobBoss_Glow.png",
+    "tooltipImage":"icons/Apotheosis/Bosses/BlobBoss.png",
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Colossal Blob"
+  },
+  {
+    "title": "Tulen Esteetikko",
+    "description": ["Aesthete of Heat"],
+    "x": 2860,
+    "y": 966,
+    "layer":"Apotheosis",
+    "sublayer": "apotheosis_bosses",
+    "icon": "icons/Apotheosis/Bosses/HellWorm_Glow.png",
+    "tooltipImage":"icons/Apotheosis/Bosses/HellWorm.png",
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Aesthete of Heat"
+  },
+  {
+    "title": "Suur-Helvetinmato",
+    "description": ["Greater Hell Worm"],
+    "x": 331,
+    "y": 40727,
+    "layer":"Apotheosis",
+    "sublayer": "apotheosis_bosses",
+    "icon": "icons/Apotheosis/Bosses/hellworm_Glow.png",
+    "tooltipImage":"icons/Apotheosis/Bosses/hellworm.png",
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Greater Hell Worm"
+  },
+  {
+    "title": "Jättimyrkyllinenmato",
+    "description": ["Giant Toxic Worm"],
+    "x": 2258,
+    "y": 2232,
+    "layer":"Apotheosis",
+    "sublayer": "apotheosis_bosses",
+    "icon": "icons/Apotheosis/Bosses/ToxicWorm_Glow_2.png",
+    "tooltipImage":"icons/Apotheosis/Bosses/ToxicWorm_2.png",
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Giant Toxic Worm"
+  },
+  {
+    "title": "Monoliitti",
+    "description": ["Monolith"],
+    "x": -19102,
+    "y": -22,
+    "layer":"Apotheosis",
+    "sublayer": "apotheosis_bosses",
+    "icon": "icons/Apotheosis/Bosses/MonolithBoss_Glow.png",
+    "tooltipImage":"icons/Apotheosis/Bosses/MonolithBoss.png",
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Monolith"
+  }
    
      
  
