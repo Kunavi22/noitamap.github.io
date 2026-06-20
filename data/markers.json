@@ -17,9 +17,9 @@
 
     "x":7373,
 
-    "y": -4540 
- },
-  {
+    "y": -4540
+   },
+   {
     "title":"Kolmisilmän koipi",
 
     "description":"Three-Eye's Legs, Pyramid Boss",
@@ -302,7 +302,7 @@
       {
       "title":"Altar",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -313,7 +313,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Mountain_Altar_Glow.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Mountain_Altar",
 
       "x":788,
 
@@ -323,7 +323,7 @@
    {
       "title":"Greed Curse",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "sublayer": "vanilla_structures",
 
@@ -334,7 +334,7 @@
       "tooltipImage":"icons/Vanilla/Locations/GreedCurse.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Curse_of_Greed",
 
       "x":-1375,
 
@@ -344,7 +344,7 @@
    {
       "title":"Barren Temple",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -355,7 +355,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Barren.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Sky_Temples#Barren_Temple",
 
       "x":-5473,
 
@@ -365,7 +365,7 @@
    {
       "title":"Henkeva Temple",
 
-      "description":"Spirited temple)",
+      "description":"Spirited temple",
 
       "layer":"Noita",
 
@@ -376,7 +376,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Spirited_Temple.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Sky_Temples#Henkev%C3%A4_Temple",
 
       "x":-1800,
 
@@ -385,7 +385,7 @@
    {
       "title":"Ominous Temple",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -396,7 +396,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Ominous_Temple.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Sky_Temples#Ominous_Temple",
 
       "x":2777,
 
@@ -406,7 +406,7 @@
    {
       "title":"Fungal Altar - Air",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -417,7 +417,7 @@
       "tooltipImage":"icons/Vanilla/Locations/FungalAltar.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Advanced_Guide:_Sun_Quest#The_Fungal_Altars",
 
       "x":5932,
 
@@ -427,7 +427,7 @@
    {
       "title":"Gourd Cave",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -438,7 +438,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Item_gourd.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Refreshing_Gourd",
 
       "x":-16160,
 
@@ -446,9 +446,9 @@
    }
    ,
    {
-      "title":"Gold biome",
+      "title":"Gold Biome",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -459,7 +459,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Gold.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/The_Gold",
 
       "x":22850,
 
@@ -469,7 +469,7 @@
    {
       "title":"Sun/Moon",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -480,7 +480,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Moon_Gloww.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Moon",
 
       "x":270,
 
@@ -490,7 +490,7 @@
    {
       "title":"Outhouse",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -501,7 +501,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Huussi.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Touch_of_Gold%3F#Locating",
 
       "x":9090,
 
@@ -511,7 +511,7 @@
    {
       "title":"Desert skull, Eye",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -522,7 +522,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Skull.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Desert#The_Giant_Skull",
 
       "x":7425,
 
@@ -532,7 +532,7 @@
    {
       "title":"Watchtower",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -543,7 +543,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Watchtower.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Desert#Watchtower",
 
       "x":14070,
 
@@ -553,7 +553,7 @@
    {
       "title":"Scales",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -564,7 +564,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Scale.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Scales",
 
       "x":13060,
 
@@ -574,7 +574,7 @@
    {
       "title":"Lake Island",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -585,7 +585,7 @@
       "tooltipImage":"icons/Vanilla/Locations/IslandStatue_Glow.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Lake#Lake_Island",
 
       "x":-14070,
 
@@ -595,7 +595,7 @@
       {
       "title":"Anvil",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -606,7 +606,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Anvil_Glow.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Hiisi_Anvil",
 
       "x":1540,
 
@@ -616,7 +616,7 @@
    {
       "title":"Dark cave",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -627,7 +627,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Heart.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Dark_Cave",
 
       "x":-1800,
 
@@ -637,7 +637,7 @@
    {
       "title":"Race track",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -648,7 +648,7 @@
       "tooltipImage":"icons/Vanilla/Locations/RaceTrack.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Racetrack",
 
       "x":3200,
 
@@ -658,7 +658,7 @@
    {
       "title":"Fungal Altar - Fungal Cavern",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -669,7 +669,7 @@
       "tooltipImage":"icons/Vanilla/Locations/FungalAltar.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Advanced_Guide:_Sun_Quest#The_Fungal_Altars",
 
       "x":-3330,
 
@@ -679,7 +679,7 @@
    {
       "title":"Meditation Cube Room",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -690,7 +690,7 @@
       "tooltipImage":"icons/Vanilla/Locations/MeditationRoom_Glow.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Meditation_Chamber",
 
       "x":-4350,
 
@@ -700,7 +700,7 @@
    {
       "title":"Big fungus - Desert Caves",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -711,7 +711,7 @@
       "tooltipImage":"icons/Vanilla/Locations/BigFungus.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Advanced_Guide:_Sun_Quest#The_Fungal_Altars",
 
       "x":5900,
 
@@ -721,7 +721,7 @@
    {
       "title":"Fungal Altar - Overgrown Cavern",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -732,7 +732,7 @@
       "tooltipImage":"icons/Vanilla/Locations/FungalAltar.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Advanced_Guide:_Sun_Quest#The_Fungal_Altars",
 
       "x":15105,
 
@@ -742,7 +742,7 @@
    {
       "title":"Moon Radar Diamond",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -753,7 +753,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Perk_moon_radar.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Moon_Radar",
 
       "x":16130,
 
@@ -763,7 +763,7 @@
       {
    "title":"Tower Entrance Diamond",
 
-   "description":"<Descripton>",
+   "description":"",
 
    "layer":"Noita",
 
@@ -774,7 +774,7 @@
    "tooltipImage":"icons/Vanilla/Locations/Diamond.png",
 
 
-   "url":"https://google.com",
+   "url":"https://noita.wiki.gg/wiki/The_Tower",
 
    "x":-4346,
 
@@ -782,9 +782,9 @@
    }
       ,
    {
-      "title":"Perk Removal Altar (Nullifying Altar)",
+      "title":"Perk Removal Altar",
 
-      "description":"<Descripton>",
+      "description":"Nullifying Altar",
 
       "layer":"Noita",
 
@@ -795,7 +795,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Null_Altar.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Nullifying_Altar",
 
       "x":14080,
 
@@ -805,7 +805,7 @@
    {
       "title":"Portal Room",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -816,7 +816,7 @@
       "tooltipImage":"icons/Vanilla/Locations/RedPortal.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Fast_Travel_Room",
 
       "x":4867,
 
@@ -826,7 +826,7 @@
    {
       "title":"Fungal Altar - Power plant",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -837,7 +837,7 @@
       "tooltipImage":"icons/Vanilla/Locations/FungalAltar.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Advanced_Guide:_Sun_Quest#The_Fungal_Altars",
 
       "x":13055,
 
@@ -847,7 +847,7 @@
    {
       "title":"Experimental Wand Diamond",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -858,7 +858,7 @@
       "tooltipImage":"icons/Vanilla/Wands/Actual_wand_honest.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Experimental_Wands#Experimental_Wand_(???)",
 
       "x":16130,
 
@@ -868,7 +868,7 @@
    {
       "title":"Fungal Altar - Vault",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -879,7 +879,7 @@
       "tooltipImage":"icons/Vanilla/Locations/FungalAltar.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Advanced_Guide:_Sun_Quest#The_Fungal_Altars",
 
       "x":-1280,
 
@@ -900,7 +900,7 @@
       "tooltipImage":"icons/Vanilla/Wands/TowerWands.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/The_Tower",
 
       "x":10000,
 
@@ -910,7 +910,7 @@
    {
       "title":"Averice Diamond",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -921,7 +921,7 @@
       "tooltipImage":"icons/Vanilla/Locations/AvericeDiamond.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/The_Tower#Avarice_Diamond",
 
       "x":9470,
 
@@ -931,7 +931,7 @@
    {
       "title":"Buried Eye Room",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -942,7 +942,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Eye_Glow.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Buried_Eye",
 
       "x":3820,
 
@@ -952,7 +952,7 @@
    {
       "title":"Hourglass",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -963,7 +963,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Hourglass.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/The_Hourglass_Chamber",
 
       "x":-2220,
 
@@ -973,7 +973,7 @@
    {
       "title":"Shop/Bathhouse – Hiisi base",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -984,7 +984,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Sauna_Glow.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Hiisi_Base#Points_of_Interest",
 
       "x":-2340,
 
@@ -994,7 +994,7 @@
    {
       "title":"Eye spell room",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1005,7 +1005,7 @@
       "tooltipImage":"icons/Vanilla/Locations/EyeRoom.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/The_Hourglass_Chamber#Teleportatium",
 
       "x":-3840,
 
@@ -1015,7 +1015,7 @@
    {
       "title":"The Work",
 
-      "description":"<Descripton>",
+      "description":"End",
 
       "layer":"Noita",
 
@@ -1026,17 +1026,56 @@
       "tooltipImage":"icons/Vanilla/Locations/Work.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/The_Work_(End)",
 
       "x":6400,
 
       "y": 15125    
-   }
-      ,
+   },
+   {
+      "title":"The Work",
+
+      "description":"Sky",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/SharedIcons/Secret.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/TheWork_Sky.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/The_Work_(Sky)",
+
+      "x":0,
+
+      "y": -15000    
+   },
+   {
+      "title":"The Work",
+
+      "description":"Hell",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/SharedIcons/Secret.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/TheWork_Hell.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/The_Work_(Hell)",
+
+      "x":0,
+
+      "y": 22000    
+   },
    {
       "title":"End of Everything Room",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1047,7 +1086,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Spell_all_spells.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/The_End_of_Everything",
 
       "x":-4860,
 
@@ -1055,20 +1094,20 @@
    }
       ,
    {
-      "title":"Gold Biome (Under The Lake)",
+      "title":"Gold Biome",
 
-      "description":"<Descripton>",
+      "description":"Under The Lake",
 
       "layer":"Noita",
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Vanilla/Locations/Gold_GLow.png",
+      "icon":"icons/Vanilla/Locations/Gold_Glow.png",
 
       "tooltipImage":"icons/Vanilla/Locations/Gold.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/The_Gold",
 
       "x":-14090,
 
@@ -1078,7 +1117,7 @@
    {
       "title":"Dark Sun/Dark Moon",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1089,7 +1128,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Dark_Moon_Glow.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Dark_Moon",
 
       "x":250,
 
@@ -1098,7 +1137,7 @@
    {
       "title":"Achivement Pillars",
 
-      "description":"<Descripton>",
+      "description":"https://noita.wiki.gg/wiki/Achievement_Pillars",
 
       "layer":"Noita",
 
@@ -1109,7 +1148,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Pillars_Full.png",
 
 
-      "url":"https://google.com",
+      "url":"",
 
       "x":-1550,
 
@@ -1118,7 +1157,7 @@
    {
       "title":"Cauldrom room",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1129,16 +1168,16 @@
       "tooltipImage":"icons/Vanilla/Locations/Cauldron_Glow.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Cauldron_Room",
 
       "x":3846,
 
       "y": 5370    
    },
    {
-      "title":"Experimental Wand (Glimmer)",
+      "title":"Experimental Wand",
 
-      "description":"<Descripton>",
+      "description":" Glimmer",
 
       "layer":"Noita",
 
@@ -1149,16 +1188,16 @@
       "tooltipImage":"icons/Vanilla/Wands/Wand_experimental_wand_2.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Experimental_Wands#Experimental_Wand_(Glimmer)",
 
       "x":-12500,
 
       "y": 370   
    },
    {
-      "title":"Experimental Wand (Requirements)",
+      "title":"Experimental Wand",
 
-      "description":"<Descripton>",
+      "description":"Requirements",
 
       "layer":"Noita",
 
@@ -1169,7 +1208,7 @@
       "tooltipImage":"icons/Vanilla/Wands/Wand_experimental_wand_1.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Experimental_Wands#Experimental_Wand_(Requirements)",
 
       "x":-12860,
 
@@ -1178,7 +1217,7 @@
    {
       "title":"Beer",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1189,7 +1228,7 @@
       "tooltipImage":"icons/Vanilla/Items/beer.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Beer",
 
       "x":7625,
 
@@ -1198,7 +1237,7 @@
    {
       "title":"Ocarina",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1209,7 +1248,7 @@
       "tooltipImage":"icons/Vanilla/Items/flute.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Huilu",
 
       "x":-9986,
 
@@ -1218,7 +1257,7 @@
    {
       "title":"Essence of Air",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1229,7 +1268,7 @@
       "tooltipImage":"icons/Vanilla/Items/essence_air.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Essences#Essence_of_Air",
 
       "x":-13055,
 
@@ -1238,7 +1277,7 @@
    {
       "title":"Rainbow Trail Spell",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1249,7 +1288,7 @@
       "tooltipImage":"icons/Vanilla/Items/rainbow_trail.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Rainbow_Trail",
 
       "x": -14000,
 
@@ -1258,7 +1297,7 @@
    {
       "title":"Essence Of Fire",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1269,7 +1308,7 @@
       "tooltipImage":"icons/Vanilla/Items/essence_fire.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Essences#Essence_of_Fire",
 
       "x": -14063,
 
@@ -1278,7 +1317,7 @@
    {
       "title":"Essence Of Spirits",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1289,7 +1328,7 @@
       "tooltipImage":"icons/Vanilla/Items/essence_alcohol.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Essences#Essence_of_Spirits",
 
       "x":-14080,
 
@@ -1298,7 +1337,7 @@
    {
       "title":"Essence Of Water",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1309,16 +1348,16 @@
       "tooltipImage":"icons/Vanilla/Items/essence_water.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Essences#Essence_of_Water",
 
       "x":-5380,
 
       "y": 16666    
    },
    {
-      "title":"Music Box (Lake)",
+      "title":"Music Box",
 
-      "description":"<Descripton>",
+      "description":"Lake",
 
       "layer":"Noita",
 
@@ -1329,16 +1368,16 @@
       "tooltipImage":"icons/Vanilla/Items/music_machine.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Music_Machine",
 
       "x":-12187,
 
       "y": -384    
    },
    {
-      "title":"Essence Eater (Snow Wasteland)",
+      "title":"Essence Eater ",
 
-      "description":"<Descripton>",
+      "description":"Snow Wasteland",
 
       "layer":"Noita",
 
@@ -1349,16 +1388,16 @@
       "tooltipImage":"icons/Vanilla/Items/icon-orbs.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Essence_Eater",
 
       "x":-9470,
 
       "y": -144    
    },
    {
-      "title":"Music Box (Tree)",
+      "title":"Music Box",
 
-      "description":"<Descripton>",
+      "description":"Tree",
 
       "layer":"Noita",
 
@@ -1369,7 +1408,7 @@
       "tooltipImage":"icons/Vanilla/Items/music_machine.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Music_Machine",
 
       "x":-1905,
 
@@ -1378,7 +1417,7 @@
    {
       "title":"Evil Eye",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1389,7 +1428,7 @@
       "tooltipImage":"icons/Vanilla/Items/evil_eye.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Paha_Silmä",
 
       "x":-2435,
 
@@ -1398,7 +1437,7 @@
    {
       "title":"Music Stone",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1409,16 +1448,16 @@
       "tooltipImage":"icons/Vanilla/Items/musicstone.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Kuulokivi",
 
       "x":-3345,
 
       "y": 3345   
    },
    {
-      "title":"Music Box (Pound)",
+      "title":"Music Box",
 
-      "description":"<Descripton>",
+      "description":"Pound",
 
       "layer":"Noita",
 
@@ -1429,7 +1468,7 @@
       "tooltipImage":"icons/Vanilla/Items/music_machine.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Music_Machine",
 
       "x":2800,
 
@@ -1438,7 +1477,7 @@
    {
       "title":"Karl",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1449,7 +1488,7 @@
       "tooltipImage":"icons/Vanilla/Items/karl.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Racetrack",
 
       "x":3240,
 
@@ -1458,7 +1497,7 @@
    {
       "title":"Milk",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1469,28 +1508,7 @@
       "tooltipImage":"icons/Vanilla/Items/milk.png",
 
 
-      "url":"https://google.com",
-
-      "x":2438,
-
-      "y": -4490    
-   }
-   ,
-   {
-      "title":"Milk",
-
-      "description":"<Descripton>",
-
-      "layer":"Noita",
-
-      "sublayer": "vanilla_items",
-
-      "icon":"icons/Vanilla/Items/milk.png",
-
-      "tooltipImage":"icons/Vanilla/Items/milk.png",
-
-
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Milk",
 
       "x":2438,
 
@@ -1500,7 +1518,7 @@
    {
       "title":"Dark Chest",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1511,7 +1529,7 @@
       "tooltipImage":"icons/Vanilla/Items/chest_dark.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Crystal_Key#Dark_Chest",
 
       "x":3838,
 
@@ -1521,7 +1539,7 @@
    {
       "title":"Coral Chest",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1532,7 +1550,7 @@
       "tooltipImage":"icons/Vanilla/Items/chest_light.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Crystal_Key#Coral_Chest",
 
       "x":11005,
 
@@ -1540,9 +1558,9 @@
    }
    ,
    {
-      "title":"Essence Eater (Desert)",
+      "title":"Essence Eater",
 
-      "description":"<Descripton>",
+      "description":"Desert",
 
       "layer":"Noita",
 
@@ -1553,7 +1571,7 @@
       "tooltipImage":"icons/Vanilla/Items/icon-orbs.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Essence_Eater",
 
       "x":17666,
 
@@ -1561,9 +1579,9 @@
    }
    ,
    {
-      "title":"Music Box (Desert)",
+      "title":"Music Box",
 
-      "description":"<Descripton>",
+      "description":"Desert",
 
       "layer":"Noita",
 
@@ -1574,7 +1592,7 @@
       "tooltipImage":"icons/Vanilla/Items/music_machine.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Music_Machine",
 
       "x":14700,
 
@@ -1583,7 +1601,7 @@
    {
       "title":"Kiuaskivi",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1594,7 +1612,7 @@
       "tooltipImage":"icons/Vanilla/Items/item_brimstone.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Kiuaskivi",
 
       "x":-2235,
 
@@ -1603,7 +1621,7 @@
    {
       "title":"Kuu",
 
-      "description":"<Descripton>",
+      "description":"Location added by \"Graham's Things\" mod",
 
       "layer":"Noita",
 
@@ -1614,7 +1632,7 @@
       "tooltipImage":"icons/Vanilla/Items/item_moon.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Kuu",
 
       "x":-1875,
 
@@ -1624,7 +1642,7 @@
    {
       "title":"Kantele",
 
-      "description":"<Descripton>",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1635,16 +1653,16 @@
       "tooltipImage":"icons/Vanilla/Items/kantele.png",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Kantele",
 
       "x":-1633,
 
       "y": -788    
    },
    {
-      "title":"Orb: Sea of Lava",
+      "title":"Orb of True Knowledge",
 
-      "description":"<Descripton>",
+      "description":"Sea of Lava",
 
       "layer":"Noita",
 
@@ -1655,7 +1673,7 @@
       "tooltipImage":"icons/Vanilla/Orbs/orb_sea_of_lava.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
 
       "x":780,
 
@@ -1663,9 +1681,9 @@
    }
    ,
    {
-      "title":"Orb: Earthquake",
+      "title":"Orb of True Knowledge",
 
-      "description":"<Descripton>",
+      "description":"Earthquake",
 
       "layer":"Noita",
 
@@ -1676,7 +1694,7 @@
       "tooltipImage":"icons/Vanilla/Orbs/orb_earthquake.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
 
       "x":9990,
 
@@ -1684,9 +1702,9 @@
    }
    ,
    {
-      "title":"Orb: Nuke",
+      "title":"Orb of True Knowledge",
 
-      "description":"<Descripton>",
+      "description":"Nuke",
 
       "layer":"Noita",
 
@@ -1697,7 +1715,7 @@
       "tooltipImage":"icons/Vanilla/Orbs/orb_nuke.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
 
       "x":3460,
 
@@ -1705,9 +1723,9 @@
    }
    ,
    {
-      "title":"Orb: Thundercloud",
+      "title":"Orb of True Knowledge",
 
-      "description":"<Descripton>",
+      "description":"Thundercloud",
 
       "layer":"Noita",
 
@@ -1718,7 +1736,7 @@
       "tooltipImage":"icons/Vanilla/Orbs/orb_thundercloud.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
 
       "x":4354,
 
@@ -1726,9 +1744,9 @@
    }
    ,
    {
-      "title":"Orb: Necromancy",
+      "title":"Orb of True Knowledge",
 
-      "description":"<Descripton>",
+      "description":"Necromancy",
 
       "layer":"Noita",
 
@@ -1739,7 +1757,7 @@
       "tooltipImage":"icons/Vanilla/Orbs/orb_necromancy.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
 
       "x":10000,
 
@@ -1747,9 +1765,9 @@
    }
    ,
    {
-      "title":"Orb: Summon Tentacle",
+      "title":"Orb of True Knowledge",
 
-      "description":"<Descripton>",
+      "description":"Summon Tentacle",
 
       "layer":"Noita",
 
@@ -1760,7 +1778,7 @@
       "tooltipImage":"icons/Vanilla/Orbs/orb_summon_tentacle.webp",
 
 
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
 
       "x":-9975,
 
@@ -1768,9 +1786,9 @@
    }
    ,
    {
-      "title":"Orb: Holy Bomb",
+      "title":"Orb of True Knowledge",
 
-      "description":"<Descripton>",
+      "description":"Holy Bomb",
 
       "layer":"Noita",
 
@@ -1780,8 +1798,7 @@
 
       "tooltipImage":"icons/Vanilla/Orbs/orb_holy_bomb.webp",
 
-
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
 
       "x":-4350,
 
@@ -1789,9 +1806,9 @@
    }
    ,
    {
-      "title":"Orb: Spiral Shot",
+      "title":"Orb of True Knowledge",
 
-      "description":"<Descripton>",
+      "description":"Spiral Shot",
 
       "layer":"Noita",
 
@@ -1801,8 +1818,7 @@
 
       "tooltipImage":"icons/Vanilla/Orbs/orb_spiral_shot.webp",
 
-
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
 
       "x":-3835,
 
@@ -1810,9 +1826,9 @@
    }
    ,
    {
-      "title":"Orb: Summon Deercoy",
+      "title":"Orb of True Knowledge",
 
-      "description":"<Descripton>",
+      "description":"Summon Deercoy",
 
       "layer":"Noita",
 
@@ -1822,8 +1838,7 @@
 
       "tooltipImage":"icons/Vanilla/Orbs/orb_summon_deercoy.webp",
 
-
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
 
       "x":-8960,
 
@@ -1831,9 +1846,9 @@
    }
    ,
    {
-      "title":"Orb: Fireworks!",
+      "title":"Orb of True Knowledge",
 
-      "description":"<Descripton>",
+      "description":"Fireworks!",
 
       "layer":"Noita",
 
@@ -1843,8 +1858,7 @@
 
       "tooltipImage":"icons/Vanilla/Orbs/orb_fireworks.webp",
 
-
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
 
       "x":-250,
 
@@ -1852,9 +1866,9 @@
    }
    ,
    {
-      "title":"Orb: Cement",
+      "title":"Orb of True Knowledge",
 
-      "description":"<Descripton>",
+      "description":"Cement",
 
       "layer":"Noita",
 
@@ -1864,8 +1878,7 @@
 
       "tooltipImage":"icons/Vanilla/Orbs/orb_cement.webp",
 
-
-      "url":"https://google.com",
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
 
       "x":10487,
 
@@ -1873,83 +1886,253 @@
    },
 
    {
+    
     "title": "Kerettiläinenhirviö",
-    "description": ["Heretical Monster"],
-    "x": 21294,
-    "y": 5969,
-    "layer":"Apotheosis",
+    
+    "description": "Heretical Monster",
+    
     "sublayer": "apotheosis_bosses",
+    
+    "layer":"Apotheosis",
+    
     "icon": "icons/Apotheosis/Bosses/HereticBoss_Glow.png",
+    
     "tooltipImage":"icons/Apotheosis/Bosses/HereticBoss.png",
-    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Heretical_Monster"
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Heretical_Monster",
+    
+    "x": 21294,
+    
+    "y": 5969
   },
   {
+    
     "title": "Hylätty Orkesteri",
-    "description": ["Abandoned Orchestra"],
-    "x": 11971,
-    "y": 6866,
-    "layer":"Apotheosis",
+    
+    "description": "Abandoned Orchestra",
+    
     "sublayer": "apotheosis_bosses",
+    
+    "layer":"Apotheosis",
+    
     "icon": "icons/Apotheosis/Bosses/NoteBoss_Glow.png",
+    
     "tooltipImage":"icons/Apotheosis/Bosses/NoteBoss.png",
-    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Abandoned Orchestra"
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Abandoned Orchestra",
+    
+    "x": 11971,
+    
+    "y": 6866
   },
   {
+    
     "title": "Kolossaalimöykky",
-    "description": ["Colossal Blob"],
-    "x": 4014,
-    "y": 9099,
-    "layer":"Apotheosis",
+    
+    "description": "Colossal Blob",
+    
     "sublayer": "apotheosis_bosses",
+    
+    "layer":"Apotheosis",
+    
     "icon": "icons/Apotheosis/Bosses/BlobBoss_Glow.png",
+    
     "tooltipImage":"icons/Apotheosis/Bosses/BlobBoss.png",
-    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Colossal Blob"
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Colossal Blob",
+    
+    "x": 4014,
+    
+    "y": 9099
   },
-  {
-    "title": "Tulen Esteetikko",
-    "description": ["Aesthete of Heat"],
-    "x": 2860,
-    "y": 966,
-    "layer":"Apotheosis",
-    "sublayer": "apotheosis_bosses",
-    "icon": "icons/Apotheosis/Bosses/HellWorm_Glow.png",
-    "tooltipImage":"icons/Apotheosis/Bosses/HellWorm.png",
-    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Aesthete of Heat"
-  },
-  {
-    "title": "Suur-Helvetinmato",
-    "description": ["Greater Hell Worm"],
-    "x": 331,
-    "y": 40727,
-    "layer":"Apotheosis",
-    "sublayer": "apotheosis_bosses",
-    "icon": "icons/Apotheosis/Bosses/hellworm_Glow.png",
-    "tooltipImage":"icons/Apotheosis/Bosses/hellworm.png",
-    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Greater Hell Worm"
-  },
-  {
+ {
+    
     "title": "Jättimyrkyllinenmato",
-    "description": ["Giant Toxic Worm"],
-    "x": 2258,
-    "y": 2232,
-    "layer":"Apotheosis",
+    
+    "description": "Giant Toxic Worm",
+    
     "sublayer": "apotheosis_bosses",
+    
+    "layer":"Apotheosis",
+    
     "icon": "icons/Apotheosis/Bosses/ToxicWorm_Glow_2.png",
+    
     "tooltipImage":"icons/Apotheosis/Bosses/ToxicWorm_2.png",
-    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Giant Toxic Worm"
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Giant Toxic Worm",
+    
+    "x": 2258,
+    
+    "y": 2232
   },
   {
-    "title": "Monoliitti",
-    "description": ["Monolith"],
-    "x": -19102,
-    "y": -22,
-    "layer":"Apotheosis",
+    
+    "title": "Tulen Esteetikko",
+    
+    "description": "Aesthete of Heat",
+    
     "sublayer": "apotheosis_bosses",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Bosses/HellBoss_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Bosses/HellBoss.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Aesthete of Heat",
+    
+    "x": 2860,
+    
+    "y": 966
+  },
+  {
+    
+    "title": "Suur-Helvetinmato",
+    
+    "description": "Greater Hell Worm",
+    
+    "sublayer": "apotheosis_bosses",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Bosses/hellworm_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Bosses/hellworm.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Greater Hell Worm",
+    
+    "x": 331,
+    
+    "y": 40727
+  },
+
+  {
+    
+    "title": "Monoliitti",
+    
+    "description": "Monolith",
+    
+    "sublayer": "apotheosis_bosses",
+    
+    "layer":"Apotheosis",
+    
     "icon": "icons/Apotheosis/Bosses/MonolithBoss_Glow.png",
+    
     "tooltipImage":"icons/Apotheosis/Bosses/MonolithBoss.png",
-    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Monolith"
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Monolith",
+    
+    "x": -19102,
+    
+    "y": -22
   }
-   
-     
- 
+  ,
+
+  {
+    
+    "title": "Orb of True Knowledge",
+    
+    "description": "Redirect",
+    
+    "sublayer": "apotheosis_orbs",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Vanilla/Orbs/orb_empty.gif",
+    
+    "tooltipImage":"icons/Vanilla/Orbs/orb_empty.gif",
+    
+    "url": "https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+    
+    "x": 21295,
+    
+    "y": 7507
+  }
+  ,
+  {
+    
+    "title": "Orb of True Knowledge",
+    
+    "description": "Hex",
+    
+    "sublayer": "apotheosis_orbs",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Vanilla/Orbs/orb_empty.gif",
+    
+    "tooltipImage":"icons/Vanilla/Orbs/orb_empty.gif",
+    
+    "url": "https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+    
+    "x": -21250,
+    
+    "y": 9567
+  }
+  ,
+
+  {
+    
+    "title": "Orb of True Knowledge",
+    
+    "description": "Transmute Into Mutamies On Slimy Enemies",
+    
+    "sublayer": "apotheosis_orbs",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Vanilla/Orbs/orb_empty.gif",
+    
+    "tooltipImage":"icons/Vanilla/Orbs/orb_empty.gif",
+    
+    "url": "https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+    
+    "x": 18702,
+    
+    "y": 16980
+  }
+  ,
+
+  {
+    
+    "title": "Orb of True Knowledge",
+    
+    "description": "Inebriation",
+    
+    "sublayer": "apotheosis_orbs",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Vanilla/Orbs/orb_empty.gif",
+    
+    "tooltipImage":"icons/Vanilla/Orbs/orb_empty.gif",
+    
+    "url": "https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+    
+    "x": -20735,
+    
+    "y": 1380
+  }
+  ,
+
+  {
+    
+    "title": "Orb of Divine Knowledge",
+    
+    "description": "Knowledge of Kings",
+    
+    "sublayer": "apotheosis_orbs",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Vanilla/Orbs/orb_empty.gif",
+    
+    "tooltipImage":"icons/Vanilla/Orbs/orb_empty.gif",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Ascension",
+    
+    "x": -8484,
+    
+    "y": 16908
+  }
 ]
