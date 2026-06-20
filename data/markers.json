@@ -519,7 +519,7 @@
 
       "icon":"icons/Vanilla/Locations/Skull_Glow.png",
 
-      "tooltipImage":"icons/Vanilla/Locations/Skull_Glow.png",
+      "tooltipImage":"icons/Vanilla/Locations/Skull.png",
 
 
       "url":"https://google.com",
@@ -580,9 +580,9 @@
 
       "sublayer": "vanilla_structures",
 
-      "icon":"icons/Vanilla/Locations/Island_Glow.png",
+      "icon":"icons/Vanilla/Locations/Island_Cutted_Glow.png",
 
-      "tooltipImage":"icons/Vanilla/Locations/IslandStatue.png",
+      "tooltipImage":"icons/Vanilla/Locations/IslandStatue_Glow.png",
 
 
       "url":"https://google.com",
@@ -897,7 +897,7 @@
 
       "icon":"icons/Vanilla/Locations/Diamond.png",
 
-      "tooltipImage":"icons/Vanilla/Locations/TowerWands.png",
+      "tooltipImage":"icons/Vanilla/Wands/TowerWands.png",
 
 
       "url":"https://google.com",
@@ -1134,6 +1134,46 @@
       "x":3846,
 
       "y": 5370    
+   },
+   {
+      "title":"Experimental Wand (Glimmer)",
+
+      "description":"<Descripton>",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Wands/Wand_experimental_wand_2.webp",
+
+      "tooltipImage":"icons/Vanilla/Wands/Wand_experimental_wand_2.webp",
+
+
+      "url":"https://google.com",
+
+      "x":-12500,
+
+      "y": 370   
+   },
+   {
+      "title":"Experimental Wand (Requirements)",
+
+      "description":"<Descripton>",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Wands/Wand_experimental_wand_1.webp",
+
+      "tooltipImage":"icons/Vanilla/Wands/Wand_experimental_wand_1.webp",
+
+
+      "url":"https://google.com",
+
+      "x":-12860,
+
+      "y": 600   
    },
    {
       "title":"Beer",
