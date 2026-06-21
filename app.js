@@ -28,7 +28,10 @@ const checkedMarkers = new Set();
 
 const layerStates = {};
 
+let markerTooltipTimer;
+
 loadMap();
+
 createLayerButtons();
 loadMarkers();
 loadTutorialPannel();
@@ -174,7 +177,7 @@ function createLayerButtons()
         { id: "vanilla_orbs", label: "Orbs", icon:"icons/Vanilla/Items/icon-orbs.webp" , defaultOn: true}
     ],
 
-    defaultOn: true
+    defaultOn: false
 },
 
 {
@@ -344,6 +347,14 @@ function createLayerButtons()
 
 function loadMap()
 {
+
+  viewer.addTiledImage({
+        tileSource:
+        "maps/regular-main-branch-middle-2025-01-25-786433191.dzi",
+
+        x: 0.9859
+    });
+
     viewer.addTiledImage({
         tileSource:
         "maps/regular-main-branch-left-2025-01-25-786433191.dzi",
@@ -351,12 +362,7 @@ function loadMap()
         x: 0
     });
 
-    viewer.addTiledImage({
-        tileSource:
-        "maps/regular-main-branch-middle-2025-01-25-786433191.dzi",
-
-        x: 0.9859
-    });
+  
 
     viewer.addTiledImage({
         tileSource:
@@ -404,14 +410,6 @@ function createMarker(data)
 
     
 
-    img.addEventListener("contextmenu", e =>
-    {
-    e.preventDefault();
-
-    toggleMarkerCheck(makeId(data.title));
-    });
-
-
     img.addEventListener(
     "mouseenter",
     () =>
@@ -425,10 +423,11 @@ function createMarker(data)
     {
         resetTooltipMode();
 
+        clearTimeout(markerTooltipTimer);
+
         showTooltip(
             data,
-            e.clientX,
-            e.clientY
+            img
         );
     });
 
@@ -437,27 +436,8 @@ function createMarker(data)
     () =>
     {
         img.style.opacity = markersOpacity;
-    });
 
-    img.addEventListener(
-    "mouseenter",
-    e =>
-    {
-        showTooltip(
-            data,
-            e.clientX,
-            e.clientY
-        );
-    });
-
-    img.addEventListener(
-    "mousemove",
-    e =>
-    {
-        moveTooltip(
-            e.clientX,
-            e.clientY
-        );
+        hideMarkerTooltip();
     });
 
 
@@ -474,20 +454,16 @@ function createMarker(data)
 
     clickHandler: function()
     {
-        if(data.url && data.url.length > 0)
-        {
-            window.open(
-                data.url,
-                "_blank"
-            );
-        }
+        // if(data.url && data.url.length > 0)
+        // {
+        //     window.open(
+        //         data.url,
+        //         "_blank"
+        //     );
+        // }
+        toggleMarkerCheck(makeId(data.title));
     }
 });
-
-    img.addEventListener(
-    "mouseleave",
-    hideTooltip
-    );
 
    const location =
     noitaToViewport(
@@ -550,7 +526,7 @@ function toggleLayer(layerName, visible)
          saveState();
 }
 
-function showTooltip(data,x,y)
+function showTooltip(data, markerElement)
 {
 
     resetTooltipLayout();
@@ -601,14 +577,26 @@ function showTooltip(data,x,y)
         .innerText =
         data.description;
 
+    // Add wiki link
+    const wikiLink = document.getElementById("tooltipWikiLink");
+    if (data.url && data.url.length > 0) {
+        wikiLink.innerHTML = `<a href="${data.url}" target="_blank">Wiki</a>`;
+    } else {
+        wikiLink.innerHTML = "";
+    }
+
               tooltip.style.display =
         "flex";
 
+    // Position tooltip over marker
+    const markerRect = markerElement.getBoundingClientRect();
+    const tooltipRect = tooltip.getBoundingClientRect();
+    
     tooltip.style.left =
-        (x - tooltip.offsetWidth / 2) + "px";
+        (markerRect.left + markerRect.width / 2 - tooltipRect.width / 2) + "px";
 
     tooltip.style.top =
-    (y - tooltip.offsetHeight - 12) + "px";
+    (markerRect.top - tooltipRect.height - 8) + "px";
 
 
 }
@@ -735,6 +723,31 @@ function hideTooltip()
         )
         .style.display =
         "none";
+}
+
+function hideMarkerTooltip()
+{
+    clearTimeout(markerTooltipTimer);
+
+    markerTooltipTimer = setTimeout(function() {
+        if (tooltipMode === "marker") {
+            hideTooltip();
+        }
+    }, 70);
+}
+
+// Setup marker tooltip hover persistence - called at end of script
+function setupMarkerTooltipListeners() {
+    const tooltip = document.getElementById("tooltip");
+    tooltip.addEventListener("mouseenter", function() {
+        clearTimeout(markerTooltipTimer);
+    });
+
+    tooltip.addEventListener("mouseleave", function() {
+        if (tooltipMode === "marker") {
+            hideMarkerTooltip();
+        }
+    });
 }
 
 //    viewer.canvas.addEventListener(
@@ -1211,8 +1224,7 @@ function loadTutorialPannel()
             <p>This is uniform map for most popular terrain-appending mods.</p>
             <p>Use the layer buttons to toggle marker sets.</p>
             <p>Hover markers for details.</p>
-            <p>Left-click on a marker to open its wiki page.</p>
-            <p>Right-click on a marker to mark it as completed.</p>
+            <p>Left-click on a marker to mark it as completed.</p>
             <p>Scroll to zoom and drag to pan.</p>
            <div class="header"><div class="title">Happy Noiting!</div></div>
          </div>
@@ -1251,3 +1263,4 @@ function updateScale() {
 
 window.addEventListener('resize', updateScale);
 updateScale();
+setupMarkerTooltipListeners();

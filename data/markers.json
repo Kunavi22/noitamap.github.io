@@ -1137,7 +1137,7 @@
    {
       "title":"Achivement Pillars",
 
-      "description":"https://noita.wiki.gg/wiki/Achievement_Pillars",
+      "description":"",
 
       "layer":"Noita",
 
@@ -1148,7 +1148,7 @@
       "tooltipImage":"icons/Vanilla/Locations/Pillars_Full.png",
 
 
-      "url":"",
+      "url":"https://noita.wiki.gg/wiki/Achievement_Pillars",
 
       "x":-1550,
 
@@ -2038,9 +2038,9 @@
     
     "layer":"Apotheosis",
     
-    "icon": "icons/Vanilla/Orbs/orb_empty.gif",
+    "icon": "icons/Apotheosis/Orbs/orb_redirect.gif",
     
-    "tooltipImage":"icons/Vanilla/Orbs/orb_empty.gif",
+    "tooltipImage":"icons/Apotheosis/Orbs/orb_redirect.gif",
     
     "url": "https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
     
@@ -2059,9 +2059,9 @@
     
     "layer":"Apotheosis",
     
-    "icon": "icons/Vanilla/Orbs/orb_empty.gif",
+    "icon": "icons/Apotheosis/Orbs/orb_hex.gif",
     
-    "tooltipImage":"icons/Vanilla/Orbs/orb_empty.gif",
+    "tooltipImage":"icons/Apotheosis/Orbs/orb_hex.gif",
     
     "url": "https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
     
@@ -2081,9 +2081,9 @@
     
     "layer":"Apotheosis",
     
-    "icon": "icons/Vanilla/Orbs/orb_empty.gif",
+    "icon": "icons/Apotheosis/Orbs/orb_mutamies.gif",
     
-    "tooltipImage":"icons/Vanilla/Orbs/orb_empty.gif",
+    "tooltipImage":"icons/Apotheosis/Orbs/orb_mutamies.gif",
     
     "url": "https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
     
@@ -2103,9 +2103,9 @@
     
     "layer":"Apotheosis",
     
-    "icon": "icons/Vanilla/Orbs/orb_empty.gif",
+    "icon": "icons/Apotheosis/Orbs/orb_inebriation.gif",
     
-    "tooltipImage":"icons/Vanilla/Orbs/orb_empty.gif",
+    "tooltipImage":"icons/Apotheosis/Orbs/orb_inebriation.gif",
     
     "url": "https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
     
@@ -2125,14 +2125,14 @@
     
     "layer":"Apotheosis",
     
-    "icon": "icons/Vanilla/Orbs/orb_empty.gif",
+    "icon": "icons/Apotheosis/Orbs/orb_divine.gif",
     
-    "tooltipImage":"icons/Vanilla/Orbs/orb_empty.gif",
+    "tooltipImage":"icons/Apotheosis/Orbs/orb_divine.gif",
     
     "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Ascension",
     
     "x": -8484,
     
-    "y": 16908
+    "y": 16898
   }
 ]

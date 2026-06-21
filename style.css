@@ -17,6 +17,10 @@ html {
 
 * {
     font-family: 'NoitaBlackletter', serif;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
 }
 
 html,
@@ -42,30 +46,6 @@ body
     background:black;
 }
 
-#tooltip
-{
-    position:fixed;
-
-    display:none;
-
-    background:rgba(20,20,20,.9);
-
-    color:white;
-
-    border-radius:0.5rem;
-
-    padding:0.625rem;
-
-    z-index:10000;
-
-    pointer-events:none;
-
-    min-width:13.75rem;
-
-    align-items:center;
-
-    gap:0.75rem;
-}
 
 #tooltipImage
 {
@@ -178,11 +158,13 @@ body
 
     z-index: 10000;
 
-    pointer-events: none;
+    pointer-events:auto;
 
     display: flex;
 
     align-items: center;
+
+      min-width:13.75rem;
 
     gap: 10px;
 }
@@ -244,6 +226,31 @@ body
 
     text-align: center;
 }
+
+
+
+#tooltipWikiLink
+{
+    font-size: 1rem;
+
+    margin-top: 0.5rem;
+
+    text-align: left;
+
+    align-self: flex-start;
+
+    
+
+
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+#tooltipWikiLink a
+{
+    font-family: Arial, sans-serif !important;
+}
+
 
 #tooltip.label
 {
