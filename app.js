@@ -461,7 +461,7 @@ function createMarker(data)
         //         "_blank"
         //     );
         // }
-        toggleMarkerCheck(makeId(data.title));
+        toggleMarkerCheck(makeId(data.title  + data.description));
     }
 });
 
@@ -488,7 +488,7 @@ function createMarker(data)
 
 
         markerObjects.push({
-            id: makeId(data.title),
+            id: makeId(data.title + data.description),
 
             layer: data.layer,
 
