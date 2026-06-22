@@ -717,6 +717,8 @@ function resetTooltipMode()
 
 function hideTooltip()
 {
+    clearTooltipContent();
+
     document
         .getElementById(
             "tooltip"
@@ -725,9 +727,48 @@ function hideTooltip()
         "none";
 }
 
+function clearTooltipContent()
+{
+    const image =
+        document.getElementById(
+            "tooltipImage"
+        );
+
+    if(image)
+        image.removeAttribute("src");
+
+    const title =
+        document.getElementById(
+            "tooltipTitle"
+        );
+
+    if(title)
+        title.innerText = "";
+
+    const description =
+        document.getElementById(
+            "tooltipDescription"
+        );
+
+    if(description)
+        description.innerText = "";
+
+    const wikiLink =
+        document.getElementById(
+            "tooltipWikiLink"
+        );
+
+    if(wikiLink)
+        wikiLink.innerHTML = "";
+}
+
 function hideMarkerTooltip()
 {
     clearTimeout(markerTooltipTimer);
+
+    if (tooltipMode === "marker") {
+        clearTooltipContent();
+    }
 
     markerTooltipTimer = setTimeout(function() {
         if (tooltipMode === "marker") {
