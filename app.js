@@ -173,8 +173,8 @@ function createLayerButtons()
     [
         { id: "vanilla_bosses", label: "Bosses" , icon:"icons/boss.webp", defaultOn: true},
         { id: "vanilla_structures", label: "Structures" , icon:"icons/Star.png", defaultOn: false},
-        { id: "vanilla_items", label: "Items", icon:"icons/Vanilla/Items/evil_eye.png" , defaultOn: false},
-        { id: "vanilla_orbs", label: "Orbs", icon:"icons/Vanilla/Items/icon-orbs.webp" , defaultOn: true}
+        { id: "vanilla_items", label: "Items", icon:"icons/Vanilla/Items/Item_evil_eye.webp" , defaultOn: false},
+        { id: "vanilla_orbs", label: "Orbs", icon:"icons/Vanilla/Orbs/orb_empty.gif" , defaultOn: true}
     ],
 
     defaultOn: false
@@ -188,7 +188,7 @@ function createLayerButtons()
     sublayers:
     [
          { id: "apotheosis_bosses", label: "Bosses" , icon:"icons/boss.webp", defaultOn: true},
-         { id: "apotheosis_orbs", label: "Orbs", icon:"icons/Vanilla/Items/icon-orbs.webp" , defaultOn: true}
+         { id: "apotheosis_orbs", label: "Orbs", icon:"icons/Vanilla/Orbs/orb_empty.gif" , defaultOn: true}
     ],
 
     defaultOn: false

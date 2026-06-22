@@ -1223,9 +1223,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/beer.png",
+      "icon":"icons/Vanilla/Items/Materialpotion_beer.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/beer.png",
+      "tooltipImage":"icons/Vanilla/Items/Materialpotion_beer.webp",
 
 
       "url":"https://noita.wiki.gg/wiki/Beer",
@@ -1235,17 +1235,17 @@
       "y": -4350    
    },
    {
-      "title":"Ocarina",
+      "title":"Huilu",
 
-      "description":"",
+      "description":"Ocarina, Flute",
 
       "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/flute.png",
+      "icon":"icons/Vanilla/Items/Huilu_29.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/flute.png",
+      "tooltipImage":"icons/Vanilla/Items/Huilu_29.webp",
 
 
       "url":"https://noita.wiki.gg/wiki/Huilu",
@@ -1263,9 +1263,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/essence_air.png",
+      "icon":"icons/Vanilla/Items/Special_Perk_essence_air.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/essence_air.png",
+      "tooltipImage":"icons/Vanilla/Items/Special_Perk_essence_air.webp",
 
 
       "url":"https://noita.wiki.gg/wiki/Essences#Essence_of_Air",
@@ -1283,9 +1283,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/rainbow_trail.png",
+      "icon":"icons/Vanilla/Items/rainbow_trail.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/rainbow_trail.png",
+      "tooltipImage":"icons/Vanilla/Items/rainbow_trail.webp",
 
 
       "url":"https://noita.wiki.gg/wiki/Rainbow_Trail",
@@ -1303,9 +1303,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/essence_fire.png",
+      "icon":"icons/Vanilla/Items/Special_Perk_essence_fire.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/essence_fire.png",
+      "tooltipImage":"icons/Vanilla/Items/Special_Perk_essence_fire.webp",
 
 
       "url":"https://noita.wiki.gg/wiki/Essences#Essence_of_Fire",
@@ -1323,9 +1323,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/essence_alcohol.png",
+      "icon":"icons/Vanilla/Items/Special_Perk_essence_alcohol.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/essence_alcohol.png",
+      "tooltipImage":"icons/Vanilla/Items/Special_Perk_essence_alcohol.webp",
 
 
       "url":"https://noita.wiki.gg/wiki/Essences#Essence_of_Spirits",
@@ -1343,9 +1343,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/essence_water.png",
+      "icon":"icons/Vanilla/Items/Special_Perk_essence_water.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/essence_water.png",
+      "tooltipImage":"icons/Vanilla/Items/Special_Perk_essence_water.webp",
 
 
       "url":"https://noita.wiki.gg/wiki/Essences#Essence_of_Water",
@@ -1363,9 +1363,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/music_machine.png",
+      "icon":"icons/Vanilla/Items/Music_Machine_Tree.png",
 
-      "tooltipImage":"icons/Vanilla/Items/music_machine.png",
+      "tooltipImage":"icons/Vanilla/Items/Music_Machine_Tree.png",
 
 
       "url":"https://noita.wiki.gg/wiki/Music_Machine",
@@ -1375,7 +1375,7 @@
       "y": -384    
    },
    {
-      "title":"Essence Eater ",
+      "title":"Essence Eater",
 
       "description":"Snow Wasteland",
 
@@ -1383,9 +1383,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/icon-orbs.webp",
+      "icon":"icons/Vanilla/Items/Essence_altar.gif",
 
-      "tooltipImage":"icons/Vanilla/Items/icon-orbs.webp",
+      "tooltipImage":"icons/Vanilla/Items/Essence_altar.gif",
 
 
       "url":"https://noita.wiki.gg/wiki/Essence_Eater",
@@ -1403,9 +1403,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/music_machine.png",
+      "icon":"icons/Vanilla/Items/Music_Machine_Tree.png",
 
-      "tooltipImage":"icons/Vanilla/Items/music_machine.png",
+      "tooltipImage":"icons/Vanilla/Items/Music_Machine_Tree.png",
 
 
       "url":"https://noita.wiki.gg/wiki/Music_Machine",
@@ -1415,17 +1415,17 @@
       "y": -1360    
    },
    {
-      "title":"Evil Eye",
+      "title":"Paha Silmä",
 
-      "description":"",
+      "description":"Evil Eye",
 
       "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/evil_eye.png",
+      "icon":"icons/Vanilla/Items/Item_evil_eye.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/evil_eye.png",
+      "tooltipImage":"icons/Vanilla/Items/Item_evil_eye.webp",
 
 
       "url":"https://noita.wiki.gg/wiki/Paha_Silmä",
@@ -1435,17 +1435,17 @@
       "y": -200    
    },
    {
-      "title":"Music Stone",
+      "title":"Kuulokivi",
 
-      "description":"",
+      "description":"Music Stone, Hearing Stone",
 
       "layer":"Noita",
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/musicstone.png",
+      "icon":"icons/Vanilla/Items/musicstone.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/musicstone.png",
+      "tooltipImage":"icons/Vanilla/Items/musicstone.webp",
 
 
       "url":"https://noita.wiki.gg/wiki/Kuulokivi",
@@ -1463,9 +1463,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/music_machine.png",
+      "icon":"icons/Vanilla/Items/Music_Machine_Tree.png",
 
-      "tooltipImage":"icons/Vanilla/Items/music_machine.png",
+      "tooltipImage":"icons/Vanilla/Items/Music_Machine_Tree.png",
 
 
       "url":"https://noita.wiki.gg/wiki/Music_Machine",
@@ -1483,9 +1483,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/karl.webp",
+      "icon":"icons/Vanilla/Items/Prop_racing_cart_float.gif",
 
-      "tooltipImage":"icons/Vanilla/Items/karl.webp",
+      "tooltipImage":"icons/Vanilla/Items/Prop_racing_cart_float.gif",
 
 
       "url":"https://noita.wiki.gg/wiki/Racetrack",
@@ -1503,9 +1503,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/milk.png",
+      "icon":"icons/Vanilla/Items/Materialpotion_milk.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/milk.png",
+      "tooltipImage":"icons/Vanilla/Items/Materialpotion_milk.webp",
 
 
       "url":"https://noita.wiki.gg/wiki/Milk",
@@ -1524,9 +1524,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/chest_dark.png",
+      "icon":"icons/Vanilla/Items/Alchemist_Secret_Location.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/chest_dark.png",
+      "tooltipImage":"icons/Vanilla/Items/Alchemist_Secret_Location.webp",
 
 
       "url":"https://noita.wiki.gg/wiki/Crystal_Key#Dark_Chest",
@@ -1545,9 +1545,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/chest_light.png",
+      "icon":"icons/Vanilla/Items/Alchemist_Secret_Music_Location.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/chest_light.png",
+      "tooltipImage":"icons/Vanilla/Items/Alchemist_Secret_Music_Location.webp",
 
 
       "url":"https://noita.wiki.gg/wiki/Crystal_Key#Coral_Chest",
@@ -1566,9 +1566,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/icon-orbs.webp",
+      "icon":"icons/Vanilla/Items/Essence_altar.gif",
 
-      "tooltipImage":"icons/Vanilla/Items/icon-orbs.webp",
+      "tooltipImage":"icons/Vanilla/Items/Essence_altar.gif",
 
 
       "url":"https://noita.wiki.gg/wiki/Essence_Eater",
@@ -1587,9 +1587,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/music_machine.png",
+      "icon":"icons/Vanilla/Items/Music_Machine_Tree.png",
 
-      "tooltipImage":"icons/Vanilla/Items/music_machine.png",
+      "tooltipImage":"icons/Vanilla/Items/Music_Machine_Tree.png",
 
 
       "url":"https://noita.wiki.gg/wiki/Music_Machine",
@@ -1601,7 +1601,7 @@
    {
       "title":"Kiuaskivi",
 
-      "description":"",
+      "description":"Brimstone",
 
       "layer":"Noita",
 
@@ -1621,7 +1621,7 @@
    {
       "title":"Kuu",
 
-      "description":"Location added by \"Graham's Things\" mod",
+      "description":"Moon \n\nLocation added by \"Graham's Things\" mod",
 
       "layer":"Noita",
 
@@ -1648,9 +1648,9 @@
 
       "sublayer": "vanilla_items",
 
-      "icon":"icons/Vanilla/Items/kantele.png",
+      "icon":"icons/Vanilla/Items/Wand_kantele.webp",
 
-      "tooltipImage":"icons/Vanilla/Items/kantele.png",
+      "tooltipImage":"icons/Vanilla/Items/Wand_kantele.webp",
 
 
       "url":"https://noita.wiki.gg/wiki/Kantele",
