@@ -766,10 +766,7 @@ function hideMarkerTooltip()
 {
     clearTimeout(markerTooltipTimer);
 
-    if (tooltipMode === "marker") {
-        clearTooltipContent();
-    }
-
+   
     markerTooltipTimer = setTimeout(function() {
         if (tooltipMode === "marker") {
             hideTooltip();
