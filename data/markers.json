@@ -2221,9 +2221,9 @@
 
   {
     
-    "title": "Wand & Pouch Cave Cave",
+    "title": "Pouch Cave",
     
-    "description": "Free pouch and wand!",
+    "description": "Contains pouch, wand and Runestone of alchemy",
     
     "sublayer": "apotheosis_secrets",
     
@@ -2512,10 +2512,121 @@
     
     "tooltipImage":"icons/Apotheosis/Locations/EssenceOfFungi.png",
     
-    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Ant_Nest#Puzzles",
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Achievement_Pillars#Pillar_of_Creation",
     
     "x": 12055,
     
     "y": 3650
+  },
+
+ 
+
+  {
+    
+    "title": "Fisherman's Grave",
+    
+    "description": "West forest",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Fish_red_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Fish_red.webp",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Red_Fish",
+    
+    "x": -17652,
+    
+    "y": 175
+  },
+
+ 
+
+  {
+    
+    "title": "Fisherman's Grave",
+    
+    "description": "Forest",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Fish_red_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Fish_red.webp",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Red_Fish",
+    
+    "x": 4866,
+    
+    "y": 171
+  },{
+    
+    "title": "Fishing Rod",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/FishingRod_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Fish_red.webp",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Red_Fish",
+    
+    "x": -12476,
+    
+    "y": 186
+  },
+
+ 
+
+  {
+    
+    "title": "Angler skill",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/AnglersSkill.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/AnglersSkill.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Red_Fish",
+    
+    "x": -20737,
+    
+    "y": 2368
+  },
+
+ 
+
+  {
+    
+    "title": "Trial of knowledge",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/KnowledgePuzzle_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/KnowledgePuzzle.png",
+    
+    "url": "",
+    
+    "x": -22515,
+    
+    "y": -88
   }
 ]
