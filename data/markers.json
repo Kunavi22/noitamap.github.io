@@ -1995,9 +1995,9 @@
     
     "layer":"Apotheosis",
     
-    "icon": "icons/Apotheosis/Bosses/Hellworm_Glow.png",
+    "icon": "icons/Apotheosis/Bosses/HellWorm_Glow.png",
     
-    "tooltipImage":"icons/Apotheosis/Bosses/Hellworm.png",
+    "tooltipImage":"icons/Apotheosis/Bosses/HellWorm.png",
     
     "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Greater_Hell_Worm",
     
@@ -2134,5 +2134,365 @@
     "x": -8484,
     
     "y": 16898
+  },
+   {
+    
+    "title": "Book",
+    
+    "description": "Death quest hint",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/SharedIcons/Secret.png",
+    
+    "tooltipImage":"icons/SharedIcons/Secret.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Achievement_Pillars#Pillar_of_Secrets",
+    
+    "x": -16974,
+    
+    "y": 5080
+  },
+
+  {
+    
+    "title": "Volcanic Nest",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/VolcanicEggSpot_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/VolcanicEggSpot_Glow.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Core_Mines",
+    
+    "x": 67,
+    
+    "y": 3242
+  },
+
+  {
+    
+    "title": "Wand Tinkering Crystal",
+    
+    "description": "Guaranteed spawn",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Wandedit_crystal_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Wandedit_crystal.webp",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Wand_Tinkering_Crystal",
+    
+    "x": 11038,
+    
+    "y": -44
+  },
+
+  {
+    
+    "title": "Abandoned Trophy Room",
+    
+    "description": "Abandoned by default\n\nRename \"statue_room_populator_backup.lua\" file to \"statue_room_populator.lua\" if you wish to enable it",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Statue_room_glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/statue_master_of_trolling.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Mo_Creeps/Trophy_Room",
+    
+    "x": 4262,
+    
+    "y": 2187
+  },
+
+  {
+    
+    "title": "Wand & Pouch Cave Cave",
+    
+    "description": "Free pouch and wand!",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/item_material_pouch_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/item_material_pouch.webp",
+    
+    "url": "",
+    
+    "x": 20433,
+    
+    "y": -4260
+  },
+
+  {
+    
+    "title": "Abandoned Alchemy Outpost",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Green_Potion_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Green_Potion.webp",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Ant_Nest#Puzzles",
+    
+    "x": -17070,
+    
+    "y": 4036
+  },
+
+  {
+    
+    "title": "Perk Altar",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Anvil_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Apotheosis_New_Perk_Altar.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Temple_of_Sacrilegious_Remains#Structures",
+    
+    "x": 21296,
+    
+    "y": 9120
+  },
+
+  {
+    
+    "title": "Slab Room",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Slab_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Slab.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Temple_of_Sacrilegious_Remains#Structures",
+    
+    "x": 23704,
+    
+    "y": 6869
+  },
+
+  {
+    
+    "title": "Korruptoitunutkivi",
+    
+    "description": "Corrupt Stone, Heretical Stone",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Apotheosis_Stone_heretic_aura_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Apotheosis_Stone_heretic_aura.webp",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Korruptoitunutkivi",
+    
+    "x": 24251,
+    
+    "y": 6907
+  },
+
+  {
+    
+    "title": "Death quest room",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/DeathChest_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/DeathChest.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Achievement_Pillars#Pillar_of_Secrets",
+    
+    "x": -11953,
+    
+    "y": 14638
+  },
+
+
+
+  {
+    
+    "title": "Achivement Pillars",
+    
+    "description": "Apotheosis",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/AchivementPillars_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/AchivementPillars.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Achievement_Pillars",
+    
+    "x": 6660,
+    
+    "y": -30
+  },
+
+  {
+    
+    "title": "Music Altar",
+    
+    "description": "Core cave\n\nPlay some music or bring Kuulokivi",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/MusicHint_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/MusicHint.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Musical_Curiosities",
+    
+    "x": -19130,
+    
+    "y": 3422
+  },
+
+  {
+    
+    "title": "Music Altar",
+    
+    "description": "Tree\n\nPlay some music or bring Kuulokivi",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/MusicHint_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/MusicHint.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Musical_Curiosities",
+    
+    "x": -1500,
+    
+    "y": -2062
+  },
+
+  {
+    
+    "title": "Music Altar",
+    
+    "description": "Sunken cavern\n\nPlay some music or bring Kuulokivi",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/MusicHint_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/MusicHint.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Musical_Curiosities",
+    
+    "x": -20855,
+    
+    "y": 7826
+  },
+
+  {
+    
+    "title": "Music Altar",
+    
+    "description": "Sinkhole\n\nPlay some music or bring Kuulokivi",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/MusicHint_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/MusicHint.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Musical_Curiosities",
+    
+    "x": 18421,
+    
+    "y": 2596
+  },
+
+  {
+    
+    "title": "Music Altar",
+    
+    "description": "Antnest\n\nPlay some music or bring Kuulokivi",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/MusicHint_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/MusicHint.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Musical_Curiosities",
+    
+    "x": -3236,
+    
+    "y": 5849
+  },
+
+ 
+
+  {
+    
+    "title": "Alchemy hideout",
+    
+    "description": "Antnest\n\nPlay some music or bring Kuulokivi",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Green_Potion_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Green_Potion.webp",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Ant_Nest#Puzzles",
+    
+    "x": -17140,
+    
+    "y": 4849
   }
 ]
