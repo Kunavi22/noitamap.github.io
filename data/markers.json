@@ -2229,9 +2229,9 @@
     
     "layer":"Apotheosis",
     
-    "icon": "icons/Apotheosis/Locations/item_material_pouch_Glow.png",
+    "icon": "icons/Apotheosis/Locations/Item_material_pouch_Glow.png",
     
-    "tooltipImage":"icons/Apotheosis/Locations/item_material_pouch.webp",
+    "tooltipImage":"icons/Apotheosis/Locations/Item_material_pouch.webp",
     
     "url": "",
     
@@ -2494,5 +2494,28 @@
     "x": -17140,
     
     "y": 4849
+  },
+
+ 
+
+  {
+    
+    "title": "Essence of Fungus",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/EssenceOfFungi.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/EssenceOfFungi.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Ant_Nest#Puzzles",
+    
+    "x": 12055,
+    
+    "y": 3650
   }
 ]
