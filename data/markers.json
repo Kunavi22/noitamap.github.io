@@ -30,7 +30,7 @@
 
     "icon":"icons/Vanilla/Bosses/FullImage/Monster_body_limbs_full.gif",
 
-    "tooltipImage":"icons/Vanilla/Bosses/FullImage/Monster_body_limbs_full.gif",
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/Monster_body_limbs_full.webp",
 
 
     "url":"https://noita.wiki.gg/wiki/Kolmisilmän_koipi",
@@ -148,9 +148,9 @@
 
     "sublayer": "vanilla_bosses",
 
-   "icon":"icons/Vanilla/Bosses/FullImage/300px-Suomuhauki.png",
+   "icon":"icons/Vanilla/Bosses/FullImage/Suomuhauki_Glow.png",
 
-    "tooltipImage":"icons/Vanilla/Bosses/FullImage/300px-Suomuhauki.png",
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/Suomuhauki.png",
 
 
     "url":"https://noita.wiki.gg/wiki/Suomuhauki",
@@ -168,7 +168,7 @@
 
     "sublayer": "vanilla_bosses",
 
-   "icon":"icons/Vanilla/Bosses/FullImage/Boss_meat_idle.gif",
+   "icon":"icons/Vanilla/Bosses/FullImage/Boss_meat_idle_Glow.gif",
 
     "tooltipImage":"icons/Vanilla/Bosses/FullImage/Boss_meat_idle.gif",
 
@@ -188,9 +188,9 @@
 
     "sublayer": "vanilla_bosses",
 
-   "icon":"icons/Vanilla/Bosses/FullImage/MechaKolmi.png",
+   "icon":"icons/Vanilla/Bosses/FullImage/MechaKolmi_Glow.png",
 
-    "tooltipImage":"icons/Vanilla/Bosses/FullImage/MechaKolmi.png",
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/MechaKolmi_Glow.png",
 
 
     "url":"https://noita.wiki.gg/wiki/Kolmisilmän_silmä",
@@ -208,7 +208,7 @@
 
     "sublayer": "vanilla_bosses",
 
-   "icon":"icons/Vanilla/Bosses/FullImage/Monster_friend_stand_full.gif",
+   "icon":"icons/Vanilla/Bosses/FullImage/Monster_friend_stand_full_Glow.gif",
 
     "tooltipImage":"icons/Vanilla/Bosses/FullImage/Monster_friend_stand_full.gif",
 
@@ -1919,7 +1919,7 @@
     
     "tooltipImage":"icons/Apotheosis/Bosses/NoteBoss.png",
     
-    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Abandoned Orchestra",
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Abandoned_Orchestra",
     
     "x": 11971,
     
@@ -1939,7 +1939,7 @@
     
     "tooltipImage":"icons/Apotheosis/Bosses/BlobBoss.png",
     
-    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Colossal Blob",
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Colossal_Blob",
     
     "x": 4014,
     
@@ -1959,7 +1959,7 @@
     
     "tooltipImage":"icons/Apotheosis/Bosses/ToxicWorm_2.png",
     
-    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Giant Toxic Worm",
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Giant_Toxic_Worm",
     
     "x": 2258,
     
@@ -1979,7 +1979,7 @@
     
     "tooltipImage":"icons/Apotheosis/Bosses/HellBoss.png",
     
-    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Aesthete of Heat",
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Aesthete_of_Heat",
     
     "x": 2860,
     
@@ -1999,7 +1999,7 @@
     
     "tooltipImage":"icons/Apotheosis/Bosses/Hellworm.png",
     
-    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Greater Hell Worm",
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Greater_Hell_Worm",
     
     "x": 331,
     
