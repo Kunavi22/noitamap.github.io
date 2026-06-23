@@ -1884,6 +1884,26 @@
 
       "y": 16325    
    },
+  {
+    
+    "title": "Angler skill",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/AnglersSkill.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/AnglersSkill.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Red_Fish",
+    
+    "x": -20737,
+    
+    "y": 2368
+  },
 
    {
     
@@ -2114,7 +2134,26 @@
     "y": 1380
   }
   ,
-
+  {
+    
+    "title": "Volcanic Chest",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/VolcanicChest_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/VolcanicChest.png",
+    
+    "url": "",
+    
+    "x": -8501,
+    
+    "y": 16761
+  },
   {
     
     "title": "Orb of Divine Knowledge",
@@ -2586,26 +2625,6 @@
 
  
 
-  {
-    
-    "title": "Angler skill",
-    
-    "description": "",
-    
-    "sublayer": "apotheosis_secrets",
-    
-    "layer":"Apotheosis",
-    
-    "icon": "icons/Apotheosis/Locations/AnglersSkill.png",
-    
-    "tooltipImage":"icons/Apotheosis/Locations/AnglersSkill.png",
-    
-    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Red_Fish",
-    
-    "x": -20737,
-    
-    "y": 2368
-  },
 
  
 
@@ -2628,5 +2647,51 @@
     "x": -22515,
     
     "y": -88
+  },
+
+ 
+
+  {
+    
+    "title": "Sleep Altar",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/SleepAltar_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/SleepAltar.png",
+    
+    "url": "",
+    
+    "x": 22338,
+    
+    "y": 33
+  },
+
+ 
+
+  {
+    
+    "title": "Abyssal Chest",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Abyssal_Chest_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Abyssal_Chest.png",
+    
+    "url": "",
+    
+    "x": -14080,
+    
+    "y": 12142
   }
 ]
