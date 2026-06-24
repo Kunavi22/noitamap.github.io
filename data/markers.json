@@ -2580,9 +2580,6 @@
     
     "y": 175
   },
-
- 
-
   {
     
     "title": "Fisherman's Grave",
@@ -2602,7 +2599,8 @@
     "x": 4866,
     
     "y": 171
-  },{
+  },
+  {
     
     "title": "Fishing Rod",
     
@@ -2622,12 +2620,6 @@
     
     "y": 186
   },
-
- 
-
-
- 
-
   {
     
     "title": "Trial of Knowledge",
@@ -2671,9 +2663,6 @@
     
     "y": 33
   },
-
- 
-
   {
     
     "title": "Abyssal Chest",
@@ -2693,5 +2682,85 @@
     "x": -14080,
     
     "y": 12142
+  },
+  {
+    
+    "title": "Alchemist's House",
+    
+    "description": "",
+    
+    "sublayer": "",
+    
+    "layer":"Chemical curiosities",
+    
+    "icon": "icons/CC/AlchemistHome_Glow.png",
+    
+    "tooltipImage":"icons/CC/AlchemistHome.png",
+    
+    "url": "",
+    
+    "x": 1288,
+    
+    "y": -545
+  },
+  {
+    
+    "title": "Music Shrine",
+    
+    "description": "",
+    
+    "sublayer": "",
+    
+    "layer":"Chemical curiosities",
+    
+    "icon": "icons/CC/SongPuzzle_Glow.png",
+    
+    "tooltipImage":"icons/CC/SongPuzzle.png",
+    
+    "url": "",
+    
+    "x": 6456,
+    
+    "y": 5777
+  },
+  {
+    
+    "title": "Squirrelly's Signature",
+    
+    "description": "",
+    
+    "sublayer": "",
+    
+    "layer":"Chemical curiosities",
+    
+    "icon": "icons/SharedIcons/Secret.png",
+    
+    "tooltipImage":"icons/CC/Squirrelly.png",
+    
+    "url": "",
+    
+    "x": -1950,
+    
+    "y": 250
+  },
+  {
+    
+    "title": "UserK's Signature",
+    
+    "description": "",
+    
+    "sublayer": "",
+    
+    "layer":"Chemical curiosities",
+    
+    "icon": "icons/SharedIcons/Secret.png",
+    
+    "tooltipImage":"icons/CC/UserK.png",
+    
+    "url": "",
+    
+    "x": 11644,
+    
+    "y": 20527
   }
 ]

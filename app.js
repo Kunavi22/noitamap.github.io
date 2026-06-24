@@ -194,20 +194,6 @@ function createLayerButtons()
 
     defaultOn: false
 },
-
-{
-    id:"Chemical curiosities",
-
-    icon:"icons/ChemicalCuriosities.png",
-
-    sublayers:
-    [
-        
-    ],
-
-    defaultOn: false
-},
-
 {
     id:"Graham's things",
 
@@ -229,6 +215,18 @@ function createLayerButtons()
     sublayers:
     [
         
+    ],
+
+    defaultOn: false
+},
+{
+    id:"Chemical curiosities",
+
+    icon:"icons/ChemicalCuriosities.png",
+
+    sublayers:
+    [
+         
     ],
 
     defaultOn: false
