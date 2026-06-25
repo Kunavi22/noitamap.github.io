@@ -847,7 +847,7 @@
    {
       "title":"Experimental Wand Diamond",
 
-      "description":"",
+      "description":"???",
 
       "layer":"Noita",
 
@@ -2762,5 +2762,524 @@
     "x": 11644,
     
     "y": 20527
+  },
+  {
+    
+    "title": "Ascendium Eye",
+    
+    "description": "",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/AscendiumRoom_Glow.png",
+    
+    "tooltipImage":"icons/GrahamThings/AscendiumRoom.png",
+    
+    "url": "",
+    
+    "x": 4690,
+    
+    "y": 614
+  },
+  {
+    
+    "title": "Water Rapsule Room",
+    
+    "description": "",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/Capsulestructure_Glow.png",
+    
+    "tooltipImage":"icons/GrahamThings/Capsulestructure.png",
+    
+    "url": "",
+    
+    "x": 11536,
+    
+    "y": 9981
+  },
+  {
+    
+    "title": "Challice",
+    
+    "description": "",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/Challice_Glow.png",
+    
+    "tooltipImage":"icons/GrahamThings/Challice.png",
+    
+    "url": "",
+    
+    "x": 2382,
+    
+    "y": 588
+  },
+  {
+    
+    "title": "Lukki egg",
+    
+    "description": "",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/egg_Glow.png",
+    
+    "tooltipImage":"icons/GrahamThings/egg_visual.png",
+    
+    "url": "",
+    
+    "x": 1794,
+    
+    "y": 6605
+  },
+  {
+    
+    "title": "Exchange Hand",
+    
+    "description": "Pit",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/hand_Glow.png",
+    
+    "tooltipImage":"icons/GrahamThings/hand_visual.png",
+    
+    "url": "",
+    
+    "x": 3915,
+    
+    "y": 3178
+  },{
+    
+    "title": "Exchange Hand",
+    
+    "description": "Meat realm",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/hand_Glow.png",
+    
+    "tooltipImage":"icons/GrahamThings/hand_visual.png",
+    
+    "url": "",
+    
+    "x": 14234,
+    
+    "y": 16363
+  },
+  {
+    
+    "title": "Heart",
+    
+    "description": "",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/heart_Glow.png",
+    
+    "tooltipImage":"icons/GrahamThings/heart_visual.png",
+    
+    "url": "",
+    
+    "x": 7470,
+    
+    "y": 6237
+  },
+  {
+    
+    "title": "Hellblood Room",
+    
+    "description": "",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/Hellblood_Glow.png",
+    
+    "tooltipImage":"icons/GrahamThings/Hellblood.webp",
+    
+    "url": "",
+    
+    "x": -2183,
+    
+    "y": 2786
+  },
+  {
+    
+    "title": "Minty Marsh Island",
+    
+    "description": "",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/Islandstructure_Glow.png",
+    
+    "tooltipImage":"icons/GrahamThings/Islandstructure.png",
+    
+    "url": "",
+    
+    "x": -158,
+    
+    "y": -1451
+  },
+  {
+    
+    "title": "Alchemist's Recipes",
+    
+    "description": "",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/materials_Glow.png",
+    
+    "tooltipImage":"icons/GrahamThings/materials.png",
+    
+    "url": "",
+    
+    "x": -5269,
+    
+    "y": 621
+  },
+  {
+    
+    "title": "Achievement Glyphs",
+    
+    "description": "",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/Progressstructure_Glow.png",
+    
+    "tooltipImage":"icons/GrahamThings/Progressstructure.png",
+    
+    "url": "",
+    
+    "x": 3417,
+    
+    "y": 1697
+  },
+  {
+    
+    "title": "Sacrifice Altar",
+    
+    "description": "",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/SacreficeAltarGlow.png",
+    
+    "tooltipImage":"icons/GrahamThings/SacreficeAltar.png",
+    
+    "url": "",
+    
+    "x": 12056,
+    
+    "y": 2785
+  },
+  {
+    
+    "title": "Snub Room",
+    
+    "description": "",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/AscendiumRoom_Glow.png",
+    
+    "tooltipImage":"icons/GrahamThings/AscendiumRoom.png",
+    
+    "url": "",
+    
+    "x": 4690,
+    
+    "y": 614
+  },
+  {
+    
+    "title": "Stargazer Room",
+    
+    "description": "",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/stargazer_Glow.png",
+    
+    "tooltipImage":"icons/GrahamThings/stargazer.png",
+    
+    "url": "",
+    
+    "x": -11696,
+    
+    "y": 613
+  },
+  {
+    
+    "title": "Transmutatium Room",
+    
+    "description": "",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/Transmutatium_Glow.png",
+    
+    "tooltipImage":"icons/GrahamThings/Transmutatium.png",
+    
+    "url": "",
+    
+    "x": -2384,
+    
+    "y": 6605
+  },
+  {
+    
+    "title": "Yin and Yang",
+    
+    "description": "",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/yinyang_Glow.png",
+    
+    "tooltipImage":"icons/GrahamThings/yinyang.png",
+    
+    "url": "",
+    
+    "x": -6695,
+    
+    "y": 7514
+  },
+  {
+    
+    "title": "Glue",
+    
+    "description": "",
+    
+    "sublayer": "graham_items",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/Glue.png",
+    
+    "tooltipImage":"icons/GrahamThings/Glue.png",
+    
+    "url": "",
+    
+    "x": 4135,
+    
+    "y": 12960
+  },
+  {
+    
+    "title": "Candyheart",
+    
+    "description": "",
+    
+    "sublayer": "graham_items",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/Mod_GT-Candyheart.png",
+    
+    "tooltipImage":"icons/GrahamThings/Mod_GT-Candyheart.png",
+    
+    "url": "",
+    
+    "x": 10969,
+    
+    "y": -4870
+  },
+  {
+    
+    "title": "Experimental Wand",
+    
+    "description": "Graham's Things",
+    
+    "sublayer": "graham_items",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/Mod_GT-Experimentalwand.png",
+    
+    "tooltipImage":"icons/GrahamThings/Mod_GT-Experimentalwand.png",
+    
+    "url": "",
+    
+    "x": 16162,
+    
+    "y": 3325
+  },
+  {
+    
+    "title": "Coffee Machine",
+    
+    "description": "",
+    
+    "sublayer": "graham_items",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/Mod_GT-Coffeemachine.png",
+    
+    "tooltipImage":"icons/GrahamThings/Mod_GT-Coffeemachine.png",
+    
+    "url": "",
+    
+    "x": 16090,
+    
+    "y": 9994
+  },
+  {
+    
+    "title": "Life Lottery",
+    
+    "description": "",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/Mod_GT-Lifelottery.webp",
+    
+    "tooltipImage":"icons/GrahamThings/Mod_GT-Lifelottery.webp",
+    
+    "url": "",
+    
+    "x": 22849,
+    
+    "y": -3385
+  },
+  {
+    
+    "title": "Mystery Radar I",
+    
+    "description": "",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/Mod_GT-Map.webp",
+    
+    "tooltipImage":"icons/GrahamThings/Mod_GT-Map.webp",
+    
+    "url": "",
+    
+    "x": 4531,
+    
+    "y": 13080
+  },
+  {
+    
+    "title": "Mystery Radar II",
+    
+    "description": "Shows only if you have Mystery Radar I.",
+    
+    "sublayer": "graham_secrets",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/Mod_GT-Map2.webp",
+    
+    "tooltipImage":"icons/GrahamThings/Mod_GT-Map2.webp",
+    
+    "url": "",
+    
+    "x": 790,
+    
+    "y": -1258
+  },
+  {
+    
+    "title": "Mini mato",
+    
+    "description": "",
+    
+    "sublayer": "graham_items",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/Mod_GT-Minimato.png",
+    
+    "tooltipImage":"icons/GrahamThings/Mod_GT-Minimato.png",
+    
+    "url": "",
+    
+    "x": 2520,
+    
+    "y": 7432
+  },
+  {
+    
+    "title": "Unded Wand",
+    
+    "description": "",
+    
+    "sublayer": "graham_items",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/Mod_GT-Undeadwand.png",
+    
+    "tooltipImage":"icons/GrahamThings/Mod_GT-Undeadwand.png",
+    
+    "url": "",
+    
+    "x": 10051,
+    
+    "y": -747
+  },
+  {
+    
+    "title": "Coffee Machine",
+    
+    "description": "",
+    
+    "sublayer": "graham_items",
+    
+    "layer":"Graham's things",
+    
+    "icon": "icons/GrahamThings/Mod_GT-Coffeemachine.png",
+    
+    "tooltipImage":"icons/GrahamThings/Mod_GT-Coffeemachine.png",
+    
+    "url": "",
+    
+    "x": 16090,
+    
+    "y": 9994
   }
 ]

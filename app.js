@@ -201,7 +201,8 @@ function createLayerButtons()
 
     sublayers:
     [
-        
+        { id: "graham_secrets", label: "Points of interest", icon:"icons/SharedIcons/Secret.png" , defaultOn: true},
+        { id: "graham_items", label: "Items", icon:"icons/GrahamThings/Mod_GT-Experimentalwand.png" , defaultOn: true} 
     ],
 
     defaultOn: false
