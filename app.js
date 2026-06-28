@@ -216,7 +216,9 @@ function createLayerButtons()
 
     sublayers:
     [
-        
+        { id: "NE_Elemental", label: "Essence Bosses", icon:"icons/Vanilla/Items/Special_Perk_essence_water.webp" , defaultOn: true},
+        { id: "NE_Special", label: "Special Bosses", icon:"icons/Star.png" , defaultOn: true},
+        { id: "NE_Orb", label: "Orb Bosses", icon:"icons/Vanilla/Orbs/orb_empty.gif" , defaultOn: true} 
     ],
 
     defaultOn: false

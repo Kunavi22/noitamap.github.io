@@ -1352,7 +1352,27 @@
 
       "x":-5380,
 
-      "y": 16666    
+      "y": 16456    
+   },
+   {
+      "title":"Essence Of Earth",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Special_Perk_essence_earth.webp",
+
+      "tooltipImage":"icons/Vanilla/Items/Special_Perk_essence_earth.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Essences#Essence_of_Water",
+
+      "x":23882,
+
+      "y": -1964    
    },
    {
       "title":"Music Box",
@@ -1696,9 +1716,9 @@
 
       "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
 
-      "x":9990,
+      "x":9983,
 
-      "y": -1223    
+      "y": -1260    
    }
    ,
    {
@@ -1719,7 +1739,7 @@
 
       "x":3460,
 
-      "y": 1830    
+      "y": 1800    
    }
    ,
    {
@@ -1740,7 +1760,7 @@
 
       "x":4354,
 
-      "y": 833    
+      "y": 890    
    }
    ,
    {
@@ -1822,7 +1842,7 @@
 
       "x":-3835,
 
-      "y": 10000    
+      "y": 10110    
    }
    ,
    {
@@ -2087,7 +2107,7 @@
     
     "x": -21250,
     
-    "y": 9567
+    "y": 9440
   }
   ,
 
@@ -2109,7 +2129,7 @@
     
     "x": 18702,
     
-    "y": 16980
+    "y": 16833
   }
   ,
 
@@ -2131,7 +2151,7 @@
     
     "x": -20735,
     
-    "y": 1380
+    "y": 1260
   }
   ,
   {
@@ -3582,5 +3602,525 @@
     "x":0,
     
     "y": -60000
+  },
+  {
+    
+    "title": "Sky Monster",
+    
+    "description": "Essence of Air",
+    
+    "sublayer": "NE_Elemental",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Elemental/skymonster_glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Elemental/skymonster.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Sky_Monster_Boss",
+    
+    "x":-13050,
+    
+    "y": -5637
+  },
+  {
+    
+    "title": "Fungal Colossus",
+    
+    "description": "Essence of Fungus",
+    
+    "sublayer": "NE_Elemental",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Elemental/boss_fungus_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Elemental/boss_fungus.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Fungal_Colossus",
+    
+    "x":12057,
+    
+    "y": 3899
+  },
+  {
+    
+    "title": "Sea Monster",
+    
+    "description": "Essence of Spirits",
+    
+    "sublayer": "NE_Elemental",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Elemental/seamonster_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Elemental/seamonster.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Sea_Monster_Boss",
+    
+    "x":-14090,
+    
+    "y": 13221
+  },
+  {
+    
+    "title": "Wraith Boss",
+    
+    "description": "Essence of Water",
+    
+    "sublayer": "NE_Elemental",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Elemental/boss_wraith_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Elemental/boss_wraith.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Wraith_Boss",
+    
+    "x":-5380,
+    
+    "y": 16811
+  },
+  {
+    
+    "title": "Golem",
+    
+    "description": "Essence of Earth",
+    
+    "sublayer": "NE_Elemental",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Elemental/golem_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Elemental/golem.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Golem_Boss",
+    
+    "x":23888,
+    
+    "y": -1676
+  },
+  {
+    
+    "title": "Lake Statue",
+    
+    "description": "Essence of Fire\n\nProb removed from the game?",
+    
+    "sublayer": "NE_Elemental",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Elemental/IslandStatue_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Elemental/IslandStatue_Glow.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Lake_Statue_Boss",
+    
+    "x":-14051,
+    
+    "y": -84
+  },
+  {
+    
+    "title": "Desert Skull Boss",
+    
+    "description": "",
+    
+    "sublayer": "NE_Special",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Special/Skull_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Special/Skull.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Desert_Skull_Boss",
+    
+    "x":7450,
+    
+    "y": -320
+  },
+  {
+    
+    "title": "Desolate Core",
+    
+    "description": "",
+    
+    "sublayer": "NE_Special",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Special/EndlessMachine_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Special/EndlessMachine.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Desolate_Core",
+    
+    "x":-16649,
+    
+    "y": 21540
+  },
+  {
+    
+    "title": "Hiisi Excavator Drill",
+    
+    "description": "Spawns randomly at Desert Chasm\n\nSpawns only once per game",
+    
+    "sublayer": "NE_Special",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Special/Drill_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Special/Drill.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Hiisi_Excavator_Drill",
+    
+    "x":5690,
+    
+    "y": 1980
+  },
+  {
+    
+    "title": "Dreadnought",
+    
+    "description": "",
+    
+    "sublayer": "NE_Special",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Special/Helicopter_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Special/Helicopter.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Dreadnought",
+    
+    "x":-9540,
+    
+    "y": -6400
+  },
+  {
+    
+    "title": "God warrior",
+    
+    "description": "",
+    
+    "sublayer": "NE_Special",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Special/god_warrior_faded_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Special/god_warrior_faded.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/God_warrior",
+    
+    "x":675,
+    
+    "y": -25850
+  },
+  {
+    
+    "title": "Cthulhu",
+    
+    "description": "",
+    
+    "sublayer": "NE_Special",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Special/cthulhu_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Special/cthulhu_Glow.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Cthulhu",
+    
+    "x":890,
+    
+    "y": 37777
+  },
+  {
+    
+    "title": "Ritualists",
+    
+    "description": "",
+    
+    "sublayer": "NE_Special",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Special/altar_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Special/altar.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Ritualists",
+    
+    "x":400,
+    
+    "y": -118
+  },
+  {
+    
+    "title": "Feeniks",
+    
+    "description": "Phoenix, Bird",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/bird_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/bird.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Bird",
+    
+    "x":4355,
+    
+    "y": 715
+  },
+  {
+    
+    "title": "Yikka",
+    
+    "description": "Yikka ghost",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/yikka_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/yikka.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Yikka_ghost",
+    
+    "x":-4353,
+    
+    "y": 3926
+  },
+  {
+    
+    "title": "Eldirood",
+    
+    "description": "Desert Sand Mage",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/desert_mage_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/desert_mage.png",
+    
+    "url": "Eldirood",
+    
+    "x":9983,
+    
+    "y": -1180
+  },
+  {
+    
+    "title": "I160",
+    
+    "description": "Camel robot",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/camel_robot_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/camel_robot.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Camel_robot",
+    
+    "x":-9980,
+    
+    "y": 2920
+  },
+  {
+    
+    "title": "Hönkäle",
+    
+    "description": "Vulcan, Elephant",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/elephant_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/elephant.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Elephant",
+    
+    "x":3500,
+    
+    "y": 1880
+  },
+  {
+    
+    "title": "Pyhäkkö",
+    
+    "description": "The Sanctuary, Magiconstruct",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/magiconstruct_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/magiconstruct.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Magiconstruct",
+    
+    "x":10488,
+    
+    "y": 16131
+  },
+  {
+    
+    "title": "Hirmukita",
+    
+    "description": "Soriacc, Lukki dark huge",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/Lukki_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/Lukki.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Lukki_dark_huge",
+    
+    "x":-3835,
+    
+    "y": 9900
+  },
+  {
+    
+    "title": "Järkäle",
+    
+    "description": "Rock Spirit Colossus, Giant",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/Giant_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/Giant_Full.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Giant_boss",
+    
+    "x":-8964,
+    
+    "y": 14526
+  },
+  {
+    
+    "title": "Monipäinen Käärme",
+    
+    "description": "Hydra",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/Gidra_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/Gidra.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Hydra_Boss",
+    
+    "x":9945,
+    
+    "y": 2870
+  },
+  {
+    
+    "title": "Läpivalaistu",
+    
+    "description": "Mwyah",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/Mwyah_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/Mwyah.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Mwyah",
+    
+    "x":-256,
+    
+    "y": 16110
+  },
+  {
+    
+    "title": "Aberrant Child",
+    
+    "description": "Cyclops Slime",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/cyclops_slime_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/cyclops_slime.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Aberrant_Child",
+    
+    "x":18694,
+    
+    "y": 17000
+  },
+  {
+    
+    "title": "Enchanted Corridor",
+    
+    "description": "",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/Monument_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/Monument.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Enchanted_Corridor",
+    
+    "x":-20737,
+    
+    "y": 1364
+  },
+  {
+    
+    "title": "Basilisk Eel",
+    
+    "description": "",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/boss_eel_ship_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/boss_eel_ship.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Basilisk_Eel",
+    
+    "x":-21250,
+    
+    "y": 9570
   }
 ]
