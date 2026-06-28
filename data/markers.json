@@ -3785,9 +3785,9 @@
   },
   {
     
-    "title": "Dreadnought",
+    "title": "Hiisi Airship",
     
-    "description": "",
+    "description": "Dreadnought",
     
     "sublayer": "NE_Special",
     
@@ -3805,9 +3805,9 @@
   },
   {
     
-    "title": "God warrior",
+    "title": "Perkele",
     
-    "description": "",
+    "description": "God warrior",
     
     "sublayer": "NE_Special",
     
@@ -3825,9 +3825,9 @@
   },
   {
     
-    "title": "Cthulhu",
+    "title": "Abyssum",
     
-    "description": "",
+    "description": "Cthulhu",
     
     "sublayer": "NE_Special",
     
@@ -3917,7 +3917,7 @@
     
     "tooltipImage":"icons/NewEnemies/Orb/desert_mage.png",
     
-    "url": "Eldirood",
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Desert_mage",
     
     "x":9983,
     
