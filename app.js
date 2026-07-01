@@ -243,7 +243,8 @@ function createLayerButtons()
 
     sublayers:
     [
-        
+        { id: "Varia", label: "Varia Addons", icon:"icons/Other/Varia/shovel_golden.png" , defaultOn: true},
+        { id: "SmallMods", label: "Small Mods", icon:"icons/Star.png" , defaultOn: true}
     ],
 
     defaultOn: false

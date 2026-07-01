@@ -4122,5 +4122,265 @@
     "x":-21250,
     
     "y": 9570
+  },
+  {
+    
+    "title": "Shovel",
+    
+    "description": "The basic shovel can dig through most soft materials, but will be unable to break tough surfaces like steel, brickwork and extremely dense rock.",
+    
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/shovel.png",
+    
+    "tooltipImage":"icons/Other/Varia/shovel.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0#heading=h.aywt66y804fc",
+    
+    "x": 735,
+    
+    "y": -101
+  },
+  {
+    
+    "title": "Golden Shovel",
+    
+    "description": "The golden shovel can dig through anything that isn’t cursed rock, at a faster pace than the base shovel.",
+    
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/shovel_golden.png",
+    
+    "tooltipImage":"icons/Other/Varia/shovel_golden.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0#heading=h.ybilbu27vmmk",
+    
+    "x":3860,
+    
+    "y":13086
+  },
+  {
+    
+    "title": "Void Shovel",
+    
+    "description": "The void shovel can dig through anything, and sports both the fastest speed, and biggest radius of effect of all the shovels.\n\n Should spawn in the Gold Biome, but Apotheosis moves it further right",
+    
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/shovel_void.png",
+    
+    "tooltipImage":"icons/Other/Varia/shovel_void.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0#heading=h.3eorgxyac9lh",
+    
+    "x":15070,
+    
+    "y": -3080
+  },
+  {
+    
+    "title": "Nuclear Shovel",
+    
+    "description": "This will instantly kill you if you don’t have fire immunity and explosion immunity. On a lighter note, have fun!",
+    
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/shovel_nuclear.png",
+    
+    "tooltipImage":"icons/Other/Varia/shovel_nuclear.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0#heading=h.2pkbcvvazpm",
+    
+    "x":-14060,
+    
+    "y":16800
+  },
+  {
+    
+    "title": "Draco Ferrio",
+    
+    "description": "This legendary sword caries a rapid slash combo, with a powerful finisher, and easily sports enough DPS for NG+",
+    
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/draco_ferrio.png",
+    
+    "tooltipImage":"icons/Other/Varia/draco_ferrio.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0#heading=h.d8jbuk5uhw5g",
+    
+    "x":265,
+    
+    "y":-26120
+  },
+  {
+    
+    "title": "Subjugation Rifle",
+    
+    "description": "With crits that go up to 30k, this rifle can one-shot almost anything. It’s painful reload time and recoil makes it very tough to use however.",
+    
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/subjugation_rifle_Glow.png",
+    
+    "tooltipImage":"icons/Other/Varia/subjugation_rifle.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0#heading=h.sp6u47ya5o23",
+    
+    "x":9985,
+    
+    "y":4195
+  },
+  {
+    
+    "title": "Aavikon Lohikäärme",
+    
+    "description": "It’s dual shields and big bullets make this a powerful weapon for both defense and offense. SpazProject’s personal weapon.",
+      
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/Aavikon.png",
+    
+    "tooltipImage":"icons/Other/Varia/Aavikon.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0#heading=h.53zbd3hzkjvn",
+    
+    "x":2330,
+    
+    "y":7440
+  },
+  {
+    
+    "title": "Polar Star",
+    
+    "description": "A solid early game weapon if you have nothing better. The polar star is ready to help you forge your own story in the caves.",
+    
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/polar_star.png",
+    
+    "tooltipImage":"icons/Other/Varia/polar_star.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0",
+    
+    "x":2368,
+    
+    "y":830
+  },
+  {
+    
+    "title": "Completionist’s Codex",
+    
+    "description": "For the absolute completionist. Dev Spells are the glue that hold special weapons together, and this codex has all of them for free use.",
+    
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/completionists_codex.png",
+    
+    "tooltipImage":"icons/Other/Varia/completionists_codex.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0",
+    
+    "x":-17630,
+    
+    "y":220
+  },
+  {
+    
+    "title": "Bre-si’s Trident",
+    
+    "description": "This trident packs incredible damage underwater, and will easily take you into NG+ and beyond. Just take care not to drown yourself while using it.",
+    
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/bresi_trident.png",
+    
+    "tooltipImage":"icons/Other/Varia/bresi_trident.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0#heading=h.f8uw3utz4p7n",
+    
+    "x":-14080,
+    
+    "y":13530
+  },
+  {
+    
+    "title": "Volcano Portal",
+    
+    "description": "Volcano Biome",
+    
+    "sublayer": "SmallMods",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/VolcanoPortal.png",
+    
+    "tooltipImage":"icons/Other/VolcanoPortal.png",
+    
+    "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2028431626",
+    
+    "x":-590,
+    
+    "y": 8518
+  },
+  {
+    
+    "title": "The heart of the volcano",
+    
+    "description": "Volcano Biome",
+    
+    "sublayer": "SmallMods",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/heart_of_the_volcano_ui_icon.png",
+    
+    "tooltipImage":"icons/Other/heart_of_the_volcano_ui_icon.png",
+    
+    "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2028431626",
+    
+    "x":-8960,
+    
+    "y": 20235
+  },
+  {
+    
+    "title": "Boss Rush Portal",
+    
+    "description": "Boss Reworks",
+    
+    "sublayer": "SmallMods",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/BossRush_Glow.png",
+    
+    "tooltipImage":"icons/Other/BossRush.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Boss_Reworks",
+    
+    "x":10497,
+    
+    "y":4352
   }
 ]
