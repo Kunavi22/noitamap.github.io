@@ -122,6 +122,36 @@ body
     opacity: 0.3;
 }
 
+#mapSelectorContainer
+{
+    position: fixed;
+    top: 0.5rem;
+    left: 0.5rem;
+    z-index: 1000;
+}
+
+#mapSelector
+{
+    background: rgba(20, 20, 20, 0.9);
+    border: 2px solid #ffb347;
+    border-radius: 0.375rem;
+    padding: 0.35rem 0.65rem;
+    font-size: 1rem;
+    font-family: 'NoitaBlackletter', serif;
+    cursor: pointer;
+    background: linear-gradient(to bottom, #FFFCA0 0%, #FFC240 40%, #FF6D3B 75%, #D63434 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+
+#mapSelector option
+{
+    color: #FF823C;
+    background: #111111;
+}
+
 #coords
 {
     position: fixed;

@@ -1,0 +1,3009 @@
+[
+ {
+    "title":"Kivi",
+
+    "description":"Stone Boss, Sky Boss, Rock Boss",
+
+    "layer":"Noita",
+
+    "sublayer": "vanilla_bosses",
+
+    "icon":"icons/Vanilla/Bosses/FullImage/kivi.png",
+
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/kivi.png",
+
+
+    "url":"https://noita.wiki.gg/wiki/Kivi",
+
+    "x":7373,
+
+    "y": -4540
+   },
+  {
+    "title":"Sauvojen tuntija",
+
+    "description":"Bridge Boss,Connoisseur of Wands, Squid Boss, Pit Boss, Wand Boss\n\nSpawn locaiton and trigger is moved by \"New Enemies\" mod if you enable Feeniks boss",
+
+    "layer":"Noita",
+
+    "sublayer": "vanilla_bosses",
+
+   "icon":"icons/Vanilla/Bosses/FullImage/Sauvojen_Tuntija.png",
+
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/Sauvojen_Tuntija.png",
+
+
+    "url":"https://noita.wiki.gg/wiki/Sauvojen_tuntija",
+
+    "x":-13572,
+
+    "y": 10244    
+ },
+  {
+    "title":"Ylialkemisti",
+
+    "description":"Alchemist Boss, High Alchemist",
+
+    "layer":"Noita",
+
+    "sublayer": "vanilla_bosses",
+
+    "icon":"icons/Vanilla/Bosses/FullImage/Monster_boss_alchemist_stand_full.gif",
+
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/Monster_boss_alchemist_stand_full.gif",
+
+
+    "url":"https://noita.wiki.gg/wiki/Ylialkemisti",
+
+    "x":-4850,
+
+    "y": 850    
+ },
+  {
+    "title":"Tapion vasalli",
+
+    "description":"Deer Boss, Tapio's Boss, Island Boss",
+
+    "layer":"Noita",
+
+    "sublayer": "vanilla_bosses",
+
+   "icon":"icons/Vanilla/Bosses/FullImage/Boss_spirit_idle.gif",
+
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/Boss_spirit_idle.gif",
+
+
+    "url":"https://noita.wiki.gg/wiki/Tapion_vasalli",
+
+    "x":-13675,
+
+    "y": 140    
+ },
+  {
+    "title":"Syväolento",
+
+    "description":"Leviathan, Creature of the Deep",
+
+    "layer":"Noita",
+
+    "sublayer": "vanilla_bosses",
+
+   "icon":"icons/Vanilla/Bosses/FullImage/300px-Fish_giga_stand_full.gif",
+
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/300px-Fish_giga_stand_full.gif",
+
+
+    "url":"https://noita.wiki.gg/wiki/Syväolento",
+
+    "x":-13960,
+
+    "y": 10000    
+ },
+  {
+    "title":"Unohdettu",
+
+    "description":"The Forgotten, Ghost Boss",
+
+    "layer":"Noita",
+
+    "sublayer": "vanilla_bosses",
+
+   "icon":"icons/Vanilla/Bosses/FullImage/Monster_Boss_Ghost.png",
+
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/Monster_Boss_Ghost.png",
+
+
+    "url":"https://noita.wiki.gg/wiki/Unohdettu",
+
+    "x":20773,
+
+    "y": 15909    
+ },
+  {
+    "title":"Suomuhauki",
+
+    "description":"Dragon, Scale Pike",
+
+    "layer":"Noita",
+
+    "sublayer": "vanilla_bosses",
+
+   "icon":"icons/Vanilla/Bosses/FullImage/Suomuhauki_Glow.png",
+
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/Suomuhauki.png",
+
+
+    "url":"https://noita.wiki.gg/wiki/Suomuhauki",
+
+    "x":2340,
+
+    "y": 7550    
+ },
+  {
+    "title":"Kolmisilmän sydän",
+
+    "description":"Meat Boss, Three-Eye's Heart",
+
+    "layer":"Noita",
+
+    "sublayer": "vanilla_bosses",
+
+   "icon":"icons/Vanilla/Bosses/FullImage/Boss_meat_idle_Glow.gif",
+
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/Boss_meat_idle.gif",
+
+
+    "url":"https://noita.wiki.gg/wiki/Kolmisilmän_sydän",
+
+    "x":-19205,
+
+    "y": 11529   
+ },
+  {
+    "title":"Kolmisilmän silmä",
+
+    "description":"Mecha Kolmi, Three-Eye's Eye",
+
+    "layer":"Noita",
+
+    "sublayer": "vanilla_bosses",
+
+   "icon":"icons/Vanilla/Bosses/FullImage/MechaKolmi_Glow.png",
+
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/MechaKolmi_Glow.png",
+
+
+    "url":"https://noita.wiki.gg/wiki/Kolmisilmän_silmä",
+
+    "x":14080,
+
+    "y": 11095    
+ },
+  {
+    "title":"Toveri",
+
+    "description":"Friend Boss, Friend",
+
+    "layer":"Noita",
+
+    "sublayer": "vanilla_bosses",
+
+   "icon":"icons/Vanilla/Bosses/FullImage/Monster_friend_stand_full_Glow.gif",
+
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/Monster_friend_stand_full.gif",
+
+
+    "url":"https://noita.wiki.gg/wiki/Toveri",
+
+    "x":-11002,
+
+    "y": 11602    
+   },
+  {
+    "title":"Veska, Molari, Mokke, Seula",
+
+    "description":"Door Boss, Gate Guardian, Triangle boss",
+
+    "layer":"Noita",
+
+    "sublayer": "vanilla_bosses",
+
+   "icon":"icons/Vanilla/Bosses/FullImage/GateKeeperTransparent.png",
+
+    "tooltipImage":"icons/Vanilla/Bosses/FullImage/GateKeeperTransparent.png",
+
+
+    "url":"https://noita.wiki.gg/wiki/Gate_Guardian",
+
+    "x":2830,
+
+    "y": 11590    
+   },
+   {
+      "title":"Kolmisilmä",
+
+      "description":"Kolmi, Three Eye",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_bosses",
+
+      "icon":"icons/Vanilla/Bosses/FullImage/Monster_boss_centipede_full.gif",
+
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/Monster_boss_centipede_full.gif",
+
+
+      "url":"https://noita.wiki.gg/wiki/Kolmisilmä",
+
+      "x":3550,
+
+      "y": 13010    
+   },
+   {
+      "title":"Mestarien mestari",
+
+      "description":"The Master of Masters, Grand Master, Wizard Boss",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_bosses",
+
+      "icon":"icons/Vanilla/Bosses/FullImage/Monster_boss_wizard_stand_full.gif",
+
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/Monster_boss_wizard_stand_full.gif",
+
+
+      "url":"https://noita.wiki.gg/wiki/Mestarien_mestari",
+
+      "x":12566,
+
+      "y": 15200    
+   },
+   {
+      "title":"Limatoukka",
+
+      "description":"Tiny, Slime Maggot, Slime Caterpillar",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_bosses",
+
+      "icon":"icons/Vanilla/Bosses/FullImage/300px-Limatoukka_Circle.png",
+
+      "tooltipImage":"icons/Vanilla/Bosses/FullImage/300px-Limatoukka_Circle.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Limatoukka",
+
+      "x":14888,
+
+      "y": 16500    
+   },
+      {
+      "title":"Altar",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Mountain_Altar_Glow.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Mountain_Altar_Glow.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Mountain_Altar",
+
+      "x":788,
+
+      "y": -1200    
+   }
+   ,
+   {
+      "title":"Greed Curse",
+
+      "description":"",
+
+      "sublayer": "vanilla_structures",
+
+      "layer":"Noita",
+
+      "icon":"icons/Vanilla/Locations/GreedCurse.webp",
+
+      "tooltipImage":"icons/Vanilla/Locations/GreedCurse.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Curse_of_Greed",
+
+      "x":-1375,
+
+      "y": -430    
+   }
+   ,
+   {
+      "title":"Barren Temple",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Mimicium.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Barren.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Sky_Temples#Barren_Temple",
+
+      "x":-5473,
+
+      "y": -5000   
+   }
+   ,
+   {
+      "title":"Henkeva Temple",
+
+      "description":"Spirited temple",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Mimicium.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Spirited_Temple.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Sky_Temples#Henkev%C3%A4_Temple",
+
+      "x":-1800,
+
+      "y": -5000    
+   },
+   {
+      "title":"Ominous Temple",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Mimicium.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Ominous_Temple.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Sky_Temples#Ominous_Temple",
+
+      "x":2777,
+
+      "y": -5000   
+   }
+   ,
+   
+   {
+      "title":"Gourd Cave",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Item_gourd.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Item_gourd.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Refreshing_Gourd",
+
+      "x":-16160,
+
+      "y": -6320    
+   }
+   ,
+   {
+      "title":"Gold Biome",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Gold_Glow.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Gold.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/The_Gold",
+
+      "x":22850,
+
+      "y": -3430    
+   }
+   ,
+   {
+      "title":"Sun/Moon",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Moon_Gloww.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Moon_Gloww.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Moon",
+
+      "x":270,
+
+      "y": -25874    
+   }
+   ,
+   
+   {
+      "title":"Desert skull, Eye",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Skull_Glow.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Skull.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Desert#The_Giant_Skull",
+
+      "x":7425,
+
+      "y": 0    
+   }
+   ,
+   
+   {
+      "title":"Scales",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Scale_Glow.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Scale.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Scales",
+
+      "x":-17660,
+
+      "y": 0    
+   }
+   ,
+   {
+      "title":"Lake Island",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Island_Cutted_Glow.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/IslandStatue_Glow.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Lake#Lake_Island",
+
+      "x":-14070,
+
+      "y": 200    
+   }
+   ,
+   {
+      "title":"Dark cave",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Heart.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Heart.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Dark_Cave",
+
+      "x":-1800,
+
+      "y": 740   
+   }
+   ,
+   {
+      "title":"Race track",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/RaceTrack_Glow.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/RaceTrack.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Racetrack",
+
+      "x":3200,
+
+      "y": 2300    
+   }
+   ,
+   
+   {
+      "title":"Meditation Cube Room",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/MeditationRoom_Glow.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/MeditationRoom_Glow.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Meditation_Chamber",
+
+      "x":-4350,
+
+      "y": 2300    
+   }
+   ,
+   {
+      "title":"Big fungus - Desert Caves",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/BigFungus_Glow.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/BigFungus.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Advanced_Guide:_Sun_Quest#The_Fungal_Altars",
+
+      "x":5900,
+
+      "y": 3300    
+   }
+   ,
+   
+   {
+      "title":"Moon Radar Diamond",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Diamond.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Perk_moon_radar.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Moon_Radar",
+
+      "x":16130,
+
+      "y": 3330    
+   }
+      ,
+      {
+   "title":"Tower Entrance Diamond",
+
+   "description":"",
+
+   "layer":"Noita",
+
+   "sublayer": "vanilla_structures",
+
+   "icon":"icons/Vanilla/Locations/Diamond.png",
+
+   "tooltipImage":"icons/Vanilla/Locations/Diamond.png",
+
+
+   "url":"https://noita.wiki.gg/wiki/The_Tower",
+
+   "x":-4346,
+
+   "y": 10991
+   }
+      ,
+   {
+      "title":"Perk Removal Altar",
+
+      "description":"Nullifying Altar",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Null_Altar_Glow.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Null_Altar.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Nullifying_Altar",
+
+      "x":14080,
+
+      "y": 7600    
+   }
+      ,
+   {
+      "title":"Portal Room",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/RedPortal.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/RedPortal.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Fast_Travel_Room",
+
+      "x":4867,
+
+      "y": 9000    
+   }
+      ,
+   
+   {
+      "title":"Experimental Wand Diamond",
+
+      "description":"???",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Diamond.png",
+
+      "tooltipImage":"icons/Vanilla/Wands/Actual_wand_honest.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Experimental_Wands#Experimental_Wand_(???)",
+
+      "x":16130,
+
+      "y": 10000    
+   }
+      ,
+   
+   {
+      "title":"",
+
+      "description":"Tower Portal Diamond",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Diamond.png",
+
+      "tooltipImage":"icons/Vanilla/Wands/TowerWands.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/The_Tower",
+
+      "x":10000,
+
+      "y": 4350    
+   }
+      ,
+   
+   {
+      "title":"Buried Eye Room",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Eye_Glow.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Eye_Glow.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Buried_Eye",
+
+      "x":3820,
+
+      "y": 4350    
+   }
+      ,
+   {
+      "title":"Hourglass",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Hourglass_Glow.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Hourglass.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/The_Hourglass_Chamber",
+
+      "x":1707,
+
+      "y": 5252    
+   }
+      ,
+   {
+      "title":"Shop/Bathhouse – Hiisi base",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Sauna_Glow.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Sauna_Glow.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Hiisi_Base#Points_of_Interest",
+
+      "x": 1832,
+
+      "y": 5480    
+   }
+         ,
+   {
+      "title":"Eye spell room",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/EyeRoom.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/EyeRoom.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/The_Hourglass_Chamber#Teleportatium",
+
+      "x":-3840,
+
+      "y": 4864    
+   }
+      ,
+   {
+      "title":"The Work",
+
+      "description":"End",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Work.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Work.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/The_Work_(End)",
+
+      "x":6400,
+
+      "y": 15125    
+   },
+   {
+      "title":"The Work",
+
+      "description":"NG+ End ",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Work.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Work.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/The_Work_(End)",
+
+      "x":-3330,
+
+      "y": 15125    
+   },
+   {
+      "title":"The Work",
+
+      "description":"Sky",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/SharedIcons/Secret.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/TheWork_Sky.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/The_Work_(Sky)",
+
+      "x":0,
+
+      "y": -15000    
+   },
+   {
+      "title":"The Work",
+
+      "description":"Hell",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/SharedIcons/Secret.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/TheWork_Hell.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/The_Work_(Hell)",
+
+      "x":0,
+
+      "y": 22000    
+   },
+   {
+      "title":"End of Everything Room",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/MechEgg_Glow.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Spell_all_spells.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/The_End_of_Everything",
+
+      "x":-4860,
+
+      "y": 15120    
+   }
+      ,
+   {
+      "title":"Gold Biome",
+
+      "description":"Under The Lake",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Gold_Glow.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Gold.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/The_Gold",
+
+      "x":-14090,
+
+      "y": 16650    
+   }
+         ,
+   {
+      "title":"Dark Sun/Dark Moon",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Dark_Moon_Glow.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Dark_Moon_Glow.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Dark_Moon",
+
+      "x":250,
+
+      "y": 37800    
+   },
+   {
+      "title":"Achivement Pillars",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Pillars_Full_Glow.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Pillars_Full.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Achievement_Pillars",
+
+      "x":-1550,
+
+      "y": -1484    
+   },
+   {
+      "title":"Cauldrom room",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_structures",
+
+      "icon":"icons/Vanilla/Locations/Cauldron_Glow.png",
+
+      "tooltipImage":"icons/Vanilla/Locations/Cauldron_Glow.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Cauldron_Room",
+
+      "x":3846,
+
+      "y": 5370    
+   },
+   
+   {
+      "title":"Beer",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Materialpotion_beer.webp",
+
+      "tooltipImage":"icons/Vanilla/Items/Materialpotion_beer.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Beer",
+
+      "x":7625,
+
+      "y": -4350    
+   },
+   {
+      "title":"Huilu",
+
+      "description":"Ocarina, Flute",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Huilu_29.webp",
+
+      "tooltipImage":"icons/Vanilla/Items/Huilu_29.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Huilu",
+
+      "x":-9986,
+
+      "y": -6475    
+   },
+   {
+      "title":"Essence of Air",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Special_Perk_essence_air.webp",
+
+      "tooltipImage":"icons/Vanilla/Items/Special_Perk_essence_air.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Essences#Essence_of_Air",
+
+      "x":-13055,
+
+      "y": -5380    
+   },
+  
+   {
+      "title":"Essence Of Fire",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Special_Perk_essence_fire.webp",
+
+      "tooltipImage":"icons/Vanilla/Items/Special_Perk_essence_fire.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Essences#Essence_of_Fire",
+
+      "x": -14063,
+
+      "y": 370    
+   },
+   {
+      "title":"Essence Of Spirits",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Special_Perk_essence_alcohol.webp",
+
+      "tooltipImage":"icons/Vanilla/Items/Special_Perk_essence_alcohol.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Essences#Essence_of_Spirits",
+
+      "x":-14080,
+
+      "y": 13568    
+   },
+   {
+      "title":"Essence Of Water",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Special_Perk_essence_water.webp",
+
+      "tooltipImage":"icons/Vanilla/Items/Special_Perk_essence_water.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Essences#Essence_of_Water",
+
+      "x":-5380,
+
+      "y": 16456    
+   },
+   {
+      "title":"Essence Of Earth",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Special_Perk_essence_earth.webp",
+
+      "tooltipImage":"icons/Vanilla/Items/Special_Perk_essence_earth.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Essences#Essence_of_Water",
+
+      "x":23882,
+
+      "y": -1964    
+   },
+   
+   {
+      "title":"Essence Eater",
+
+      "description":"Snow Wasteland",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Essence_altar.gif",
+
+      "tooltipImage":"icons/Vanilla/Items/Essence_altar.gif",
+
+
+      "url":"https://noita.wiki.gg/wiki/Essence_Eater",
+
+      "x":-9470,
+
+      "y": -144    
+   },
+   {
+      "title":"Music Box",
+
+      "description":"Tree",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Music_Machine_Tree.png",
+
+      "tooltipImage":"icons/Vanilla/Items/Music_Machine_Tree.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Music_Machine",
+
+      "x":-1905,
+
+      "y": -1360    
+   },
+   
+   {
+      "title":"Kuulokivi",
+
+      "description":"Music Stone, Hearing Stone",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/musicstone.webp",
+
+      "tooltipImage":"icons/Vanilla/Items/musicstone.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Kuulokivi",
+
+      "x":-3345,
+
+      "y": 3345   
+   },
+   {
+      "title":"Music Box",
+
+      "description":"Pound",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Music_Machine_Tree.png",
+
+      "tooltipImage":"icons/Vanilla/Items/Music_Machine_Tree.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Music_Machine",
+
+      "x":2800,
+
+      "y": 280    
+   },
+   {
+      "title":"Karl",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Prop_racing_cart_float.gif",
+
+      "tooltipImage":"icons/Vanilla/Items/Prop_racing_cart_float.gif",
+
+
+      "url":"https://noita.wiki.gg/wiki/Racetrack",
+
+      "x":3240,
+
+      "y": 2400    
+   },
+   {
+      "title":"Milk",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Materialpotion_milk.webp",
+
+      "tooltipImage":"icons/Vanilla/Items/Materialpotion_milk.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Milk",
+
+      "x":2438,
+
+      "y": -4490    
+   }
+   ,
+   {
+      "title":"Dark Chest",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Alchemist_Secret_Location.webp",
+
+      "tooltipImage":"icons/Vanilla/Items/Alchemist_Secret_Location.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Crystal_Key#Dark_Chest",
+
+      "x":3838,
+
+      "y": 15612    
+   }
+   ,
+   {
+      "title":"Coral Chest",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Alchemist_Secret_Music_Location.webp",
+
+      "tooltipImage":"icons/Vanilla/Items/Alchemist_Secret_Music_Location.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Crystal_Key#Coral_Chest",
+
+      "x":11005,
+
+      "y": -4868    
+   }
+   ,
+   {
+      "title":"Essence Eater",
+
+      "description":"Desert",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Essence_altar.gif",
+
+      "tooltipImage":"icons/Vanilla/Items/Essence_altar.gif",
+
+
+      "url":"https://noita.wiki.gg/wiki/Essence_Eater",
+
+      "x":-22781,
+
+      "y": 4    
+   }
+   ,
+   {
+      "title":"Music Box",
+
+      "description":"Desert",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Music_Machine_Tree.png",
+
+      "tooltipImage":"icons/Vanilla/Items/Music_Machine_Tree.png",
+
+
+      "url":"https://noita.wiki.gg/wiki/Music_Machine",
+
+      "x":14700,
+
+      "y": -30    
+   },
+   {
+      "title":"Kiuaskivi",
+
+      "description":"Brimstone\n\nSpawn added by \"Apotheosis\" mod",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Item_brimstone.webp",
+
+      "tooltipImage":"icons/Vanilla/Items/Item_brimstone.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Kiuaskivi",
+
+      "x":1720,
+
+      "y": 5518    
+   },
+  
+   {
+      "title":"Kantele",
+
+      "description":"",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_items",
+
+      "icon":"icons/Vanilla/Items/Wand_kantele.webp",
+
+      "tooltipImage":"icons/Vanilla/Items/Wand_kantele.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Kantele",
+
+      "x":-1633,
+
+      "y": -788    
+   },
+   {
+      "title":"Orb of True Knowledge 1",
+
+      "description":"Sea of Lava",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_sea_of_lava.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_sea_of_lava.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+
+      "x":780,
+
+      "y": -1090    
+   }
+   ,
+   {
+      "title":"Orb of True Knowledge 2",
+
+      "description":"Earthquake",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_earthquake.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_earthquake.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+
+      "x":-20734,
+
+      "y": -1260    
+   }
+   ,
+   {
+      "title":"Orb of True Knowledge 4",
+
+      "description":"Nuke",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_nuke.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_nuke.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+
+      "x":15104,
+
+      "y": 1195    
+   }
+   ,
+   {
+      "title":"Orb of True Knowledge 8",
+
+      "description":"Thundercloud",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_thundercloud.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_thundercloud.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+
+      "x":-13568,
+
+      "y": 10546    
+   }
+   ,
+   {
+      "title":"Orb of True Knowledge 5",
+
+      "description":"Necromancy",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_necromancy.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_necromancy.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+
+      "x":-20786,
+
+      "y": 2200   
+   }
+   ,
+   {
+      "title":"Orb of True Knowledge 3",
+
+      "description":"Summon Tentacle",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_summon_tentacle.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_summon_tentacle.webp",
+
+
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+
+      "x":-10486,
+
+      "y": 1671   
+   }
+   ,
+   {
+      "title":"Orb of True Knowledge 6",
+
+      "description":"Holy Bomb",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_holy_bomb.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_holy_bomb.webp",
+
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+
+      "x":-4350,
+
+      "y": 3830    
+   }
+   ,
+   {
+      "title":"Orb of True Knowledge 7",
+
+      "description":"Spiral Shot",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_spiral_shot.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_spiral_shot.webp",
+
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+
+      "x":21308,
+
+      "y": 2672    
+   }
+   ,
+   {
+      "title":"Orb of True Knowledge 10",
+
+      "description":"Summon Deercoy",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_summon_deercoy.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_summon_deercoy.webp",
+
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+
+      "x":19217,
+
+      "y": 14411    
+   }
+   ,
+   {
+      "title":"Orb of True Knowledge 9",
+
+      "description":"Fireworks!",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_fireworks.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_fireworks.webp",
+
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+
+      "x":1278,
+
+      "y": 15319    
+   }
+   ,
+   {
+      "title":"Orb of True Knowledge 11",
+
+      "description":"Cement",
+
+      "layer":"Noita",
+
+      "sublayer": "vanilla_orbs",
+
+      "icon":"icons/Vanilla/Orbs/orb_cement.webp",
+
+      "tooltipImage":"icons/Vanilla/Orbs/orb_cement.webp",
+
+      "url":"https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+
+      "x":11511,
+
+      "y": 12244    
+   },
+  {
+    
+    "title": "Angler Skill",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/AnglersSkill.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/AnglersSkill.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Red_Fish",
+    
+    "x": 9470,
+    
+    "y": 2368
+  },
+  {
+    
+    "title": "Hylätty Orkesteri",
+    
+    "description": "Abandoned Orchestra",
+    
+    "sublayer": "apotheosis_bosses",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Bosses/NoteBoss_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Bosses/NoteBoss.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Abandoned_Orchestra",
+    
+    "x": 11971,
+    
+    "y": 6866
+  },
+  
+ {
+    
+    "title": "Jättimyrkyllinenmato",
+    
+    "description": "Giant Toxic Worm",
+    
+    "sublayer": "apotheosis_bosses",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Bosses/ToxicWorm_Glow_2.png",
+    
+    "tooltipImage":"icons/Apotheosis/Bosses/ToxicWorm_2.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Giant_Toxic_Worm",
+    
+    "x": 2258,
+    
+    "y": 2232
+  },
+  
+  {
+    
+    "title": "Suur-Helvetinmato",
+    
+    "description": "Greater Hell Worm",
+    
+    "sublayer": "apotheosis_bosses",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Bosses/HellWorm_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Bosses/HellWorm.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Greater_Hell_Worm",
+    
+    "x": 331,
+    
+    "y": 40727
+  },
+
+  {
+    
+    "title": "Monoliitti",
+    
+    "description": "Monolith",
+    
+    "sublayer": "apotheosis_bosses",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Bosses/MonolithBoss_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Bosses/MonolithBoss.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Monolith",
+    
+    "x": -19102,
+    
+    "y": -22
+  }
+  ,
+
+  {
+    
+    "title": "Orb of True Knowledge 12",
+    
+    "description": "Redirect",
+    
+    "sublayer": "apotheosis_orbs",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Orbs/orb_redirect.gif",
+    
+    "tooltipImage":"icons/Apotheosis/Orbs/orb_redirect.gif",
+    
+    "url": "https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+    
+    "x": 21295,
+    
+    "y": 9739
+  }
+  ,
+  {
+    
+    "title": "Orb of True Knowledge 13",
+    
+    "description": "Hex",
+    
+    "sublayer": "apotheosis_orbs",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Orbs/orb_hex.gif",
+    
+    "tooltipImage":"icons/Apotheosis/Orbs/orb_hex.gif",
+    
+    "url": "https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+    
+    "x": -21250,
+    
+    "y": 9440
+  }
+  ,
+
+  {
+    
+    "title": "Orb of True Knowledge 14",
+    
+    "description": "Transmute Into Mutamies On Slimy Enemies",
+    
+    "sublayer": "apotheosis_orbs",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Orbs/orb_mutamies.gif",
+    
+    "tooltipImage":"icons/Apotheosis/Orbs/orb_mutamies.gif",
+    
+    "url": "https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+    
+    "x": -8963,
+    
+    "y": 14575
+  }
+  ,
+
+  {
+    
+    "title": "Orb of True Knowledge 15",
+    
+    "description": "Inebriation",
+    
+    "sublayer": "apotheosis_orbs",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Orbs/orb_inebriation.gif",
+    
+    "tooltipImage":"icons/Apotheosis/Orbs/orb_inebriation.gif",
+    
+    "url": "https://noita.wiki.gg/wiki/Orb_of_True_Knowledge",
+    
+    "x": 9474,
+    
+    "y": 1260
+  }
+  ,
+  {
+    
+    "title": "Volcanic Chest",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/VolcanicChest_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/VolcanicChest.png",
+    
+    "url": "",
+    
+    "x": -8501,
+    
+    "y": 16761
+  },
+  {
+    
+    "title": "Orb of Divine Knowledge",
+    
+    "description": "Knowledge of Kings",
+    
+    "sublayer": "apotheosis_orbs",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Orbs/orb_divine.gif",
+    
+    "tooltipImage":"icons/Apotheosis/Orbs/orb_divine.gif",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Ascension",
+    
+    "x": -8484,
+    
+    "y": 16898
+  },
+   {
+    
+    "title": "Book",
+    
+    "description": "Death quest hint",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/SharedIcons/Secret.png",
+    
+    "tooltipImage":"icons/SharedIcons/Secret.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Achievement_Pillars#Pillar_of_Secrets",
+    
+    "x": -16974,
+    
+    "y": 5080
+  },
+
+  {
+    
+    "title": "Volcanic Nest",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/VolcanicEggSpot_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/VolcanicEggSpot_Glow.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Core_Mines",
+    
+    "x": 67,
+    
+    "y": 3242
+  },
+
+  {
+    
+    "title": "Wand Tinkering Crystal",
+    
+    "description": "Guaranteed spawn",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Wandedit_crystal_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Wandedit_crystal.webp",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Wand_Tinkering_Crystal",
+    
+    "x": 11038,
+    
+    "y": -44
+  },
+
+  {
+    
+    "title": "Abandoned Trophy Room",
+    
+    "description": "Abandoned by default\n\nRename \"statue_room_populator_backup.lua\" file to \"statue_room_populator.lua\" if you wish to enable it",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Statue_room_glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/statue_master_of_trolling.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Mo_Creeps/Trophy_Room",
+    
+    "x": 4262,
+    
+    "y": 2187
+  },
+
+  {
+    
+    "title": "Pouch Cave",
+    
+    "description": "Contains pouch, wand and Runestone of alchemy",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Item_material_pouch_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Item_material_pouch.webp",
+    
+    "url": "",
+    
+    "x": 20433,
+    
+    "y": -4260
+  },
+
+  {
+    
+    "title": "Abandoned Alchemy Outpost",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Green_Potion_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Green_Potion.webp",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Ant_Nest#Puzzles",
+    
+    "x": -17070,
+    
+    "y": 4036
+  },
+
+  {
+    
+    "title": "Perk Altar",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Anvil_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Apotheosis_New_Perk_Altar.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Temple_of_Sacrilegious_Remains#Structures",
+    
+    "x": 21296,
+    
+    "y": 11197
+  },
+
+  
+  {
+    
+    "title": "Death quest room",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/DeathChest_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/DeathChest.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Achievement_Pillars#Pillar_of_Secrets",
+    
+    "x": -11953,
+    
+    "y": 14638
+  },
+
+
+
+  {
+    
+    "title": "Achivement Pillars",
+    
+    "description": "Apotheosis",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/AchivementPillars_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/AchivementPillars.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Achievement_Pillars",
+    
+    "x": -17947,
+    
+    "y": -30
+  },
+
+  {
+    
+    "title": "Music Altar",
+    
+    "description": "Core cave\n\nPlay some music or bring Kuulokivi",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/MusicHint_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/MusicHint.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Musical_Curiosities",
+    
+    "x": -19130,
+    
+    "y": 3422
+  },
+
+  {
+    
+    "title": "Music Altar",
+    
+    "description": "Tree\n\nPlay some music or bring Kuulokivi",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/MusicHint_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/MusicHint.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Musical_Curiosities",
+    
+    "x": -1500,
+    
+    "y": -2062
+  },
+
+  {
+    
+    "title": "Music Altar",
+    
+    "description": "Sunken cavern\n\nPlay some music or bring Kuulokivi",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/MusicHint_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/MusicHint.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Musical_Curiosities",
+    
+    "x": -20855,
+    
+    "y": 7826
+  },
+
+  {
+    
+    "title": "Music Altar",
+    
+    "description": "Sinkhole\n\nPlay some music or bring Kuulokivi",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/MusicHint_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/MusicHint.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Musical_Curiosities",
+    
+    "x": 18421,
+    
+    "y": 2596
+  },
+
+  {
+    
+    "title": "Music Altar",
+    
+    "description": "Antnest\n\nPlay some music or bring Kuulokivi",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/MusicHint_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/MusicHint.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Musical_Curiosities",
+    
+    "x": -3236,
+    
+    "y": 5849
+  },
+
+ 
+
+  {
+    
+    "title": "Alchemy hideout",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Green_Potion_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Green_Potion.webp",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Ant_Nest#Puzzles",
+    
+    "x": -17140,
+    
+    "y": 4849
+  }, 
+  {
+    
+    "title": "Alchemy hideout",
+    
+    "description": "NG+",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Green_Potion_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Green_Potion.webp",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Ant_Nest#Puzzles",
+    
+    "x": -3830,
+    
+    "y": 9978
+  },
+
+ 
+
+  {
+    
+    "title": "Essence of Fungus",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/EssenceOfFungi.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/EssenceOfFungi.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Achievement_Pillars#Pillar_of_Creation",
+    
+    "x": 12055,
+    
+    "y": 3650
+  },
+
+ 
+
+  {
+    
+    "title": "Fisherman's Grave",
+    
+    "description": "West forest",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Fish_red_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Fish_red.webp",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Red_Fish",
+    
+    "x": -17652,
+    
+    "y": 175
+  },
+  {
+    
+    "title": "Fisherman's Grave",
+    
+    "description": "Forest",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/Fish_red_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/Fish_red.webp",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Red_Fish",
+    
+    "x": 4866,
+    
+    "y": 171
+  },
+  {
+    
+    "title": "Fishing Rod",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/FishingRod_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/FishingRod.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:Apotheosis/Red_Fish",
+    
+    "x": -12476,
+    
+    "y": 186
+  },
+
+  {
+    
+    "title": "Sleep Altar",
+    
+    "description": "",
+    
+    "sublayer": "apotheosis_secrets",
+    
+    "layer":"Apotheosis",
+    
+    "icon": "icons/Apotheosis/Locations/SleepAltar_Glow.png",
+    
+    "tooltipImage":"icons/Apotheosis/Locations/SleepAltar.png",
+    
+    "url": "",
+    
+    "x": -23803,
+    
+    "y": 33
+  },
+
+  {
+    
+    "title": "Alchemist's House",
+    
+    "description": "",
+    
+    "sublayer": "",
+    
+    "layer":"Chemical curiosities",
+    
+    "icon": "icons/CC/AlchemistHome_Glow.png",
+    
+    "tooltipImage":"icons/CC/AlchemistHome.png",
+    
+    "url": "",
+    
+    "x": 1288,
+    
+    "y": -545
+  },
+  {
+    
+    "title": "Sky Monster",
+    
+    "description": "Essence of Air",
+    
+    "sublayer": "NE_Elemental",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Elemental/skymonster_glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Elemental/skymonster.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Sky_Monster_Boss",
+    
+    "x":-13050,
+    
+    "y": -5637
+  },
+  {
+    
+    "title": "Fungal Colossus",
+    
+    "description": "Essence of Fungus",
+    
+    "sublayer": "NE_Elemental",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Elemental/boss_fungus_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Elemental/boss_fungus.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Fungal_Colossus",
+    
+    "x":12057,
+    
+    "y": 3899
+  },
+  {
+    
+    "title": "Sea Monster",
+    
+    "description": "Essence of Spirits",
+    
+    "sublayer": "NE_Elemental",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Elemental/seamonster_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Elemental/seamonster.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Sea_Monster_Boss",
+    
+    "x":-14090,
+    
+    "y": 13221
+  },
+  {
+    
+    "title": "Wraith Boss",
+    
+    "description": "Essence of Water",
+    
+    "sublayer": "NE_Elemental",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Elemental/boss_wraith_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Elemental/boss_wraith.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Wraith_Boss",
+    
+    "x":-5380,
+    
+    "y": 16811
+  },
+  {
+    
+    "title": "Golem",
+    
+    "description": "Essence of Earth",
+    
+    "sublayer": "NE_Elemental",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Elemental/golem_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Elemental/golem.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Golem_Boss",
+    
+    "x":23888,
+    
+    "y": -1676
+  },
+  {
+    
+    "title": "Lake Statue",
+    
+    "description": "Essence of Fire\n\nProb removed from the game?",
+    
+    "sublayer": "NE_Elemental",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Elemental/IslandStatue_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Elemental/IslandStatue_Glow.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Lake_Statue_Boss",
+    
+    "x":-14051,
+    
+    "y": -84
+  },
+  {
+    
+    "title": "Desert Skull Boss",
+    
+    "description": "",
+    
+    "sublayer": "NE_Special",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Special/Skull_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Special/Skull.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Desert_Skull_Boss",
+    
+    "x":7450,
+    
+    "y": -320
+  },
+  {
+    
+    "title": "Desolate Core",
+    
+    "description": "",
+    
+    "sublayer": "NE_Special",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Special/EndlessMachine_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Special/EndlessMachine.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Desolate_Core",
+    
+    "x":-16649,
+    
+    "y": 21540
+  },
+  {
+    
+    "title": "Hiisi Excavator Drill",
+    
+    "description": "Spawns randomly at Desert Chasm\n\nSpawns only once per game",
+    
+    "sublayer": "NE_Special",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Special/Drill_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Special/Drill.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Hiisi_Excavator_Drill",
+    
+    "x":5252,
+    
+    "y": 1487
+  },
+  {
+    
+    "title": "Hiisi Airship",
+    
+    "description": "Dreadnought",
+    
+    "sublayer": "NE_Special",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Special/Helicopter_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Special/Helicopter.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Dreadnought",
+    
+    "x":-9540,
+    
+    "y": -6400
+  },
+  {
+    
+    "title": "Perkele",
+    
+    "description": "God warrior",
+    
+    "sublayer": "NE_Special",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Special/god_warrior_faded_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Special/god_warrior_faded.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/God_warrior",
+    
+    "x":675,
+    
+    "y": -25850
+  },
+  {
+    
+    "title": "Abyssum",
+    
+    "description": "Cthulhu",
+    
+    "sublayer": "NE_Special",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Special/cthulhu_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Special/cthulhu_Glow.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Cthulhu",
+    
+    "x":890,
+    
+    "y": 37777
+  },
+  {
+    
+    "title": "Ritualists",
+    
+    "description": "",
+    
+    "sublayer": "NE_Special",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Special/altar_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Special/altar.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Ritualists",
+    
+    "x":400,
+    
+    "y": -118
+  },
+  {
+    
+    "title": "Feeniks",
+    
+    "description": "Phoenix, Bird",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/bird_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/bird.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Bird",
+    
+    "x":-13567,
+    
+    "y": 10617
+  },
+  {
+    
+    "title": "Yikka",
+    
+    "description": "Yikka ghost",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/yikka_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/yikka.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Yikka_ghost",
+    
+    "x":-4353,
+    
+    "y": 3926
+  },
+  {
+    
+    "title": "Eldirood",
+    
+    "description": "Desert Sand Mage",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/desert_mage_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/desert_mage.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Desert_mage",
+    
+    "x":-20738,
+    
+    "y": -1180
+  },
+  {
+    
+    "title": "I160",
+    
+    "description": "Camel robot",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/camel_robot_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/camel_robot.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Camel_robot",
+    
+    "x":-10493,
+    
+    "y": 1880
+  },
+  {
+    
+    "title": "Hönkäle",
+    
+    "description": "Vulcan, Elephant",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/elephant_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/elephant.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Elephant",
+    
+    "x":14109,
+    
+    "y": 1387
+  },
+  {
+    
+    "title": "Pyhäkkö",
+    
+    "description": "The Sanctuary, Magiconstruct",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/magiconstruct_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/magiconstruct.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Magiconstruct",
+    
+    "x":11510,
+    
+    "y": 12085
+  },
+  {
+    
+    "title": "Hirmukita",
+    
+    "description": "Soriacc, Lukki dark huge",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/Lukki_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/Lukki.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Lukki_dark_huge",
+    
+    "x":21308,
+    
+    "y": 2937
+  },
+  {
+    
+    "title": "Järkäle",
+    
+    "description": "Rock Spirit Colossus, Giant",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/Giant_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/Giant_Full.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Giant_boss",
+    
+    "x":19214,
+    
+    "y": 14224
+  },
+  {
+    
+    "title": "Monipäinen Käärme",
+    
+    "description": "Hydra",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/Gidra_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/Gidra.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Hydra_Boss",
+    
+    "x":-20758,
+    
+    "y": 2360
+  },
+  {
+    
+    "title": "Läpivalaistu",
+    
+    "description": "Mwyah",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/Mwyah_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/Mwyah.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Mwyah",
+    
+    "x":1281,
+    
+    "y": 15086
+  },
+  {
+    
+    "title": "Aberrant Child",
+    
+    "description": "Cyclops Slime",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/cyclops_slime_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/cyclops_slime.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Aberrant_Child",
+    
+    "x":-8964,
+    
+    "y": 14724
+  },
+  {
+    
+    "title": "Enchanted Corridor",
+    
+    "description": "",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/monument_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/Monument.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Enchanted_Corridor",
+    
+    "x":9471,
+    
+    "y": 1372
+  },
+  {
+    
+    "title": "Basilisk Eel",
+    
+    "description": "",
+    
+    "sublayer": "NE_Orb",
+    
+    "layer":"New enemies",
+    
+    "icon": "icons/NewEnemies/Orb/boss_eel_ship_Glow.png",
+    
+    "tooltipImage":"icons/NewEnemies/Orb/boss_eel_ship.png",
+    
+    "url": "https://noita.wiki.gg/wiki/Mod:New_Enemies_And_Bosses/Basilisk_Eel",
+    
+    "x":-21250,
+    
+    "y": 9570
+  },
+ 
+  {
+    
+    "title": "Golden Shovel",
+    
+    "description": "Varia Addons\n\nThe golden shovel can dig through anything that isn’t cursed rock, at a faster pace than the base shovel.",
+    
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/shovel_golden.png",
+    
+    "tooltipImage":"icons/Other/Varia/shovel_golden.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0#heading=h.ybilbu27vmmk",
+    
+    "x":3860,
+    
+    "y":13086
+  },
+  {
+    
+    "title": "Void Shovel",
+    
+    "description": "Varia Addons\n\nThe void shovel can dig through anything, and sports both the fastest speed, and biggest radius of effect of all the shovels.\n\n Should spawn in the Gold Biome, but Apotheosis moves it further right",
+    
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/shovel_void.png",
+    
+    "tooltipImage":"icons/Other/Varia/shovel_void.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0#heading=h.3eorgxyac9lh",
+    
+    "x":15070,
+    
+    "y": -3080
+  },
+  {
+    
+    "title": "Nuclear Shovel",
+    
+    "description": "Varia Addons\n\nThis will instantly kill you if you don’t have fire immunity and explosion immunity. On a lighter note, have fun!",
+    
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/shovel_nuclear.png",
+    
+    "tooltipImage":"icons/Other/Varia/shovel_nuclear.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0#heading=h.2pkbcvvazpm",
+    
+    "x":-14060,
+    
+    "y":16800
+  },
+  {
+    
+    "title": "Draco Ferrio",
+    
+    "description": "Varia Addons\n\nThis legendary sword caries a rapid slash combo, with a powerful finisher, and easily sports enough DPS for NG+",
+    
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/draco_ferrio.png",
+    
+    "tooltipImage":"icons/Other/Varia/draco_ferrio.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0#heading=h.d8jbuk5uhw5g",
+    
+    "x":265,
+    
+    "y":-26120
+  },
+  {
+    
+    "title": "Subjugation Rifle",
+    
+    "description": "Varia Addons\n\nWith crits that go up to 30k, this rifle can one-shot almost anything. It’s painful reload time and recoil makes it very tough to use however.",
+    
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/subjugation_rifle_Glow.png",
+    
+    "tooltipImage":"icons/Other/Varia/subjugation_rifle.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0#heading=h.sp6u47ya5o23",
+    
+    "x":9985,
+    
+    "y":4195
+  },
+  {
+    
+    "title": "Aavikon Lohikäärme",
+    
+    "description": "Varia Addons\n\nIt’s dual shields and big bullets make this a powerful weapon for both defense and offense. SpazProject’s personal weapon.",
+      
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/Aavikon.png",
+    
+    "tooltipImage":"icons/Other/Varia/Aavikon.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0#heading=h.53zbd3hzkjvn",
+    
+    "x":2330,
+    
+    "y":7440
+  },
+  {
+    
+    "title": "Polar Star",
+    
+    "description": "Varia Addons\n\nA solid early game weapon if you have nothing better. The polar star is ready to help you forge your own story in the caves.",
+    
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/polar_star.png",
+    
+    "tooltipImage":"icons/Other/Varia/polar_star.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0#heading=h.kojps159uusb",
+    
+    "x":2368,
+    
+    "y":830
+  },
+  {
+    
+    "title": "Completionist’s Codex",
+    
+    "description": "Varia Addons\n\nFor the absolute completionist. Dev Spells are the glue that hold special weapons together, and this codex has all of them for free use.",
+    
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/completionists_codex.png",
+    
+    "tooltipImage":"icons/Other/Varia/completionists_codex.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0#heading=h.y0ln48fi30wi",
+    
+    "x":-17630,
+    
+    "y":220
+  },
+  {
+    
+    "title": "Bre-si’s Trident",
+    
+    "description": "Varia Addons\n\nThis trident packs incredible damage underwater, and will easily take you into NG+ and beyond. Just take care not to drown yourself while using it.",
+    
+    "sublayer": "Varia",
+    
+    "layer":"Other",
+    
+    "icon": "icons/Other/Varia/bresi_trident.png",
+    
+    "tooltipImage":"icons/Other/Varia/bresi_trident.png",
+    
+    "url": "https://docs.google.com/document/d/1WM7DE8aJ1MWkdw5lsvSDIJO8tT5hWCXVhjBAO0CdHHw/edit?tab=t.0#heading=h.f8uw3utz4p7n",
+    
+    "x":-14080,
+    
+    "y":13530
+  }
+]

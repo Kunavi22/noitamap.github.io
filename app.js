@@ -17,24 +17,288 @@ const viewer = OpenSeadragon({
  
 const markersOpacity = 1;
 
-const sublayerStates = {};
+const layerDefinitions = [
+    {
+        id: "Noita",
+        icon: "icons/noitaLogo.png",
+        sublayers: [
+            { id: "vanilla_bosses", label: "Bosses", icon: "icons/boss.webp", defaultOn: true },
+            { id: "vanilla_structures", label: "Structures", icon: "icons/Star.png", defaultOn: false },
+            { id: "vanilla_items", label: "Items", icon: "icons/Vanilla/Items/Item_evil_eye.webp", defaultOn: false },
+            { id: "vanilla_orbs", label: "Orbs", icon: "icons/Vanilla/Orbs/orb_empty.gif", defaultOn: true }
+        ],
+        defaultOn: false
+    },
+    {
+        id: "Apotheosis",
+        icon: "icons/Apotheosis.png",
+        sublayers: [
+            { id: "apotheosis_bosses", label: "Bosses", icon: "icons/boss.webp", defaultOn: true },
+            { id: "apotheosis_orbs", label: "Orbs", icon: "icons/Vanilla/Orbs/orb_empty.gif", defaultOn: true },
+            { id: "apotheosis_secrets", label: "Points of interest", icon: "icons/SharedIcons/Secret.png", defaultOn: true }
+        ],
+        defaultOn: false
+    },
+    {
+        id: "Graham's things",
+        icon: "icons/Graham.png",
+        sublayers: [
+            { id: "graham_secrets", label: "Points of interest", icon: "icons/SharedIcons/Secret.png", defaultOn: true },
+            { id: "graham_items", label: "Wands", icon: "icons/GrahamThings/Mod_GT-Experimentalwand.png", defaultOn: true },
+            { id: "graham_techchest", label: "Tech chests", icon: "icons/GrahamThings/Mod_GT-Techchest.webp", defaultOn: true }
+        ],
+        defaultOn: false
+    },
+    {
+        id: "New enemies",
+        icon: "icons/NewEnemies2.png",
+        sublayers: [
+            { id: "NE_Elemental", label: "Essence Bosses", icon: "icons/Vanilla/Items/Special_Perk_essence_water.webp", defaultOn: true },
+            { id: "NE_Special", label: "Special Bosses", icon: "icons/Star.png", defaultOn: true },
+            { id: "NE_Orb", label: "Orb Bosses", icon: "icons/Vanilla/Orbs/orb_empty.gif", defaultOn: true }
+        ],
+        defaultOn: false
+    },
+    {
+        id: "Chemical curiosities",
+        icon: "icons/ChemicalCuriosities.png",
+        sublayers: [],
+        defaultOn: false
+    },
+    {
+        id: "Other",
+        icon: "icons/Other.png",
+        sublayers: [
+            { id: "Varia", label: "Varia Addons", icon: "icons/Other/Varia/shovel_golden.png", defaultOn: true },
+            { id: "SmallMods", label: "Small Mods", icon: "icons/Star.png", defaultOn: true }
+        ],
+        defaultOn: false
+    }
+];
+
+const mapDefinitions = [
+    {
+        id: "regular",
+        label: "Regular",
+        markersFile: "data/markers.json",
+        layers: layerDefinitions,
+        tiles: [
+            { tileSource: "maps/regular-main-branch-middle-2025-01-25-786433191.dzi", x: 0.9859 },
+            { tileSource: "maps/regular-main-branch-left-2025-01-25-786433191.dzi", x: 0 },
+            { tileSource: "maps/regular-main-branch-right-2025-01-25-786433191.dzi", x: 1.9718, y: -0.0125 }
+        ]
+    },
+    {
+        id: "newgame",
+        label: "New Game+",
+        markersFile: "data/newgame-markers.json",
+        layers: [
+            {
+                id: "Noita",
+                icon: "icons/noitaLogo.png",
+                sublayers: [
+                    { id: "vanilla_bosses", label: "Bosses", icon: "icons/boss.webp", defaultOn: true },
+                    { id: "vanilla_structures", label: "Structures", icon: "icons/Star.png", defaultOn: false },
+                    { id: "vanilla_items", label: "Items", icon: "icons/Vanilla/Items/Item_evil_eye.webp", defaultOn: false },
+                    { id: "vanilla_orbs", label: "Orbs", icon: "icons/Vanilla/Orbs/orb_empty.gif", defaultOn: true }
+                ],
+                defaultOn: false
+            },
+            {
+                id: "Apotheosis",
+                icon: "icons/Apotheosis.png",
+                sublayers: [
+                    { id: "apotheosis_bosses", label: "Bosses", icon: "icons/boss.webp", defaultOn: true },
+                    { id: "apotheosis_orbs", label: "Orbs", icon: "icons/Vanilla/Orbs/orb_empty.gif", defaultOn: true },
+                    { id: "apotheosis_secrets", label: "Points of interest", icon: "icons/SharedIcons/Secret.png", defaultOn: true }
+                ],
+                defaultOn: false
+            },
+            {
+                id: "Graham's things\n\n(Does not spawns in NG+)",
+                icon: "icons/Graham.png",
+                sublayers: [
+                ],
+                defaultOn: false
+            },
+            {
+                id: "New enemies",
+                icon: "icons/NewEnemies2.png",
+                sublayers: [
+                    { id: "NE_Elemental", label: "Essence Bosses", icon: "icons/Vanilla/Items/Special_Perk_essence_water.webp", defaultOn: true },
+                    { id: "NE_Special", label: "Special Bosses", icon: "icons/Star.png", defaultOn: true },
+                    { id: "NE_Orb", label: "Orb Bosses", icon: "icons/Vanilla/Orbs/orb_empty.gif", defaultOn: true }
+                ],
+                defaultOn: false
+            },
+            {
+                id: "Chemical curiosities",
+                icon: "icons/ChemicalCuriosities.png",
+                sublayers: [],
+                defaultOn: false
+            },
+            {
+                id: "Other",
+                icon: "icons/Other.png",
+                sublayers: [
+                    { id: "Varia", label: "Varia Addons", icon: "icons/Other/Varia/shovel_golden.png", defaultOn: true }
+                ],
+                defaultOn: false
+            }
+        ],
+        tiles: [
+            { tileSource: "maps/NewGame/newgame-main-branch-middle-2025-01-25-786433191.dzi", x: 0.9859 },
+            { tileSource: "maps/NewGame/newgame-main-branch-left-2025-01-25-786433191.dzi", x: 0 },
+            { tileSource: "maps/NewGame/newgame-main-branch-right-2025-01-25-786433191.dzi", x: 1.9718, y: -0.0125 }
+        ]
+    },
+    { id: "Yggdrasil", label: "Plane of Yggdrasil", markersFile: null, layers: [], disabled: true },
+    { id: "Soul", label: "Plane of Soul", markersFile: null, layers: [], disabled: true },
+    { id: "Experimentation", label: "Plane of Experimentation", markersFile: null, layers: [], disabled: true },
+    { id: "Empyrean", label: "Empyrean", markersFile: null, layers: [], disabled: true }
+];
 
 let tooltipMode = "marker"; 
 // "marker" | "label"
 
 const markerObjects = [];
 
-const checkedMarkers = new Set();
-
-const layerStates = {};
+const mapStates = {};
+let checkedMarkers = new Set();
+let layerStates = {};
+let sublayerStates = {};
+let currentMapId = "regular";
 
 let markerTooltipTimer;
 
-loadMap();
+function ensureMapState(mapId)
+{
+    if (!mapStates[mapId])
+    {
+        mapStates[mapId] = {
+            layerStates: {},
+            sublayerStates: {},
+            checkedMarkers: new Set()
+        };
+    }
 
+    return mapStates[mapId];
+}
+
+function getLayerDefinitions(mapId = currentMapId)
+{
+    const map = mapDefinitions.find(entry => entry.id === mapId) ?? mapDefinitions[0];
+    return map.layers && map.layers.length > 0 ? map.layers : layerDefinitions;
+}
+
+function applyMapState(mapId)
+{
+    const state = ensureMapState(mapId);
+    currentMapId = mapId;
+    layerStates = state.layerStates;
+    sublayerStates = state.sublayerStates;
+    checkedMarkers = state.checkedMarkers;
+
+    const layers = getLayerDefinitions(mapId);
+
+    layers.forEach(layer => {
+        if (!(layer.id in layerStates))
+            layerStates[layer.id] = layer.defaultOn ?? true;
+
+        layer.sublayers.forEach(sublayer => {
+            if (!(sublayer.id in sublayerStates))
+                sublayerStates[sublayer.id] = sublayer.defaultOn ?? true;
+        });
+    });
+
+    return state;
+}
+
+function createMapSelector()
+{
+    const container = document.createElement("div");
+    container.id = "mapSelectorContainer";
+
+    const select = document.createElement("select");
+    select.id = "mapSelector";
+    select.title = "Switch map";
+
+    mapDefinitions.forEach(map => {
+        const option = document.createElement("option");
+        option.value = map.id;
+        option.textContent = map.label;
+        option.disabled = Boolean(map.disabled);
+        if (map.id === currentMapId)
+            option.selected = true;
+        select.appendChild(option);
+    });
+
+    select.addEventListener("change", () => {
+        const selectedMap = select.value;
+        if (selectedMap && selectedMap !== currentMapId)
+            switchMap(selectedMap);
+    });
+
+    container.appendChild(select);
+    document.body.appendChild(container);
+}
+
+function refreshCheckedMarkerVisuals()
+{
+    markerObjects.forEach(marker => {
+        marker.element.classList.toggle("checked", checkedMarkers.has(marker.id));
+    });
+}
+
+async function switchMap(mapId)
+{
+    if (!mapDefinitions.some(map => map.id === mapId))
+        return;
+
+    const targetMap = mapDefinitions.find(map => map.id === mapId);
+    if (targetMap?.disabled)
+        return;
+
+    applyMapState(mapId);
+    createLayerButtons();
+    const selector = document.getElementById("mapSelector");
+    if (selector)
+        selector.value = mapId;
+
+    loadMap(mapId);
+    await loadMarkers(mapId);
+    syncLayerButtonState();
+    refreshCheckedMarkerVisuals();
+    saveState();
+}
+
+function getInitialMapId()
+{
+    const saved = localStorage.getItem('noitaMapState');
+    if (!saved)
+        return currentMapId;
+
+    try {
+        const state = JSON.parse(saved);
+        if (state.currentMapId && mapDefinitions.some(map => map.id === state.currentMapId))
+            return state.currentMapId;
+    } catch (e) {
+        console.error('Failed to read saved map selection:', e);
+    }
+
+    return currentMapId;
+}
+
+const initialMapId = getInitialMapId();
+currentMapId = initialMapId;
+createMapSelector();
+applyMapState(currentMapId);
 createLayerButtons();
-loadMarkers();
+loadMap(currentMapId);
+loadMarkers(currentMapId).then(() => loadState());
 loadTutorialPannel();
+
+
 
 function addMap(tile)
 {
@@ -160,106 +424,21 @@ function createLayerButtons()
             "layerBar"
         );
 
-        
+    root.innerHTML = "";
 
-   const layers =
-[
-{
-    id:"Noita",
-
-    icon:"icons/noitaLogo.png",
-
-    sublayers:
-    [
-        { id: "vanilla_bosses", label: "Bosses" , icon:"icons/boss.webp", defaultOn: true},
-        { id: "vanilla_structures", label: "Structures" , icon:"icons/Star.png", defaultOn: false},
-        { id: "vanilla_items", label: "Items", icon:"icons/Vanilla/Items/Item_evil_eye.webp" , defaultOn: false},
-        { id: "vanilla_orbs", label: "Orbs", icon:"icons/Vanilla/Orbs/orb_empty.gif" , defaultOn: true}
-    ],
-
-    defaultOn: false
-},
-
-{
-    id:"Apotheosis",
-
-    icon:"icons/Apotheosis.png",
-
-    sublayers:
-    [
-         { id: "apotheosis_bosses", label: "Bosses" , icon:"icons/boss.webp", defaultOn: true},
-         { id: "apotheosis_orbs", label: "Orbs", icon:"icons/Vanilla/Orbs/orb_empty.gif" , defaultOn: true},
-         { id: "apotheosis_secrets", label: "Points of interest", icon:"icons/SharedIcons/Secret.png" , defaultOn: true}
-    ],
-
-    defaultOn: false
-},
-{
-    id:"Graham's things",
-
-    icon:"icons/Graham.png",
-
-    sublayers:
-    [
-        { id: "graham_secrets", label: "Points of interest", icon:"icons/SharedIcons/Secret.png" , defaultOn: true},
-        { id: "graham_items", label: "Wands", icon:"icons/GrahamThings/Mod_GT-Experimentalwand.png" , defaultOn: true},
-        { id: "graham_techchest", label: "Tech chests", icon:"icons/GrahamThings/Mod_GT-Techchest.webp" , defaultOn: true} 
-    ],
-
-    defaultOn: false
-},
-
-{
-    id:"New enemies",
-
-    icon:"icons/NewEnemies2.png",
-
-    sublayers:
-    [
-        { id: "NE_Elemental", label: "Essence Bosses", icon:"icons/Vanilla/Items/Special_Perk_essence_water.webp" , defaultOn: true},
-        { id: "NE_Special", label: "Special Bosses", icon:"icons/Star.png" , defaultOn: true},
-        { id: "NE_Orb", label: "Orb Bosses", icon:"icons/Vanilla/Orbs/orb_empty.gif" , defaultOn: true} 
-    ],
-
-    defaultOn: false
-},
-{
-    id:"Chemical curiosities",
-
-    icon:"icons/ChemicalCuriosities.png",
-
-    sublayers:
-    [
-         
-    ],
-
-    defaultOn: false
-},
-
-{
-    id:"Other",
-
-    icon:"icons/Other.png",
-
-    sublayers:
-    [
-        { id: "Varia", label: "Varia Addons", icon:"icons/Other/Varia/shovel_golden.png" , defaultOn: true},
-        { id: "SmallMods", label: "Small Mods", icon:"icons/Star.png" , defaultOn: true}
-    ],
-
-    defaultOn: false
-}
-];
+    const layers = getLayerDefinitions(currentMapId);
 
     layers.forEach(
         layer =>
         {
-
             layer.sublayers.forEach(sublayer =>
             {
-                // keep sublayers enabled by default for now
-                sublayerStates[sublayer.id] = sublayer.defaultOn ?? true;
+                if (!(sublayer.id in sublayerStates))
+                    sublayerStates[sublayer.id] = sublayer.defaultOn ?? true;
             });
+
+            if (!(layer.id in layerStates))
+                layerStates[layer.id] = layer.defaultOn ?? true;
 
             const img =
                 document.createElement(
@@ -272,9 +451,7 @@ function createLayerButtons()
 
             img.dataset.layer = layer.id;
 
-            // use layer.defaultOn when provided, otherwise default to true
-            const defaultOn = layer.defaultOn ?? true;
-            layerStates[layer.id] = defaultOn;
+            const defaultOn = layerStates[layer.id];
 
             if (defaultOn)
                 img.classList.add("active");
@@ -349,45 +526,50 @@ function createLayerButtons()
         });
 }
 
-function loadMap()
+function syncLayerButtonState()
 {
-
-  viewer.addTiledImage({
-        tileSource:
-        "maps/regular-main-branch-middle-2025-01-25-786433191.dzi",
-
-        x: 0.9859
-    });
-
-    viewer.addTiledImage({
-        tileSource:
-        "maps/regular-main-branch-left-2025-01-25-786433191.dzi",
-
-        x: 0
-    });
-
-  
-
-    viewer.addTiledImage({
-        tileSource:
-        "maps/regular-main-branch-right-2025-01-25-786433191.dzi",
-
-        x: 1.9718,
-         y: -0.0125   // start small
+    document.querySelectorAll('.layerButton[data-layer]').forEach(btn => {
+        const layerName = btn.dataset.layer;
+        const active = layerStates[layerName] ?? true;
+        btn.classList.toggle('active', active);
+        btn.classList.toggle('inactive', !active);
     });
 }
 
-async function loadMarkers()
+function loadMap(mapId = currentMapId)
 {
-    const markers =
-        await fetch("data/markers.json")
-        .then(r => r.json());
+    const map = mapDefinitions.find(entry => entry.id === mapId) ?? mapDefinitions[0];
 
-    markers.forEach(
-        createMarker
-    );
+    viewer.world.removeAll();
+    viewer.clearOverlays();
+    markerObjects.length = 0;
 
-    loadState();
+    map.tiles.forEach(tile => {
+        viewer.addTiledImage({
+            tileSource: tile.tileSource,
+            x: tile.x ?? 0,
+            y: tile.y ?? 0
+        });
+    });
+}
+
+async function loadMarkers(mapId = currentMapId)
+{
+    const map = mapDefinitions.find(entry => entry.id === mapId) ?? mapDefinitions[0];
+    const markersPath = map?.markersFile;
+
+    viewer.clearOverlays();
+    markerObjects.length = 0;
+
+    if (markersPath)
+    {
+        const markers = await fetch(markersPath).then(r => r.json());
+        markers.forEach(createMarker);
+    }
+
+    updateMarkerVisibility();
+    refreshCheckedMarkerVisuals();
+    updateUncheckButtonVisibility();
 }
 
 function makeId(title)
@@ -1070,40 +1252,28 @@ tooltip.addEventListener(
 
 function updateMarkerVisibility()
 {
-    // markerObjects.forEach(m =>
-    // {
-    //     const visible =
-    //         sublayerStates[m.sublayer] ?? true;
+    markerObjects.forEach(m => {
+        viewer.removeOverlay(m.element);
+    });
 
-    //     m.element.style.display =
-    //         visible ? "block" : "none";
-    // });
+    markerObjects.forEach(m =>
+    {
+        const layerVisible = layerStates[m.layer] ?? true;
+        const visible = sublayerStates[m.sublayer] ?? true;
 
-    
-    
-   markerObjects
-        .forEach(m =>
+        if (visible && layerVisible)
         {
-
-            const layerVisible = layerStates[m.layer] ?? true;
-
-            const visible =
-            sublayerStates[m.sublayer] ?? true;
-
-            if(visible && layerVisible)
-            {
-               
-                viewer.addOverlay({
-                    element: m.element,
-                    location: m.location  // 🔥 reuse exact object
-                });
-            }
-            else
-            {
-                viewer.removeOverlay(m.element);
-            }
-        });
-
+            viewer.addOverlay({
+                element: m.element,
+                location: m.location
+            });
+            m.element.style.display = "block";
+        }
+        else
+        {
+            m.element.style.display = "none";
+        }
+    });
 }
 
 let currentLayer = null;
@@ -1153,9 +1323,14 @@ function updateUncheckButtonVisibility()
 function saveState()
 {
     const state = {
-        layerStates: layerStates,
-        sublayerStates: sublayerStates,
-        checkedMarkers: Array.from(checkedMarkers),
+        currentMapId,
+        mapStates: Object.fromEntries(
+            Object.entries(mapStates).map(([id, mapState]) => [id, {
+                layerStates: { ...mapState.layerStates },
+                sublayerStates: { ...mapState.sublayerStates },
+                checkedMarkers: Array.from(mapState.checkedMarkers)
+            }])
+        ),
         tutorialVisible: document.getElementById('tutorialPanel')?.classList.contains('visible') ?? true
     };
     localStorage.setItem('noitaMapState', JSON.stringify(state));
@@ -1164,45 +1339,40 @@ function saveState()
 function loadState()
 {
     const saved = localStorage.getItem('noitaMapState');
-    if (!saved) return;
+    if (!saved) {
+        applyMapState(currentMapId);
+        syncLayerButtonState();
+        updateMarkerVisibility();
+        refreshCheckedMarkerVisuals();
+        updateUncheckButtonVisibility();
+        return;
+    }
     
     try {
         const state = JSON.parse(saved);
-        
-        // restore layer states
-        if (state.layerStates) {
-            Object.assign(layerStates, state.layerStates);
-            document.querySelectorAll('.layerButton[data-layer]').forEach(btn => {
-                const layer = btn.dataset.layer;
-                if (layerStates[layer]) {
-                    btn.classList.add('active');
-                    btn.classList.remove('inactive');
-                } else {
-                    btn.classList.remove('active');
-                    btn.classList.add('inactive');
-                }
+
+        if (state.currentMapId && mapDefinitions.some(map => map.id === state.currentMapId)) {
+            currentMapId = state.currentMapId;
+        }
+
+        if (state.mapStates) {
+            Object.entries(state.mapStates).forEach(([id, savedMapState]) => {
+                const mapState = ensureMapState(id);
+                mapState.layerStates = { ...(savedMapState.layerStates || {}) };
+                mapState.sublayerStates = { ...(savedMapState.sublayerStates || {}) };
+                mapState.checkedMarkers = new Set(savedMapState.checkedMarkers || []);
             });
         }
-        
-        // restore sublayer states
-        if (state.sublayerStates) {
-            Object.assign(sublayerStates, state.sublayerStates);
-        }
-        
-        // Update marker visibility after restoring both layer and sublayer states
+
+        applyMapState(currentMapId);
+        syncLayerButtonState();
         updateMarkerVisibility();
+        refreshCheckedMarkerVisuals();
+
+        const selector = document.getElementById('mapSelector');
+        if (selector)
+            selector.value = currentMapId;
         
-        // restore checked markers
-        if (state.checkedMarkers && Array.isArray(state.checkedMarkers)) {
-            state.checkedMarkers.forEach(id => checkedMarkers.add(id));
-            markerObjects.forEach(m => {
-                if (checkedMarkers.has(m.id)) {
-                    m.element.classList.add('checked');
-                }
-            });
-        }
-        
-        // restore tutorial state
         if (state.tutorialVisible !== undefined) {
             const panel = document.getElementById('tutorialPanel');
             const toggle = document.getElementById('tutorialToggle');
