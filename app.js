@@ -83,10 +83,9 @@ const mapDefinitions = [
         markersFile: "data/markers.json",
         layers: layerDefinitions,
         tiles: [
-            { tileSource: "maps/regular-main-branch-middle-2025-01-25-786433191.dzi", x: 0.9859 },
-            { tileSource: "maps/regular-main-branch-left-2025-01-25-786433191.dzi", x: 0 },
-            { tileSource: "maps/regular-main-branch-right-2025-01-25-786433191.dzi", x: 1.9718, y: -0.0125 }
-        ]
+            { tileSource: "https://github.com/Kunavi22/NoitaMapFiles/blob/master/regular-main-branch-middle-2025-01-25-786433191.dzi", x: 0.9859 },
+            { tileSource: "https://github.com/Kunavi22/NoitaMapFiles/blob/master/regular-main-branch-left-2025-01-25-786433191.dzi", x: 0 },
+            { tileSource: "https://github.com/Kunavi22/NoitaMapFiles/blob/master/regular-main-branch-right-2025-01-25-786433191.dzi", x: 1.9718, y: -0.0125 }]
     },
     {
         id: "newgame",
@@ -147,9 +146,9 @@ const mapDefinitions = [
             }
         ],
         tiles: [
-            { tileSource: "maps/NewGame/newgame-main-branch-middle-2025-01-25-786433191.dzi", x: 0.9859 },
-            { tileSource: "maps/NewGame/newgame-main-branch-left-2025-01-25-786433191.dzi", x: 0 },
-            { tileSource: "maps/NewGame/newgame-main-branch-right-2025-01-25-786433191.dzi", x: 1.9718, y: -0.0125 }
+            { tileSource: "https://github.com/Kunavi22/NoitaMapFiles/blob/master/NewGame/newgame-main-branch-middle-2025-01-25-786433191.dzi", x: 0.9859 },
+            { tileSource: "https://github.com/Kunavi22/NoitaMapFiles/blob/master/NewGame/newgame-main-branch-left-2025-01-25-786433191.dzi", x: 0 },
+            { tileSource: "https://github.com/Kunavi22/NoitaMapFiles/blob/master/NewGame/newgame-main-branch-right-2025-01-25-786433191.dzi", x: 1.9718, y: -0.0125 }
         ]
     },
     { id: "Yggdrasil", label: "Plane of Yggdrasil", markersFile: null, layers: [], disabled: true },
@@ -170,6 +169,21 @@ let sublayerStates = {};
 let currentMapId = "regular";
 
 let markerTooltipTimer;
+
+function normalizeTileSource(tileSource)
+{
+    if (typeof tileSource !== "string")
+        return tileSource;
+
+    const githubBlobMatch = tileSource.match(/^https?:\/\/github\.com\/([^/]+)\/([^/]+)\/blob\/(.+)$/i);
+    if (githubBlobMatch)
+    {
+        const [, owner, repo, path] = githubBlobMatch;
+        return `https://raw.githubusercontent.com/${owner}/${repo}/${path}`;
+    }
+
+    return tileSource;
+}
 
 function ensureMapState(mapId)
 {
@@ -303,7 +317,7 @@ loadTutorialPannel();
 function addMap(tile)
 {
     viewer.addTiledImage({
-        tileSource: tile,
+        tileSource: normalizeTileSource(tile),
         success: function(event)
         {
             const item = event.item;
@@ -546,7 +560,7 @@ function loadMap(mapId = currentMapId)
 
     map.tiles.forEach(tile => {
         viewer.addTiledImage({
-            tileSource: tile.tileSource,
+            tileSource: normalizeTileSource(tile.tileSource),
             x: tile.x ?? 0,
             y: tile.y ?? 0
         });
