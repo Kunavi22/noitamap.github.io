@@ -151,7 +151,26 @@ const mapDefinitions = [
             { tileSource: "https://github.com/Kunavi22/NoitaMapFiles/blob/master/NewGame/newgame-main-branch-right-2025-01-25-786433191.dzi", x: 1.9718, y: -0.0125 }
         ]
     },
-    { id: "Yggdrasil", label: "Plane of Yggdrasil", markersFile: null, layers: [], disabled: true },
+    { 
+         id: "Yggdrasil",
+        label: "Plane of Yggdrasil",
+   
+        layers: [
+             {
+                id: "Apotheosis",
+                icon: "icons/Apotheosis.png",
+                sublayers: [
+                     ],
+                defaultOn: false
+            }
+        ],
+        tiles: [
+            { tileSource: "https://github.com/Kunavi22/NoitaMapFiles/blob/master/Yggdrasil/yggdrasil-main-branch-middle-2025-01-25-786433191.dzi", x: 0.9859 },
+            { tileSource: "https://github.com/Kunavi22/NoitaMapFiles/blob/master/Yggdrasil/yggdrasil-main-branch-left-2025-01-25-786433191.dzi", x: 0 },
+            { tileSource: "https://github.com/Kunavi22/NoitaMapFiles/blob/master/Yggdrasil/yggdrasil-main-branch-right-2025-01-25-786433191.dzi", x: 1.9718, y: -0.0125 }
+        ]
+ 
+    },
     { id: "Soul", label: "Plane of Soul", markersFile: null, layers: [], disabled: true },
     { id: "Experimentation", label: "Plane of Experimentation", markersFile: null, layers: [], disabled: true },
     { id: "Empyrean", label: "Empyrean", markersFile: null, layers: [], disabled: true }
