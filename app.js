@@ -150,6 +150,74 @@ const mapDefinitions = [
             { tileSource: "https://github.com/Kunavi22/NoitaMapFiles/blob/master/NewGame/newgame-main-branch-left-2025-01-25-786433191.dzi", x: 0 },
             { tileSource: "https://github.com/Kunavi22/NoitaMapFiles/blob/master/NewGame/newgame-main-branch-right-2025-01-25-786433191.dzi", x: 1.9718, y: -0.0125 }
         ]
+    },  
+    {
+        id: "Tounela",
+        label: "Tounela",
+        markersFile: "data/tuonela-markers.json",
+        layers: [
+           {
+        id: "Noita",
+        icon: "icons/noitaLogo.png",
+        sublayers: [
+            { id: "vanilla_bosses", label: "Bosses", icon: "icons/boss.webp", defaultOn: true },
+            { id: "vanilla_structures", label: "Structures", icon: "icons/Star.png", defaultOn: false },
+            { id: "vanilla_items", label: "Items", icon: "icons/Vanilla/Items/Item_evil_eye.webp", defaultOn: false },
+            { id: "vanilla_orbs", label: "Orbs", icon: "icons/Vanilla/Orbs/orb_empty.gif", defaultOn: true }
+        ],
+        defaultOn: false
+    },
+    {
+        id: "Apotheosis",
+        icon: "icons/Apotheosis.png",
+        sublayers: [
+            { id: "apotheosis_bosses", label: "Bosses", icon: "icons/boss.webp", defaultOn: true },
+            { id: "apotheosis_orbs", label: "Orbs", icon: "icons/Vanilla/Orbs/orb_empty.gif", defaultOn: true },
+            { id: "apotheosis_secrets", label: "Points of interest", icon: "icons/SharedIcons/Secret.png", defaultOn: true }
+        ],
+        defaultOn: false
+    },
+    {
+        id: "Graham's things",
+        icon: "icons/Graham.png",
+        sublayers: [
+            { id: "graham_secrets", label: "Points of interest", icon: "icons/SharedIcons/Secret.png", defaultOn: true },
+            { id: "graham_items", label: "Wands", icon: "icons/GrahamThings/Mod_GT-Experimentalwand.png", defaultOn: true },
+            { id: "graham_techchest", label: "Tech chests", icon: "icons/GrahamThings/Mod_GT-Techchest.webp", defaultOn: true }
+        ],
+        defaultOn: false
+    },
+    {
+        id: "New enemies",
+        icon: "icons/NewEnemies2.png",
+        sublayers: [
+            { id: "NE_Elemental", label: "Essence Bosses", icon: "icons/Vanilla/Items/Special_Perk_essence_water.webp", defaultOn: true },
+            { id: "NE_Special", label: "Special Bosses", icon: "icons/Star.png", defaultOn: true },
+            { id: "NE_Orb", label: "Orb Bosses", icon: "icons/Vanilla/Orbs/orb_empty.gif", defaultOn: true }
+        ],
+        defaultOn: false
+    },
+    {
+        id: "Chemical curiosities",
+        icon: "icons/ChemicalCuriosities.png",
+        sublayers: [],
+        defaultOn: false
+    },
+    {
+        id: "Other",
+        icon: "icons/Other.png",
+        sublayers: [
+            { id: "Varia", label: "Varia Addons", icon: "icons/Other/Varia/shovel_golden.png", defaultOn: true },
+            { id: "SmallMods", label: "Small Mods", icon: "icons/Star.png", defaultOn: true }
+        ],
+        defaultOn: false
+    }
+        ],
+        tiles: [
+            { tileSource: "https://github.com/Kunavi22/NoitaMapFiles/blob/master/Tuonela/tuonela-main-branch-middle-2025-01-25-786433191.dzi", x: 0.9859 },
+            { tileSource: "https://github.com/Kunavi22/NoitaMapFiles/blob/master/Tuonela/tuonela-main-branch-left-2025-01-25-786433191.dzi", x: 0 },
+            { tileSource: "https://github.com/Kunavi22/NoitaMapFiles/blob/master/Tuonela/tuonela-main-branch-right-2025-01-25-786433191.dzi", x: 1.9718, y: -0.0125 }
+        ]
     },
     { 
          id: "Yggdrasil",
